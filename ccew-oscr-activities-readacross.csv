@@ -1,0 +1,39 @@
+ccew-classno,ccew-classtext,oscr-group,oscr-label
+201,CHILDREN/YOUNG PEOPLE,beneficiaries,Children / young people 
+202,ELDERLY/OLD PEOPLE,beneficiaries,Older people 
+203,PEOPLE WITH DISABILITIES,beneficiaries,People with disabilities or health problems 
+204,PEOPLE OF A PARTICULAR ETHNIC OR RACIAL ORIGIN,beneficiaries,People of a particular ethnic or racial origin 
+205,OTHER CHARITIES OR VOLUNTARY BODIES,beneficiaries,Other charities / voluntary bodies 
+206,OTHER DEFINED GROUPS,beneficiaries,Other defined groups 
+207,THE GENERAL PUBLIC/MANKIND,beneficiaries,"No specific group, or for the benefit of the community"""
+101,GENERAL CHARITABLE PURPOSES,purposes,Any other purpose that may reasonably be regarded as analogous to any of the preceding purposes 
+102,EDUCATION/TRAINING,purposes,The advancement of education 
+103,THE ADVANCEMENT OF HEALTH OR SAVING OF LIVES,purposes,The advancement of health 
+103,THE ADVANCEMENT OF HEALTH OR SAVING OF LIVES,purposes,The saving of lives 
+104,DISABILITY,purposes,"The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage"
+105,THE PREVENTION OR RELIEF OF POVERTY,purposes,The prevention or relief of poverty 
+106,OVERSEAS AID/FAMINE RELIEF,purposes,"The relief of those in need by reason of age, ill health, disability, financial hardship or other disadvantage"
+107,ACCOMMODATION/HOUSING,purposes,Any other purpose that may reasonably be regarded as analogous to any of the preceding purposes 
+108,RELIGIOUS ACTIVITIES,purposes,The advancement of religion 
+109,ARTS/CULTURE/HERITAGE/SCIENCE,purposes,"The advancement of the arts, heritage, culture or science "
+110,AMATEUR SPORT,purposes,The advancement of public participation in sport 
+111,ANIMALS,purposes,The advancement of animal welfare 
+112,ENVIRONMENT/CONSERVATION/HERITAGE,purposes,The advancement of environmental protection or improvement 
+112,ENVIRONMENT/CONSERVATION/HERITAGE,purposes,"The advancement of the arts, heritage, culture or science "
+113,ECONOMIC/COMMUNITY DEVELOPMENT/EMPLOYMENT,purposes,The advancement of citizenship or community development 
+114,ARMED FORCES/EMERGENCY SERVICE EFFICIENCY,purposes,Any other purpose that may reasonably be regarded as analogous to any of the preceding purposes 
+115,HUMAN RIGHTS/RELIGIOUS OR RACIAL HARMONY/EQUALITY OR DIVERSITY,purposes,"The advancement of human rights, conflict resolution or reconciliation "
+115,HUMAN RIGHTS/RELIGIOUS OR RACIAL HARMONY/EQUALITY OR DIVERSITY,purposes,The promotion of religious or racial harmony 
+115,HUMAN RIGHTS/RELIGIOUS OR RACIAL HARMONY/EQUALITY OR DIVERSITY,purposes,The promotion of equality and diversity 
+116,RECREATION,purposes,"The provision of recreational facilities, or the organisation of recreational activities, with the object of improving the conditions of life for the persons for whom the facilities or activities are primarily intended "
+117,OTHER CHARITABLE PURPOSES,purposes,Any other purpose that may reasonably be regarded as analogous to any of the preceding purposes 
+301,MAKES GRANTS TO INDIVIDUALS,activities,"It makes grants, donations, loans, gifts or pensions to individuals "
+302,MAKES GRANTS TO ORGANISATIONS,activities,"It makes grants, donations or gifts to organisations "
+303,PROVIDES OTHER FINANCE,activities,It carries out activities or services itself 
+304,PROVIDES HUMAN RESOURCES,activities,It carries out activities or services itself 
+305,PROVIDES BUILDINGS/FACILITIES/OPEN SPACE,activities,It carries out activities or services itself 
+306,PROVIDES SERVICES,activities,It carries out activities or services itself 
+307,PROVIDES ADVOCACY/ADVICE/INFORMATION,activities,It carries out activities or services itself 
+308,SPONSORS OR UNDERTAKES RESEARCH,activities,It carries out activities or services itself 
+309,ACTS AS AN UMBRELLA OR RESOURCE BODY,activities,It carries out activities or services itself 
+310,OTHER CHARITABLE ACTIVITIES,activities,It does none of these
