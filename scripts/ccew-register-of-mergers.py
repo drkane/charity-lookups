@@ -1,0 +1,111 @@
+import re
+import argparse
+import pandas as pd
+
+# updated version of https://gist.github.com/drkane/0faa257e447452661a4d
+
+# default location of the register of mergers
+# looks like they've started renaming the file, so needs to be looked up each month
+ROM_FILE = "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/713071/rom_may18.xls"
+
+# function for spliting dataframe rows based on separating a column
+# from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
+def splitDataFrameList(df,target_column,separator):
+    ''' df = dataframe to split,
+    target_column = the column containing the values to split
+    separator = the symbol used to perform the split
+    returns: a dataframe with each entry for the target column separated, with each element moved into a new row. 
+    The values in the other columns are duplicated across the newly divided rows.
+    '''
+    row_accumulator = []
+
+    def splitListToRows(row, separator):
+        split_row = re.split(separator, row[target_column])
+        for s in split_row:
+            new_row = row.to_dict()
+            new_row[target_column] = s
+            row_accumulator.append(new_row)
+
+    df.apply(splitListToRows, axis=1, args = (separator, ))
+    new_df = pd.DataFrame(row_accumulator)
+    return new_df
+
+
+def parse_rom(rom):
+    """
+    Takes a link to the register of mergers and returns a formatted dataset
+    """
+
+    print("Loading data from {}".format(rom))
+
+    # load the file into pandas
+    rom_df = pd.read_excel(rom)
+
+    original_rows = len(rom_df)
+    print("{:,.0f} rows loaded".format(len(rom_df)))
+
+    # rename the columns for ease of use
+    rom_df.columns = ["transferor_name",
+                    "transferee_name", 
+                    "date_vesting_declaration", 
+                    "date_property_transferred", 
+                    "date_merger_registered"]
+    
+    # look for rows split by lots of spaces
+    rom_df = splitDataFrameList(rom_df, "transferor_name", r"\s\s\s\s+")
+    print("{:,.0f} rows added by splitting rows".format(len(rom_df)-original_rows))
+
+    # look for charity numbers in the data
+    # charity number extraction includes looking for subsidiary numbers
+    regno_regex = r'\(([0-9]{6,7})([\-\/]([0-9]+))?\)'
+
+    for f in ["transferor", "transferee"]:
+        regno = rom_df[f + "_name"].str.extract(regno_regex, expand=True)
+        rom_df.loc[:, f + "_regno"] = regno[0]
+        rom_df.loc[:, f + "_subno"] = regno[2].fillna(0)
+        rom_df.loc[:, f + "_name"] = rom_df[f + "_name"].str.replace(regno_regex, '')
+        rom_df.loc[rom_df[f + "_regno"].isnull(), f + "_subno"] = None
+    print("Charity numbers extracted")
+    print("{:,.0f} transferees don't have charity numbers".format(len(rom_df[rom_df.transferee_regno.isnull()])))
+    print("{:,.0f} transferors don't have charity numbers".format(len(rom_df[rom_df.transferor_regno.isnull()])))
+
+    # trim fields
+    for f in ["transferor_name", "transferee_name"]:
+        rom_df.loc[:, f] = rom_df[f].str.strip()
+        rom_df.loc[:, f] = rom_df[f].str.strip(",")
+
+    # force dates into format
+    date_fields = ["date_vesting_declaration",
+          "date_property_transferred",
+          "date_merger_registered"]
+    for f in date_fields:
+        rom_df.loc[:, f] = pd.to_datetime(rom_df[f], errors='ignore')
+    print("{:,.0f} rows don't have a valid date".format(len(rom_df[date_fields].dropna(how='all'))-len(rom_df)  ))
+
+    # reorder the columns
+    rom_df = rom_df[["transferor_name",
+                    "transferor_regno",
+                    "transferor_subno",
+                    "transferee_name",
+                    "transferee_regno",
+                    "transferee_subno",
+                    "date_vesting_declaration",
+                    "date_property_transferred",
+                    "date_merger_registered"]]
+
+    return rom_df
+
+
+def main():
+
+    parser = argparse.ArgumentParser(description='Import the Charity Commission register of mergers')
+    parser.add_argument("--input", default=ROM_FILE, help='The register of mergers file')
+    parser.add_argument("--output", default='../ccew-register-of-mergers.csv', help='CSV file to output data in')
+    args = parser.parse_args()
+    
+    rom_df = parse_rom(args.input)
+    rom_df.to_csv(args.output, index=False, date_format='%Y-%m-%d')
+    print("{:,.0f} rows saved to {}".format(len(rom_df), args.output))
+
+if __name__ == '__main__':
+    main()
