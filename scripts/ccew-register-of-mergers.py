@@ -1,12 +1,13 @@
 import re
 import argparse
+import csv
 import pandas as pd
 
 # updated version of https://gist.github.com/drkane/0faa257e447452661a4d
 
 # default location of the register of mergers
 # looks like they've started renaming the file, so needs to be looked up each month
-ROM_FILE = "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/713071/rom_may18.xls"
+ROM_FILE = "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/721794/rom_june18.xls"
 
 # function for spliting dataframe rows based on separating a column
 # from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
@@ -104,7 +105,7 @@ def main():
     args = parser.parse_args()
     
     rom_df = parse_rom(args.input)
-    rom_df.to_csv(args.output, index=False, date_format='%Y-%m-%d')
+    rom_df.to_csv(args.output, index=False, date_format='%Y-%m-%d', quoting=csv.QUOTE_NONNUMERIC)
     print("{:,.0f} rows saved to {}".format(len(rom_df), args.output))
 
 if __name__ == '__main__':
