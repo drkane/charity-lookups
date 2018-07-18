@@ -15,7 +15,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 102931,King's House School,312669,,KINGS HOUSE SCHOOL TRUST (RICHMOND) LIMITED
 102932,Lady Eleanor Holles School,1130254,,LADY ELEANOR HOLLES SCHOOL
 102933,The Mall School,,,
-102934,Newland House School,,,
+102934,Newland House School,312670,,NEWLAND HOUSE SCHOOL TRUST LIMITED
 102935,The Old Vicarage School,312671,,OLD VICARAGE SCHOOL TRUST
 102936,St Catherine's School,260815,,ST CATHERINE'S SCHOOL
 102937,Tower House School,1068844,,TOWER HOUSE SCHOOL CHARITABLE FOUNDATION
@@ -33,7 +33,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 102949,The Montessori Pavilion School,,,
 102950,The Harrodian School,,,
 102951,Sunflower Montessori School,,,
-103015,Homefield Preparatory School,,,
+103015,Homefield Preparatory School,312753,,HOMEFIELD PREPARATORY SCHOOL TRUST LIMITED
 103016,Ambleside Junior School,,,
 103017,Collingwood School,,,
 103018,Glaisdale School,,,
@@ -132,7 +132,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 105116,Highfield School,,,
 105117,Pershore House School,,,
 105118,Prenton Preparatory School,,,
-105119,Westbourne School,,,
+105119,Westbourne School,529381,,WESTBOURNE SCHOOL TRUST LIMITED
 105120,Marymount School,,,
 105121,Kingsmead School,525920,,KINGSMEAD SCHOOL HOYLAKE TRUST LIMITED
 105122,Avalon School,1088050,,AVALON SCHOOL EDUCATIONAL TRUST
@@ -177,7 +177,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 128294,Newbury Preparatory School,,,
 105854,Convent Primary School,,,
 105855,Beech House School,,,
-105856,Glebe House School,,,
+105856,Glebe House School,1018815,,GLEBE HOUSE SCHOOL TRUST LIMITED
 105857,Emmanuel Christian School,1073526,,EMMANUEL CHRISTIAN SCHOOL
 105990,Ash Lea School,,,
 105991,Branwood Preparatory School,515073,,BRANWOOD SCHOOL TRUST LIMITED
@@ -241,7 +241,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 106964,Rudston Preparatory School,529438,,RUDSTON PREPARATORY SCHOOL TRUST LIMITED
 126701,Classes Francophones De Londres,1003583,,CLASSES FRANCOPHONES DE LONDRES LIMITED
 107161,Ashdell Preparatory School,,,
-107162,Westbourne School,,,
+107162,Westbourne School,529381,,WESTBOURNE SCHOOL TRUST LIMITED
 107163,Birkdale School,1018973,,BIRKDALE SCHOOL
 107164,Brantwood School,,,
 107165,Mylnhurst Catholic Prep School & Nursery,1124227,,MYLNHURST SPORTS EDUCATION & LEISURE
@@ -324,7 +324,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 108540,Newcastle Preparatory School,528152,,NEWCASTLE PREPARATORY SCHOOL TRUST LIMITED
 108541,Akhurst Private School,,,
 108542,Westfield School,,,
-108543,Ascham House School,,,
+108543,Ascham House School,510529,,ASCHAM HOUSE SCHOOL TRUST LIMITED
 108544,Newcastle School for Boys,503975,,NEWCASTLE SCHOOL FOR BOYS
 108545,Eastcliffe School,,,
 108546,Central Newcastle High School,306983,,GIRLS' DAY SCHOOL TRUST
@@ -451,7 +451,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 110135,Lambrook School,309098,,LAMBROOK SCHOOL TRUST LIMITED
 110136,Luckley House School,309099,,LUCKLEY HOUSE SCHOOL LIMITED
 110137,Reddam House Berkshire,,,
-110138,Ludgrove School,,,
+110138,Ludgrove School,309100,,LUDGROVE SCHOOL TRUST LIMITED
 110139,Douai School,1070551,,DOUAI SCHOOL
 110140,Elstree School,309101,,ELSTREE SCHOOL LIMITED
 110141,Newbold School,,,
@@ -507,9 +507,9 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 110549,Thornton College,1064059,,FRIENDS OF THORNTON
 110550,Beachborough School,309910,,BEACHBOROUGH SCHOOL TRUST LIMITED
 110551,Swanbourne House School,310640,,SWANBOURNE HOUSE SCHOOL TRUST LIMITED
-110552,Chesham Preparatory School,,,
+110552,Chesham Preparatory School,310642,,CHESHAM PREPARATORY SCHOOL TRUST LIMITED
 110553,The Beacon School,,,
-110554,Dair House School,,,
+110554,Dair House School,270719,,DAIR HOUSE SCHOOL TRUST LIMITED
 110555,Thorpe House School,292683,,THORPE HOUSE SCHOOL TRUST
 110556,Gateway School,,,
 110557,Crown House School,,,
@@ -556,7 +556,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 110936,St Paul's School,1119619,,ST PAUL'S SCHOOL
 111474,Beech Hall School,1045425,,BEECH HALL PARENTS ASSOCIATION
 111466,Abbey Gate Prep School,,,
-111467,St Hilary's School,,,
+111467,St Hilary's School,312056,,ST HILARY'S SCHOOL TRUST LIMITED
 111468,The Ryleys School,,,
 111469,Merton House School,,,
 111470,Firs School,1160339,,FIRS PARENTS GROUP
@@ -565,7 +565,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 111473,The King's School In Macclesfield,,,
 111475,Mostyn House School,1048117,,MOSTYN HOUSE SCHOOL
 111476,Sandbach School,525861,,SANDBACH SCHOOL FOUNDATION
-111477,Wilmslow Preparatory School,,,
+111477,Wilmslow Preparatory School,525924,,WILMSLOW PREPARATORY SCHOOL TRUST LIMITED
 111478,Alderley Edge School for Girls,1006726,,ALDERLEY EDGE SCHOOL FOR GIRLS
 111479,Yorston Lodge School,,,
 111480,St Bride's School,,,
@@ -654,7 +654,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 113568,Stoodley Knowle School,,,
 113569,Allhallows College,1043008,,ALLHALLOWS COLLEGE LIMITED
 113570,Elm Grove School,,,
-113572,Mount House School,,,
+113572,Mount House School,270147,,MOUNT HOUSE SCHOOL TRUST LIMITED
 113573,Mount Kelly,,,
 113574,Trinity School,515960,,TRINITY SCHOOL
 113575,Blundell's School,1081249,,BLUNDELL'S SCHOOL
@@ -671,7 +671,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 113587,St Peter's School,,,
 113588,The Dolphin School,,,
 113589,Grenville College,306718,,GRENVILLE COLLEGE
-113590,Manor House School,,,
+113590,Manor House School,307347,,MANOR HOUSE SCHOOL TRUST LIMITED
 113592,Marland School,,,
 113593,St Dunstan's Abbey School,,,
 113594,Fletewood School at Derry Villas,1045587,,SOUTH ENGLAND CONFERENCE OF SEVENTH DAY ADVENTISTS
@@ -739,11 +739,11 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 113941,Talbot House School,,05727550,
 113943,Ringwood Waldorf School,1158673,,RINGWOOD WALDORF SCHOOL
 113944,St Thomas Garnet's School,,,
-113945,Talbot Heath School,,,
+113945,Talbot Heath School,283708,,TALBOT HEATH SCHOOL TRUST LIMITED
 113946,Harrow House International College,,,
 113948,Sherborne International,,,
 113949,Clayesmore Preparatory School,306214,,CLAYESMORE SCHOOL
-113951,Connaught House School,,,
+113951,Connaught House School,307964,,CONNAUGHT HOUSE SCHOOL TRUST LIMITED
 113953,Franklyn House School,,,
 126570,Hampstead Hill Pre-Preparatory School,,,
 114643,Broomham School,,,
@@ -771,14 +771,14 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 114621,Brighton College Prep School,,,
 114622,Battle Abbey School,,,
 114623,Cumnor House School,801924,,CUMNOR HOUSE SCHOOL TRUST
-114624,Ashdown House School,,00961616,
+114624,Ashdown House School,269929,00961616,ASHDOWN HOUSE SCHOOL TRUST LIMITED
 114625,Michael Hall School,307006,,MICHAEL HALL SCHOOL
 114634,Lewes Old Grammar School,1163491,,LEWES OLD GRAMMAR SCHOOL TRUST
 114626,Lancing College Preparatory School At Hove,,,
 114627,Mayfield School,1047503,,MAYFIELD SCHOOL LIMITED
 114628,Newlands School,,,
 114629,Vinehall School,307014,,VINEHALL SCHOOL LIMITED
-114630,Temple Grove School,,,
+114630,Temple Grove School,307016,,TEMPLE GROVE SCHOOL TRUST LIMITED
 114631,"Bellerbys College, Wadhurst",,,
 114632,Amberley Kindergarten School,,,
 114633,Skippers Hill Manor School,,,
@@ -809,7 +809,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 114664,Bellerbys College Brighton,,,
 114665,Torah Academy,,,
 114666,The Young Sussex School,,,
-114667,Stoke Brunswick School,,,
+114667,Stoke Brunswick School,307011,,STOKE BRUNSWICK SCHOOL TRUST LIMITED
 114672,Brighton and Hove Montessori School,,,
 114673,The Dharma Primary School,1015691,,DHARMA PRIMARY SCHOOL
 114674,Stonelands School of Ballet and Theatre Arts,,,
@@ -870,7 +870,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 115783,Hatherop Castle School,311710,,HATHEROP CASTLE SCHOOL LIMITED
 115784,St Clotilde's School,,,
 115785,Dean Close St John's,,,
-115786,Beaudesert Park School,,,
+115786,Beaudesert Park School,311711,,BEAUDESERT PARK SCHOOL TRUST LIMITED
 115787,Rendcomb College,1115884,,RENDCOMB COLLEGE
 115788,Wycliffe College,,,
 115789,Westonbirt School,,,
@@ -898,7 +898,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 116598,Yago School Uk Limited,,,
 116556,Glenhurst School,,,
 116512,Mayfield School,1047503,,MAYFIELD SCHOOL LIMITED
-116513,Rookwood School,,,
+116513,Rookwood School,307322,,ROOKWOOD SCHOOL TRUST LIMITED
 116514,Sherborne House School,,,
 116515,Hampshire Collegiate School,1016538,,UNITED CHURCH SCHOOLS TRUST
 116516,St Neot's School,,,
@@ -907,7 +907,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 116519,Forres Sandle Manor School,,,
 116520,Cheam School,290143,,CHEAM SCHOOL EDUCATIONAL TRUST
 116521,Lord Wandsworth College,1143359,,LORD WANDSWORTH COLLEGE
-116522,Durlston Court School,,,
+116522,Durlston Court School,307325,,DURLSTON COURT SCHOOL TRUST LIMITED
 116557,Fairlands Nursery & Pre School,,,
 116524,Ballard School,307328,,BALLARD SCHOOL LIMITED
 116525,Walhampton School,,,
@@ -915,7 +915,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 116527,Bedales School,307332,,BEDALES SCHOOL
 116528,"Stroud, the King Edward VI Preparatory School",,,
 116529,North Foreland Lodge School,,,
-116530,Norman Court,,,
+116530,Norman Court,307426,,NORMAN COURT TRUST LIMITED
 116531,Rookesbury Park School,307334,,ROOKESBURY PARK LIMITED
 116532,Winchester College,1139000,,WARDEN AND SCHOLARS OF ST MARY COLLEGE OF WINCHESTER
 116533,Nethercliffe School,,,
@@ -927,7 +927,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 116539,St Benedict's Convent School,1100169,,ST BENEDICT'S CONVENT SCHOOL
 116540,Woodhill Preparatory School,,,
 116541,Wykeham House School,307339,,WYKEHAM HOUSE SCHOOL TRUST
-116542,Farleigh School,,,
+116542,Farleigh School,1157842,,FARLEIGH SCHOOL TRUST LIMITED
 116543,Salesian College,1130166,,SALESIAN COLLEGE FARNBOROUGH LIMITED
 116544,Rushmoor Independent Preparatory School,,,
 116545,St Anne's School,,,
@@ -940,10 +940,10 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 116553,Yateley Manor School,307374,,YATELEY MANOR SCHOOL LIMITED
 116554,Seafield School,,,
 116555,HawleyHurst School,,,
-116558,Boundary Oak School,,,
+116558,Boundary Oak School,307346,,BOUNDARY OAK SCHOOL TRUST LIMITED
 116559,Moyles Court School,,05727550,
 116560,Avonlea School,,,
-116561,Inhurst House School,,,
+116561,Inhurst House School,307348,,INHURST HOUSE SCHOOL TRUST LIMITED
 116562,Stockton House School,,,
 116563,Meoncross School,,02313425,
 116573,Mayville High School,286347,,MAYVILLE HIGH SCHOOL LIMITED
@@ -992,7 +992,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 117011,Abberley Hall School,527598,,ABBERLEY HALL LIMITED
 117012,Bromsgrove School,1098740,,BROMSGROVE SCHOOL
 117013,Whitford Hall School,,,
-117014,Winterfold House School,,,
+117014,Winterfold House School,1063133,,WINTERFOLD HOUSE SCHOOL TRUST LIMITED
 117015,Holy Trinity School,,,
 117016,The Knoll School,527600,,KNOLL SCHOOL EDUCATIONAL TRUST (KIDDERMINSTER) LIMITED
 117017,Malvern College,527578,,MALVERN COLLEGE
@@ -1035,7 +1035,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 117608,Aldwickbury School,311059,,ALDWICKBURY SCHOOL TRUST LIMITED
 117609,Queenswood School,311060,,QUEENSWOOD SCHOOL LIMITED
 117610,Westbrook Hay Prep School,292537,,WESTBROOK HAY EDUCATIONAL TRUST LIMITED
-117611,Lockers Park School,,,
+117611,Lockers Park School,311061,,LOCKERS PARK SCHOOL TRUST LIMITED
 117612,St Christopher School,,,
 117613,St Francis College,287694,,ST FRANCIS' COLLEGE TRUST
 117614,Princess Helena College,311064,,PRINCESS HELENA COLLEGE
@@ -1053,7 +1053,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 117627,St Hilda's School,,,
 117628,Duncombe School,,02313425,
 117629,St Joseph's in the Park,1111064,,ST JOSEPH'S IN THE PARK SCHOOL
-117630,Kingshott School,,,
+117630,Kingshott School,280626,,KINGSHOTT SCHOOL TRUST LIMITED
 117631,Rudolf Steiner School,311027,,RUDOLF STEINER SCHOOL KING'S LANGLEY LIMITED
 117632,The Barn School,,,
 117633,St Edmund's College,,,
@@ -1205,7 +1205,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 128751,Torbay Preparatory School,,,
 128752,Morice School,,,
 128753,Plymouth Rudolf Steiner School,290365,,PLYMOUTH RUDOLF STEINER SCHOOL LIMITED
-126801,Beresford House School,,,
+126801,Beresford House School,307070,,BERESFORD HOUSE SCHOOL TRUST LIMITED
 126802,Bramble Wood School,,,
 128754,Exeter Tutorial College,,,
 119846,Preston Muslim Girls' High School,,,
@@ -1251,7 +1251,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 126609,Beis Ahaion School,,,
 126610,Stoke Newington Mission Paradigm School,,,
 126611,The Home School of Stoke Newington,,,
-120314,Manor House School,,,
+120314,Manor House School,307347,,MANOR HOUSE SCHOOL TRUST LIMITED
 120315,Nevill Holt School,,,
 120316,Ratcliffe College,1144450,,RATCLIFFE COLLEGE FOUNDATION
 120317,Our Lady's Convent School,1081765,,LOUGHBOROUGH ENDOWED SCHOOLS
@@ -1309,7 +1309,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 121249,The Small School At Red House,,,
 121221,Riddlesworth Hall School,311267,,RIDDLESWORTH HALL SCHOOL LIMITED
 121222,Gresham's School,1105500,,GRESHAM'S SCHOOL
-121223,Glebe House School,,,
+121223,Glebe House School,1018815,,GLEBE HOUSE SCHOOL TRUST LIMITED
 121224,Langley School,311270,,LANGLEY SCHOOL
 121225,Langley Preparatory School At Taverham Hall,,,
 121226,Stretton School at West Lodge,,,
@@ -1320,7 +1320,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 121232,Thorpe House School,,,
 121233,St Nicholas House School,,,
 121234,Silfield School,,,
-121235,Cawston College,,,
+121235,Cawston College,311276,,CAWSTON COLLEGE TRUST LIMITED
 121236,Langley Preparatory School,,,
 121237,Town Close House Preparatory School,311293,,TOWN CLOSE HOUSE EDUCATIONAL TRUST LIMITED
 121238,Hawthorn House School,,,
@@ -1335,7 +1335,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 121251,Downham Preparatory School and Montessori Nursery,,,
 121253,Emmanuel Christian School,1073526,,EMMANUEL CHRISTIAN SCHOOL
 128798,Hurn Court School,,,
-130191,Springfield Park School,,,
+130191,Springfield Park School,307047,,SPRINGFIELD PARK SCHOOL TRUST LIMITED
 130192,Forest Grange School,,,
 121727,Clifton Preparatory School,,,
 121736,Ayton School,,,
@@ -1354,10 +1354,10 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 121730,Scarborough College,529686,,SCARBOROUGH COLLEGE
 121731,The Minster School,,,
 121732,Terrington Hall School,532362,,TERRINGTON HALL TRUST LIMITED
-121733,Fyling Hall School,,,
+121733,Fyling Hall School,507857,,FYLING HALL SCHOOL TRUST LIMITED
 121734,St Hilda's School,,,
 121735,Ampleforth College,1063808,,ST LAURENCE EDUCATION TRUST
-121738,Aysgarth School,,,
+121738,Aysgarth School,529538,,AYSGARTH SCHOOL TRUST LIMITED
 121739,Sedbergh Junior School,1080672,,SEDBERGH SCHOOL
 121740,Giggleswick School,1109826,,GIGGLESWICK SCHOOL
 121741,Harrogate Ladies' College,529579,,HARROGATE LADIES' COLLEGE LIMITED
@@ -1382,7 +1382,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 121760,St Andrew's Preparatory School,,,
 121761,Harrogate Tutorial College,,,
 121763,Wharfedale Montessori School,,,
-122125,Winchester House School,,,
+122125,Winchester House School,309912,,WINCHESTER HOUSE SCHOOL TRUST LIMITED
 122126,St Peter's School (Sunnylands Ltd),,,
 122127,Maidwell Hall School,309917,,MAIDWELL HALL SCHOOL
 122128,Laxton School,,,
@@ -1483,8 +1483,8 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 123303,Cranford House School Trust Limited,280883,,CRANFORD HOUSE SCHOOL TRUST LIMITED
 123304,Ferndale House Preparatory School,,,
 123305,Millbrook House School,,,
-123306,Moulsford Preparatory School,,,
-123307,Josca's Preparatory School,,,
+123306,Moulsford Preparatory School,309643,,MOULSFORD PREPARATORY SCHOOL TRUST LIMITED
+123307,Josca's Preparatory School,309644,,JOSCA'S PREPARATORY SCHOOL TRUST LIMITED
 123308,The Manor Preparatory School,900347,,MANOR PREPARATORY SCHOOL TRUST
 123309,Our Lady's Convent Junior School,,,
 123310,Oxford High School GDST,306983,,GIRLS' DAY SCHOOL TRUST
@@ -1516,7 +1516,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 123608,Shrewsbury School,528413,,SHREWSBURY SCHOOL
 123609,The Old Hall School,,,
 123610,Wrekin College,,,
-123611,Castle House School,,,
+123611,Castle House School,510515,,CASTLE HOUSE SCHOOL TRUST LIMITED
 123613,Oswestry School,1079822,,OSWESTRY SCHOOL
 123614,St Winefride's Convent School,,,
 123615,The White House School,,,
@@ -1532,7 +1532,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 123905,King's Bruton,,,
 123906,St Christopher's School,,,
 123907,Rossholme School,,,
-123908,Perrott Hill School,,,
+123908,Perrott Hill School,310278,,PERROTT HILL SCHOOL TRUST LIMITED
 123909,All Hallows School,310281,,ALL HALLOWS (CRANMORE HALL) SCHOOL TRUST LIMITED
 123910,Downside School,1158507,,DOWNSIDE ABBEY GENERAL TRUST
 123911,Millfield School,310283,,MILLFIELD
@@ -1573,7 +1573,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 124481,Edenhurst Preparatory School,,,
 124482,Denstone College Preparatory School,1102929,,SMALLWOOD MANOR PREPARATORY SCHOOL LIMITED
 124484,St Joseph's Preparatory School,,,
-124485,St Dominic's Independent Junior School,,,
+124485,St Dominic's Independent Junior School,512798,,ST DOMINIC'S INDEPENDENT JUNIOR SCHOOL TRUST LIMITED
 124486,Chase Grammar School,,,
 124487,Newcastle-under-Lyme School,1124463,,NEWCASTLE-UNDER-LYME SCHOOL
 124489,Stafford Grammar School,513031,,STAFFORD INDEPENDENT GRAMMAR SCHOOL
@@ -1590,7 +1590,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 124869,Starting Points (Southfield PNEU),,,
 124870,Summerhill School,1089804,,A S NEILL SUMMERHILL TRUST
 124871,Fairfield Preparatory School,,,
-124872,Fairstead House School,,,
+124872,Fairstead House School,276787,,FAIRSTEAD HOUSE SCHOOL TRUST LIMITED
 124873,Old Buckenham Hall School,,,
 124874,Hillcroft Preparatory School,,,
 124875,Barnardiston Hall Preparatory School,,,
@@ -1620,14 +1620,14 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 125319,Priory School,1016538,,UNITED CHURCH SCHOOLS TRUST
 125320,St Catherine's School,260815,,ST CATHERINE'S SCHOOL
 125321,Reeds School,,,
-125322,Prior's Field School,,,
+125322,Prior's Field School,312038,,PRIOR'S FIELD SCHOOL TRUST LIMITED
 125323,Cranleigh School,1070856,,CRANLEIGH SCHOOL
 125324,Nower Lodge School,,,
 125325,New Lodge School,,,
 125326,Parkside School,312041,,PARKSIDE SCHOOL TRUST
 125327,Virginia Water Preparatory School,312042,,VIRGINIA WATER PREPARATORY SCHOOL LIMITED
 125328,Bishopsgate School,1060511,,BISHOPSGATE SCHOOL LIMITED
-125329,Kingswood House School,,,
+125329,Kingswood House School,312044,,KINGSWOOD HOUSE SCHOOL TRUST LIMITED
 125330,Lynton Preparatory School,,,
 125331,St Christopher's School,,,
 125332,Epsom College,,,
@@ -1639,17 +1639,17 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 125338,Frensham Heights School,,,
 125339,Elmhurst School for Dance,1040286,,ELMHURST BALLET SCHOOL
 125340,Charterhouse,312054,,CHARTERHOUSE SCHOOL
-125341,St Hilary's School,,,
+125341,St Hilary's School,312056,,ST HILARY'S SCHOOL TRUST LIMITED
 125342,Guildford High School,1016538,,UNITED CHURCH SCHOOLS TRUST
 125343,Lanesborough School,,,
 125344,Rydes Hill Preparatory School,299411,,RYDES HILL SCHOOL GUILDFORD
 125345,Tormead School,312057,,TORMEAD LIMITED
-125346,Amesbury School,,,
-125347,St Edmund's School,,,
+125346,Amesbury School,312058,,AMESBURY SCHOOL TRUST LIMITED
+125347,St Edmund's School,278301,,ST EDMUND'S SCHOOL TRUST LIMITED
 125348,The Royal School,,,
 125349,City of London Freemen's School,,,
 125351,Downsend School,,,
-125352,Manor House School,,,
+125352,Manor House School,307347,,MANOR HOUSE SCHOOL TRUST LIMITED
 125353,"St John's School, Leatherhead",,,
 125354,St Michael's School,,,
 125355,The Hawthorns School,312067,,HAWTHORNS EDUCATIONAL TRUST LIMITED
@@ -1758,7 +1758,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 125780,Warwick Preparatory School,1088057,,WARWICK INDEPENDENT SCHOOLS FOUNDATION
 128857,Holme Park School,,,
 125781,Warwick School,,,
-125782,Wroxall Abbey School,,,
+125782,Wroxall Abbey School,528777,,WROXALL ABBEY SCHOOL TRUST LIMITED
 125783,Abbotsford School,,,
 125784,Crescent School,,,
 125785,The Elfin Pre-Preparatory and Nursery School,,,
@@ -1791,8 +1791,8 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 126123,St Margaret's Senior School,,,
 126124,The Towers Convent School,229394,,SISTERS OF THE BLESSED SACRAMENT
 126125,Lavant House,307372,,LAVANT HOUSE SCHOOL EDUCATIONAL TRUST LIMITED
-126126,Farlington School,,,
-126127,Arundale School,,,
+126126,Farlington School,307048,,FARLINGTON SCHOOL TRUST LIMITED
+126127,Arundale School,307049,,ARUNDALE SCHOOL TRUST LIMITED
 126128,St Joseph's Dominican School,,,
 126129,Southdown Pre-Preparatory School and Nursery,,,
 126130,Great Ballard School,,,
@@ -1811,11 +1811,11 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 126146,The Acorns School,,,
 126147,Kingsway School,,,
 126148,St Margaret's School,,,
-126150,Brambletye School,,,
+126150,Brambletye School,307003,,BRAMBLETYE SCHOOL TRUST LIMITED
 126151,Highfield and Brookham Schools,,,
 128858,Legat School,,,
 128859,The Mount School,,,
-128860,Stoke Brunswick School,,,
+128860,Stoke Brunswick School,307011,,STOKE BRUNSWICK SCHOOL TRUST LIMITED
 126512,Stonar School,309481,,STONAR SCHOOL
 126513,St Mary's School (Snr) and St Margaret's School (Prep),,,
 126514,Grittleton House School,,,
@@ -1825,7 +1825,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 126518,Salisbury Cathedral School,1093554,,SALISBURY CATHEDRAL SCHOOL LIMITED
 126519,The Godolphin School,309488,,GODOLPHIN SCHOOL
 126520,Leaden Hall School,309489,,LEADEN HALL SCHOOL LIMITED
-126521,Sandroyd School,,,
+126521,Sandroyd School,309490,,SANDROYD SCHOOL TRUST LIMITED
 126522,Warminster School,1042204,,WARMINSTER SCHOOL
 126523,Avondale Preparatory School,,,
 126524,Heywood Prep,,,
@@ -1925,7 +1925,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 128042,Laurieston School,,,
 128136,King David School,,,
 128137,Gefrin Midgard School,,,
-128207,Tonstall School,,,
+128207,Tonstall School,532320,,TONSTALL SCHOOL TRUST LIMITED
 128208,Kol Hatorah School,,,
 128246,Redland High Junior School,,,
 128238,Clarks Grammar School,,,
@@ -1936,7 +1936,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 128243,St Antony's Prep School,,,
 128244,Copperfields School,,,
 128245,Highdene School,,,
-128265,Clarendon School,,,
+128265,Clarendon School,314298,,CLARENDON SCHOOL TRUST LIMITED
 128303,The Beacon Tutorial,,,
 128304,Littlewick Green Montessori,,,
 128352,Oakdene School,,,
@@ -1970,8 +1970,8 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 128760,Plantings School,,,
 128761,Belmont House School,,,
 128762,Village School,,,
-128863,Beresford House School,,,
-128791,Forres School,,,
+128863,Beresford House School,307070,,BERESFORD HOUSE SCHOOL TRUST LIMITED
+128791,Forres School,306221,,FORRES SCHOOL TRUST LIMITED
 128792,College of the Sacred Hearts,,,
 128793,Thornlow Junior School,,,
 128794,St Genevieve's Convent School,,,
@@ -2025,7 +2025,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 128929,Barling Magna Independent School,,,
 128930,Witham Bible Training Centre,,,
 128963,Oakley Hall School,,,
-128964,Brightlands School,,,
+128964,Brightlands School,311712,,BRIGHTLANDS SCHOOL TRUST LIMITED
 128965,The Salesian School,,,
 128966,Nelson School,,,
 128967,Croft Hall School,,,
@@ -2043,7 +2043,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 129056,Pixie Kindergarten and Junior School,,,
 129057,Moreton House School,,,
 129058,Drayton Manor School,,,
-129059,Northcliffe School,,,
+129059,Northcliffe School,307350,,NORTHCLIFFE SCHOOL TRUST LIMITED
 129060,Oaklands School,,,
 129061,Oakmore School,,,
 129062,Allington Manor School,,,
@@ -2058,8 +2058,8 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 129096,Holbrook Manor School,,,
 129097,Sacred Heart College,,,
 129098,Lawnside School,,,
-129099,Ellerslie School,,,
-129100,Hillstone School,,,
+129099,Ellerslie School,527572,,ELLERSLIE SCHOOL TRUST LIMITED
+129100,Hillstone School,529966,,HILLSTONE SCHOOL TRUST LIMITED
 129101,Wells House School,527517,,WELLS HOUSE SCHOOL LIMITED
 129102,Berrow Wood School,,,
 129104,The Lovett School,,,
@@ -2078,7 +2078,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 129442,St Stephen's College,,,
 129443,The Nativity School,,,
 129444,St Nicholas Preparatory School,,,
-129445,St Hilary's School,,,
+129445,St Hilary's School,312056,,ST HILARY'S SCHOOL TRUST LIMITED
 129446,Fosse Bank Preparatory School,,,
 129447,Knowle Court School,,,
 129448,Apple Tree Cottage School,,,
@@ -2531,7 +2531,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 132846,The John Loughborough School,,,
 132848,Lantern of Knowledge Secondary School,1111331,,LANTERN OF KNOWLEDGE EDUCATIONAL TRUST
 132851,One World Montessori Nursery and Pre-Preparartory School,,,
-132892,Hordle House School,,,
+132892,Hordle House School,307326,,HORDLE HOUSE SCHOOL TRUST LIMITED
 132897,St Anne's Preparatory School,,,
 132935,Edgbaston College Preparatory School,,,
 132939,Allington Manor School,,,
@@ -2938,7 +2938,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 136000,The Gateshead Cheder Primary School,,,
 136004,Eton Community School,,,
 136023,Iqra Academy,,,
-136043,House of Light,,,
+136043,House of Light,512619,,HOUSE OF LIGHT TRUST LIMITED
 136036,Anderida Therapeutic Learning Centre,,,
 136037,Al-Noor College,,,
 136038,Farrow House (Continuum),,,
@@ -3310,7 +3310,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 100003,City of London School,,,
 100061,St Christopher's School,,,
 100062,St Margaret's School,,,
-100063,Sarum Hall School,,,
+100063,Sarum Hall School,312721,,SARUM HALL SCHOOL TRUST LIMITED
 100088,UCS Pre-Prep,1098657,,UCS PRE-PREP LIMITED
 100064,The Hall School,312722,,HALL SCHOOL CHARITABLE TRUST
 100065,University College School,,,
@@ -3393,12 +3393,12 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 100508,Glendower Preparatory School,,,
 100509,Kensington Prep School,306983,,GIRLS' DAY SCHOOL TRUST
 100510,Norland Place School,1048833,,NORLAND PLACE SCHOOL
-100511,Queen's Gate School,,,
+100511,Queen's Gate School,312724,,QUEEN'S GATE SCHOOL TRUST LIMITED
 100512,Lycee Francais Charles De Gaulle,,,
 100513,Bassett House School,,,
 100514,Sussex House School,1035806,,SUSSEX HOUSE SCHOOL
 100515,Lady Eden's School,,,
-100516,St Philip's School,,,
+100516,St Philip's School,288887,,ST PHILIP'S SCHOOL TRUST LIMITED
 100517,Allendale Preparatory School,,,
 100518,Hill House International Junior School,,,
 100519,Wetherby School,,00438111,
@@ -3497,7 +3497,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 101161,Francis Holland School,,,
 101162,Westminster School,,,
 101163,"The Hampshire School, Chelsea",,,
-101164,Connaught House School,,,
+101164,Connaught House School,307964,,CONNAUGHT HOUSE SCHOOL TRUST LIMITED
 101165,Westminster Under School,,,
 101166,Westminster Cathedral Choir School,1063761,,WESTMINSTER CATHEDRAL CHOIR SCHOOL
 101167,McCaffrey's School,,,
@@ -3522,11 +3522,11 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 101367,Mill Hill School Foundation,1064758,,MILL HILL SCHOOL FOUNDATION
 101368,Hendon Preparatory School,279645,02313425,HENDON PREPARATORY SCHOOL
 101369,The King Alfred School,,,
-101370,Lyonsdown School,,,
+101370,Lyonsdown School,312591,,LYONSDOWN SCHOOL TRUST LIMITED
 101371,Mill Hill School,310034,,MILL HILL SCHOOL
 101372,The Mount School,,,
 101373,St Martha's Junior School,,,
-101374,Mount House School,,,
+101374,Mount House School,270147,,MOUNT HOUSE SCHOOL TRUST LIMITED
 101375,Annemount School,,,
 101377,Golders Hill School,,,
 101378,Goodwyn School,,,
@@ -3605,7 +3605,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 101948,Barbara Speake Stage School,,,
 101949,The Falcons School for Girls,,00438111,
 101950,Ealing College Upper School,,,
-101951,Manor House School,,,
+101951,Manor House School,307347,,MANOR HOUSE SCHOOL TRUST LIMITED
 101952,St Angelo Preparatory School,,,
 101954,Notting Hill and Ealing High School,306983,,GIRLS' DAY SCHOOL TRUST
 101955,Clifton Lodge School,,02313425,
@@ -3674,7 +3674,7 @@ URN,EstablishmentName,charity_number,company_number,charity_name
 102552,St Thoma's More School,,,
 102553,Park School,297797,,PARK SCHOOL
 102609,Holy Cross Preparatory School,238426,,SISTERS OF THE HOLY CROSS CHARITABLE TRUST
-102610,Shrewsbury House School,,,
+102610,Shrewsbury House School,277324,,SHREWSBURY HOUSE SCHOOL TRUST LIMITED
 102611,Surbiton High School,1016538,,UNITED CHURCH SCHOOLS TRUST
 102612,Rokeby School,312653,,ROKEBY EDUCATIONAL TRUST LIMITED
 102613,Bretby House School,,,
