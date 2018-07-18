@@ -34,6 +34,10 @@ Academy trusts with UK company number. [Sourced from Whole of Government Account
 
 - [Originally kept in a Github gist](https://gist.github.com/drkane/1cc51bd96b64fe813f6f556558f8da62)
 
+## independent-schools-ew.csv
+
+A list of independent schools (sourced from [what used to be Edubase](https://get-information-schools.service.gov.uk/Downloads)) with their charity/company number if known.
+
 ## ccew-register-of-mergers.csv
 
 Register of Mergers maintained by the Charity Commission for England and Wales, converted into CSV format with
