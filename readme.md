@@ -58,3 +58,7 @@ Description of hierarchy of Part B fields from Charity Commission for England an
 Lookups for colleges in Oxford and Cambridge University to charity numbers
 
 - [Originally a Google spreadsheet](https://docs.google.com/spreadsheets/d/1PffGSBy7C-79RCdGEIV-Ox6rDVs4oGAvcobVblQjiXY/edit#gid=0)
+
+## university-royal-charters.csv
+
+Lookups from universities (using URN numbers) to royal charter numbers (given as a company number).
