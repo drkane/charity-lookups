@@ -23,8 +23,8 @@ inc_total		| numeric		| Total Incoming resources                            |
 invest_gain		| numeric		| Gains/loss on investments                           | 
 asset_gain		| numeric		| Revaluations of fixed assets                        | 
 pension_gain	| numeric		| Gains/loss on Pension Fund                          | 
-exp_vol			| numeric		| Voluntary income costs                              | 
-exp_trade		| numeric		| Fundraising Trading costs                           | 
+exp_vol			| numeric		| Voluntary income costs                              | From financial year ending 2016 and later, this figure is not reported
+exp_trade		| numeric		| Fundraising Trading costs                           | From financial year ending 2016 and later, this figure is not reported
 exp_invest		| numeric		| Investment Management costs                         | 
 exp_grant		| numeric		| Grants to institutions                              | 
 exp_charble		| numeric		| Charitable Activities costs                       |  (includes `exp_grant`) 
@@ -61,6 +61,11 @@ are actually subcategories of others. The table below shows the structure of the
 the categories in higher levels add up to their parents (sometimes with a residual field 
 that isn't in the dataset).
 
+\* For records with a financial year ending in 2016 or later, the `exp_trade` (fundraising
+trading costs) and `exp_vol` (voluntary income costs) figures are not provided. It's not
+possible to derive the individual figures from the rest of the data, but you can work out
+the sum of both of them using `exp_total - (exp_other + exp_charble + exp_invest)`.
+
 <table class="docutils">
 <thead>
 <tr>
@@ -79,8 +84,8 @@ that isn't in the dataset).
 <tr><td colspan="3">invest_gain</td></tr>
 <tr><td colspan="3">asset_gain</td></tr>
 <tr><td colspan="3">pension_gain</td></tr>
-<tr><td rowspan="7">exp_total</td><td rowspan="3">(Cost of generating funds)</td><td colspan="1">exp_vol</td></tr>
-<tr><td colspan="1">exp_trade</td></tr>
+<tr><td rowspan="7">exp_total</td><td rowspan="3">(Cost of generating funds)</td><td colspan="1">exp_vol*</td></tr>
+<tr><td colspan="1">exp_trade*</td></tr>
 <tr><td colspan="1">exp_invest</td></tr>
 <tr><td rowspan="2">exp_charble</td><td>exp_grant</td></tr>
 <tr><td>(residual [exp_charble - exp_grant])</td></tr>
