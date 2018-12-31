@@ -64,7 +64,7 @@ that isn't in the dataset).
 \* For records with a financial year ending in 2016 or later, the `exp_trade` (fundraising
 trading costs) and `exp_vol` (voluntary income costs) figures are not provided. It's not
 possible to derive the individual figures from the rest of the data, but you can work out
-the sum of both of them using `exp_total - (exp_other + exp_charble + exp_invest)`.
+the sum of both of them using `exp_total - (exp_other + exp_charble + exp_gov + exp_invest)`.
 
 <table class="docutils">
 <thead>
