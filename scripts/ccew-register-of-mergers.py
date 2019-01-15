@@ -7,17 +7,18 @@ import pandas as pd
 
 # default location of the register of mergers
 # looks like they've started renaming the file, so needs to be looked up each month
-ROM_FILE = "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/721794/rom_june18.xls"
+ROM_FILE = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/770066/Register_of_merged_charities_Dec_18.csv"
 
 # function for spliting dataframe rows based on separating a column
 # from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
-def splitDataFrameList(df,target_column,separator):
+def splitDataFrameList(df, target_column, separator):
     ''' df = dataframe to split,
     target_column = the column containing the values to split
     separator = the symbol used to perform the split
-    returns: a dataframe with each entry for the target column separated, with each element moved into a new row. 
+    returns: a dataframe with each entry for the target column separated, with each element moved into a new row.
     The values in the other columns are duplicated across the newly divided rows.
     '''
+
     row_accumulator = []
 
     def splitListToRows(row, separator):
@@ -27,7 +28,7 @@ def splitDataFrameList(df,target_column,separator):
             new_row[target_column] = s
             row_accumulator.append(new_row)
 
-    df.apply(splitListToRows, axis=1, args = (separator, ))
+    df.apply(splitListToRows, axis=1, args=(separator, ))
     new_df = pd.DataFrame(row_accumulator)
     return new_df
 
@@ -40,18 +41,29 @@ def parse_rom(rom):
     print("Loading data from {}".format(rom))
 
     # load the file into pandas
-    rom_df = pd.read_excel(rom)
+    rom_df = pd.read_csv(rom, skip_blank_lines=True, encoding='latin_1')
+
+    # remove any blank rows
+    rom_df = rom_df.dropna(how='all')
 
     original_rows = len(rom_df)
     print("{:,.0f} rows loaded".format(len(rom_df)))
 
+    # drop any empty columns
+    non_null_columns = [
+        col for col in rom_df.columns if rom_df.loc[:, col].notna().any()]
+    rom_df = rom_df[non_null_columns]
+
     # rename the columns for ease of use
+    print("Existing columns:")
+    for c in rom_df.columns:
+        print(" - {}".format(c))
     rom_df.columns = ["transferor_name",
-                    "transferee_name", 
-                    "date_vesting_declaration", 
-                    "date_property_transferred", 
-                    "date_merger_registered"]
-    
+                      "transferee_name",
+                      "date_vesting_declaration",
+                      "date_property_transferred",
+                      "date_merger_registered"]
+
     # look for rows split by lots of spaces
     rom_df = splitDataFrameList(rom_df, "transferor_name", r"\s\s\s\s+")
     print("{:,.0f} rows added by splitting rows".format(len(rom_df)-original_rows))
@@ -75,24 +87,35 @@ def parse_rom(rom):
         rom_df.loc[:, f] = rom_df[f].str.strip()
         rom_df.loc[:, f] = rom_df[f].str.strip(",")
 
+
     # force dates into format
     date_fields = ["date_vesting_declaration",
-          "date_property_transferred",
-          "date_merger_registered"]
+                   "date_property_transferred",
+                   "date_merger_registered"]
     for f in date_fields:
-        rom_df.loc[:, f] = pd.to_datetime(rom_df[f], errors='ignore')
-    print("{:,.0f} rows don't have a valid date".format(len(rom_df[date_fields].dropna(how='all'))-len(rom_df)  ))
+
+        # fix date typos
+        rom_df.loc[:, f] = rom_df[f].str.replace("`", "")
+        rom_df.loc[:, f] = rom_df[f].str.replace("I ", "01 ")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Janaury", "January")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Marhc", "March")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Ju;u", "June")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Octboer", "October")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Deceber", "December")
+
+        rom_df.loc[:, f] = pd.to_datetime(rom_df[f])
+    print("{:,.0f} rows don't have a valid date".format(len(rom_df[date_fields].dropna(how='all'))-len(rom_df)))
 
     # reorder the columns
     rom_df = rom_df[["transferor_name",
-                    "transferor_regno",
-                    "transferor_subno",
-                    "transferee_name",
-                    "transferee_regno",
-                    "transferee_subno",
-                    "date_vesting_declaration",
-                    "date_property_transferred",
-                    "date_merger_registered"]]
+                     "transferor_regno",
+                     "transferor_subno",
+                     "transferee_name",
+                     "transferee_regno",
+                     "transferee_subno",
+                     "date_vesting_declaration",
+                     "date_property_transferred",
+                     "date_merger_registered"]]
 
     return rom_df
 
@@ -103,7 +126,7 @@ def main():
     parser.add_argument("--input", default=ROM_FILE, help='The register of mergers file')
     parser.add_argument("--output", default='../ccew-register-of-mergers.csv', help='CSV file to output data in')
     args = parser.parse_args()
-    
+
     rom_df = parse_rom(args.input)
     rom_df.to_csv(args.output, index=False, date_format='%Y-%m-%d', quoting=csv.QUOTE_NONNUMERIC)
     print("{:,.0f} rows saved to {}".format(len(rom_df), args.output))
