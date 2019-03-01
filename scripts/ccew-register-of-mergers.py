@@ -1,13 +1,14 @@
 import re
 import argparse
 import csv
+import os
 import pandas as pd
 
 # updated version of https://gist.github.com/drkane/0faa257e447452661a4d
 
 # default location of the register of mergers
 # looks like they've started renaming the file, so needs to be looked up each month
-ROM_FILE = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/770066/Register_of_merged_charities_Dec_18.csv"
+ROM_FILE = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/778427/Mergers_Register_January_2019_v1.xls"
 
 # function for spliting dataframe rows based on separating a column
 # from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
@@ -41,7 +42,10 @@ def parse_rom(rom):
     print("Loading data from {}".format(rom))
 
     # load the file into pandas
-    rom_df = pd.read_csv(rom, skip_blank_lines=True, encoding='latin_1')
+    if rom.endswith("csv"):
+        rom_df = pd.read_csv(rom, skip_blank_lines=True, encoding='latin_1')
+    elif rom.endswith("xls"):
+        rom_df = pd.read_excel(rom, skip_blank_lines=True, encoding='latin_1')
 
     # remove any blank rows
     rom_df = rom_df.dropna(how='all')
@@ -98,10 +102,12 @@ def parse_rom(rom):
         rom_df.loc[:, f] = rom_df[f].str.replace("`", "")
         rom_df.loc[:, f] = rom_df[f].str.replace("I ", "01 ")
         rom_df.loc[:, f] = rom_df[f].str.replace("Janaury", "January")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Janurary", "January")
         rom_df.loc[:, f] = rom_df[f].str.replace("Marhc", "March")
         rom_df.loc[:, f] = rom_df[f].str.replace("Ju;u", "June")
         rom_df.loc[:, f] = rom_df[f].str.replace("Octboer", "October")
         rom_df.loc[:, f] = rom_df[f].str.replace("Deceber", "December")
+        rom_df.loc[:, f] = rom_df[f].str.replace("Decimber", "December")
 
         rom_df.loc[:, f] = pd.to_datetime(rom_df[f])
     print("{:,.0f} rows don't have a valid date".format(len(rom_df[date_fields].dropna(how='all'))-len(rom_df)))
@@ -124,7 +130,7 @@ def main():
 
     parser = argparse.ArgumentParser(description='Import the Charity Commission register of mergers')
     parser.add_argument("--input", default=ROM_FILE, help='The register of mergers file')
-    parser.add_argument("--output", default='../ccew-register-of-mergers.csv', help='CSV file to output data in')
+    parser.add_argument("--output", default=os.path.join(os.path.dirname(__file__), '..', 'ccew-register-of-mergers.csv'), help='CSV file to output data in')
     args = parser.parse_args()
 
     rom_df = parse_rom(args.input)
