@@ -78,6 +78,14 @@ Lookups for colleges in Oxford and Cambridge University to charity numbers
 
 Lookups from universities (using URN numbers) to royal charter numbers (given as a company number).
 
+# Other organisation lookups
+
+## [mutuals-suffixes.csv](mutuals-suffixes.csv)
+
+A list of suffixes for organisations registered on the Mutuals Public Register. 
+
+- [Original Source](https://mutuals.fca.org.uk/Home/Glossary)
+
 # Classifications
 
 A collection of definitions of classifications relevant to non profit organisations.
