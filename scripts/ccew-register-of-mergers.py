@@ -8,7 +8,7 @@ import pandas as pd
 
 # default location of the register of mergers
 # looks like they've started renaming the file, so needs to be looked up each month
-ROM_FILE = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/778427/Mergers_Register_January_2019_v1.xls"
+ROM_FILE = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807237/mergers_may19.xlsx"
 
 # function for spliting dataframe rows based on separating a column
 # from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
@@ -44,7 +44,7 @@ def parse_rom(rom):
     # load the file into pandas
     if rom.endswith("csv"):
         rom_df = pd.read_csv(rom, skip_blank_lines=True, encoding='latin_1')
-    elif rom.endswith("xls"):
+    elif rom.endswith("xls") or rom.endswith("xlsx"):
         rom_df = pd.read_excel(rom, skip_blank_lines=True, encoding='latin_1')
 
     # remove any blank rows
@@ -97,6 +97,9 @@ def parse_rom(rom):
                    "date_property_transferred",
                    "date_merger_registered"]
     for f in date_fields:
+
+        if not rom_df[f].apply(type).eq(str).any():
+            continue
 
         # fix date typos
         rom_df.loc[:, f] = rom_df[f].str.replace("`", "")
