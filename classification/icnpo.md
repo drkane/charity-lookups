@@ -50,9 +50,7 @@ Organizations and activities in general and specialized fields of culture and re
 
 ### 1 200 Sports
 
-- **provision of amateur sport, training, physical fitness, and sport competition services and events; includes fitness**
-
-and wellness centers.
+- **provision of amateur sport, training, physical fitness, and sport competition services and events; includes fitness and wellness centers.**
 
 ### 1 300 Other Recreation and Social Clubs
 
@@ -64,8 +62,8 @@ and wellness centers.
 
 - **Service clubs**
 
-membership organizations providing services to members and local communities, for example: Lions, Zonta
-International, Rotary Club, Kiwanis.
+    membership organizations providing services to members and local communities, for example: Lions, Zonta
+    International, Rotary Club, Kiwanis.
 
 ## GROUP 2: EDUCATION AND RESEARCH
 
