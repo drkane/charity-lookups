@@ -74,6 +74,10 @@ Lookups for colleges in Oxford and Cambridge University to charity numbers
 
 - [Originally a Google spreadsheet](https://docs.google.com/spreadsheets/d/1PffGSBy7C-79RCdGEIV-Ox6rDVs4oGAvcobVblQjiXY/edit#gid=0)
 
+## [university-charity-number.csv](university-charity-number.csv)
+
+Lookups from universities (using HESA ID) to charity numbers (given as a Org ID).
+
 ## [university-royal-charters.csv](university-royal-charters.csv)
 
 Lookups from universities (using URN numbers) to royal charter numbers (given as a company number).
