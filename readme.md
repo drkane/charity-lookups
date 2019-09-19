@@ -56,6 +56,14 @@ Description of hierarchy of Part B fields from Charity Commission for England an
 
 - [Originally kept in a Github gist](https://gist.github.com/drkane/bae3fc8413e0075c7b7a496bb27ac3ee)
 
+## [federated-charities](federated-charities.csv)
+
+A list of charities that are part of a federation. THe list is mainly based on keyword
+searching within the names of charities, rather than from official membership lists. This
+means that these should not be taken as an official list of the members of federal body.
+Some organisations will not be affiliated to the parent body, or may have been wrongly 
+included based on words in their name.
+
 # Education charity lookups
 
 ## [academy-trusts-company-number.csv](academy-trusts-company-number.csv)
