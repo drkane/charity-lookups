@@ -4,6 +4,8 @@ A collection of useful data and notes for using UK charity data.
 
 Contributions/pull requests welcome, particularly keeping the lists of charities up-to-date.
 
+This data is made available under the [Open Database License](http://opendatacommons.org/licenses/odbl/1.0/). Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
+
 ## [dual-registered-uk-charities.csv](dual-registered-uk-charities.csv)
 
 A list of charities which are registered with both the Charity Commission for England and Wales (CCEW) and the Office of the Scottish Charity Regulator (OSCR)
