@@ -2,13 +2,14 @@ import re
 import argparse
 import csv
 import os
+
 import pandas as pd
+from requests_html import HTMLSession
 
 # updated version of https://gist.github.com/drkane/0faa257e447452661a4d
 
 # default location of the register of mergers
-# looks like they've started renaming the file, so needs to be looked up each month
-ROM_FILE = "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807237/mergers_may19.xlsx"
+ROM_PAGE = "https://www.gov.uk/government/publications/register-of-merged-charities"
 
 # function for spliting dataframe rows based on separating a column
 # from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
@@ -32,6 +33,14 @@ def splitDataFrameList(df, target_column, separator):
     df.apply(splitListToRows, axis=1, args=(separator, ))
     new_df = pd.DataFrame(row_accumulator)
     return new_df
+
+def find_rom(rom_page):
+    """
+    Find the latest register of mergers on a page
+    """
+    session = HTMLSession()
+    r = session.get(rom_page)
+    return next(l for l in r.html.absolute_links if l.endswith(".xlsx"))
 
 
 def parse_rom(rom):
@@ -98,22 +107,27 @@ def parse_rom(rom):
                    "date_merger_registered"]
     for f in date_fields:
 
-        if not rom_df[f].apply(type).eq(str).any():
+        rows_with_str = rom_df[f].apply(type).eq(str)
+
+        if not rows_with_str.any():
             continue
 
         # fix date typos
-        rom_df.loc[:, f] = rom_df[f].str.replace("`", "")
-        rom_df.loc[:, f] = rom_df[f].str.replace("I ", "01 ")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Janaury", "January")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Janurary", "January")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Marhc", "March")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Ju;u", "June")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Octboer", "October")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Deceber", "December")
-        rom_df.loc[:, f] = rom_df[f].str.replace("Decimber", "December")
-
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("`", "")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("I ", "01 ")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Janaury", "January")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Janurary", "January")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Marhc", "March")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Ju;u", "June")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Octboer", "October")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Deceber", "December")
+        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Decimber", "December")
+        
         rom_df.loc[:, f] = pd.to_datetime(rom_df[f])
-    print("{:,.0f} rows don't have a valid date".format(len(rom_df[date_fields].dropna(how='all'))-len(rom_df)))
+
+    without_date_field = len(rom_df[date_fields].dropna(how='all'))
+
+    print("{:,.0f} rows don't have a valid date".format(len(rom_df)-without_date_field))
 
     # reorder the columns
     rom_df = rom_df[["transferor_name",
@@ -132,11 +146,13 @@ def parse_rom(rom):
 def main():
 
     parser = argparse.ArgumentParser(description='Import the Charity Commission register of mergers')
-    parser.add_argument("--input", default=ROM_FILE, help='The register of mergers file')
+    parser.add_argument("--input", default=ROM_PAGE, help='The register of mergers file')
     parser.add_argument("--output", default=os.path.join(os.path.dirname(__file__), '..', 'ccew-register-of-mergers.csv'), help='CSV file to output data in')
     args = parser.parse_args()
 
-    rom_df = parse_rom(args.input)
+    rom_link = find_rom(args.input)
+
+    rom_df = parse_rom(rom_link)
     rom_df.to_csv(args.output, index=False, date_format='%Y-%m-%d', quoting=csv.QUOTE_NONNUMERIC)
     print("{:,.0f} rows saved to {}".format(len(rom_df), args.output))
 
