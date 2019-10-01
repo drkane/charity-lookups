@@ -1,0 +1,77 @@
+﻿ICNPO code,ICNPO category,ISIC code,ISIC Category,Many to many,SIC,SIC name
+1 100,Culture and arts,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+1 100,Culture and arts,9233,Botanical and zoological gardens and nature reserves activities,3,91040,Botanical and zoological gardens and nature reserve activities
+1 100,Culture and arts,9214,"Dramatic arts, music and other arts activities",1,90010,Performing arts
+1 100,Culture and arts,9231,Library and archives activities,1,91011,Library activities
+1 100,Culture and arts,9211,Motion picture and video production and distribution,1,59112,Video production activities
+1 100,Culture and arts,9232,Museums activities and preservation of historical sites and buildings and buildings,1,91020,Museum activities
+1 100,Culture and arts,2219,Other publishing,1,58190,Other publishing activities
+1 100,Culture and arts,2211,"Publishing of books, brochures, musical books and other publications",1,58110,Book publishing
+1 100,Culture and arts,2212,"Publishing of newspapers, journals and periodicals",1,58142,"Publishing of consumer, business and professional journals and periodicals"
+1 100,Culture and arts,2213,Publishing of recorded media,1,59200,Sound recording and music publishing activities
+1 100,Culture and arts,9213,Radio and television activities,1,59113,Television programme production activities
+1 200,Sports,9241,Sporting activities,1,93120,Activities of sport clubs
+1 300,Other recreation and social clubs,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+1 300,Other recreation and social clubs,9249,Other recreational activities,2,93290,Other amusement and recreation activities
+2 100,Primary and secondary education,8021,General secondary education,1,85310,General secondary education
+2 100,Primary and secondary education,8010,Primary education,1,85200,Primary education
+2 200,Higher education,8030,Higher education,1,85421,First-degree level higher education
+2 300,Other education (vocational/technical schools),8090,Adult and other education,2,,
+2 300,Other education (vocational/technical schools),8022,Technical and vocational secondary education,1,85320,Technical and vocational secondary education
+2 400,"Research (medical research, science and technology)",7310,Research and experimental development on natural sciences and engineering (NSE),1,72190,Other research and experimental development on natural sciences and engineering
+2 400,"Research (medical research, science and technology)",7320,Research and experimental development on social sciences and humanities (SSH),1,72200,Research and experimental development on social sciences and humanities
+3 100,Hospitals and rehabilitation,8511,Hospital activities,2,86101,Hospital activities
+3 200,Nursing homes,8519,Other human health activities,3,86900,Other human health activities
+3 300,Mental health and crisis intervention,8511,Hospital activities,2,86101,Hospital activities
+3 300,Mental health and crisis intervention,8512,Medical and dental practice activities,2,86210,General medical practice activities
+3 300,Mental health and crisis intervention,8519,Other human health activities,3,86900,Other human health activities
+3 300,Mental health and crisis intervention,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+3 400,Other health services,8512,Medical and dental practice activities,2,86210,General medical practice activities
+3 400,Other health services,8519,Other human health activities,3,86900,Other human health activities
+3 400,Other health services,9000,"Sewage and refuse disposal, sanitation and similar activities",2,39000,Remediation activities and other waste management services
+4 100,Social services,8531,Social work with accommodation,1,87300,Residential care activities for the elderly and disabled
+4 100,Social services,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+4 200,Emergency and relief,7523,Public order and safety activities,2,84240,Public order and safety activities
+4 200,Emergency and relief,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+4 300,Income support and maintenance,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+5 100,Environment,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+5 100,Environment,9233,Botanical and zoological gardens and nature reserves activities,3,91040,Botanical and zoological gardens and nature reserve activities
+5 100,Environment,9000,"Sewage and refuse disposal, sanitation and similar activities",2,39000,Remediation activities and other waste management services
+5 200,Animal protection,140,"Agricultural and animal husbandry service activities, except veterinary activities",1,0142,Raising of dairy cattle
+5 200,Animal protection,9233,Botanical and zoological gardens and nature reserves activities,3,91040,Botanical and zoological gardens and nature reserve activities
+5 200,Animal protection,8520,Veterinary activities,1,75000,Veterinary activities
+6 100,"Economic, social and community development",9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+6 100,"Economic, social and community development",7421,Architectural and engineering activities and related technical consultancy,1,71111,Architectural activities
+6 100,"Economic, social and community development",4540,Building completion,2,41202,Construction of domestic buildings
+6 100,"Economic, social and community development",4530,Building installation,2,43390,Other building completion and finishing
+6 100,"Economic, social and community development",4520,Building of complete constructions or parts thereof; civil engineering,2,41100,Development of building projects
+6 100,"Economic, social and community development",,,0,41201,Construction of commercial buildings
+6 100,"Economic, social and community development",7414,Business and management consultancy activities,1,70229,Management consultancy activities (other than financial management)
+6 100,"Economic, social and community development",6519,Other monetary intermediation,1,64190,Other monetary intermediation
+6 200,Housing,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+6 200,Housing,4540,Building completion,2,41202,Construction of domestic buildings
+6 200,Housing,4530,Building installation,2,43390,Other building completion and finishing
+6 200,Housing,4520,Building of complete constructions or parts thereof; civil engineering,2,41100,Development of building projects
+6 200,Housing,,,0,41201,Construction of commercial buildings
+6 200,Housing,7020,Real estate activities on a fee or contract basis,1,68320,Management of real estate on a fee or contract basis
+6 200,Housing,7010,Real estate activities with own or leased property,1,68209,Letting and operating of own or leased real estate (other than Housing Association real estate and conference and exhibition services) n.e.c.
+6 200,Housing,4510,Site preparation,1,43120,Site preparation
+6 200,Housing,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+6 300,Employment and training,8090,Adult and other education,2,85320,Technical and vocational secondary education
+6 300,Employment and training,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+7 100,Civic and advocacy organizations,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+7 200,Law and legal services,7411,Legal activities,1,69100,
+7 200,Law and legal services,7523,Public order and safety activities,2,84240,Public order and safety activities
+7 200,Law and legal services,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+7 300,Political organizations,9192,Activities of political organizations,1,94920,Activities of political organisations
+8 100,Grant-making foundations,6599,Other financial intermediation n.e.c.,1,64999,"Other financial service activities, except insurance and pension funding, (not including security dealing on own account and factoring) n.e.c."
+8 200,Other philanthropic intermediaries and voluntarism promotion,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+8 200,Other philanthropic intermediaries and voluntarism promotion,7499,Other business activities n.e.c.,1,82990,Other business support service activities n.e.c.
+8 200,Other philanthropic intermediaries and voluntarism promotion,9249,Other recreational activities n.e.c.,2,93290,Other amusement and recreation activities
+8 200,Other philanthropic intermediaries and voluntarism promotion,8532,Social work without accommodation,8,88990,Other social work activities without accommodation n.e.c.
+9 100,International activities,9199,Activities of other membership organizations n.e.c.,8,94990,Activities of other membership organisations n.e.c.
+10 100,Religious congregations and association,9191,Activities of religious organizations,1,94910,Activities of religious organisations
+11 100,Business associations,9111,Activities of business and employers organizations,1,94110,Activities of business and employers membership organisations
+11 200,Professional associations,9112,Activities of professional organizations,1,94120,Activities of professional membership organisations
+11 300,Unions,9120,Activities of trade unions,1,94200,Activities of trade unions
+12 100,Not elsewhere classified,,,0,,

@@ -104,6 +104,10 @@ A list of suffixes for organisations registered on the Mutuals Public Register.
 
 A collection of definitions of classifications relevant to non profit organisations.
 
- - [International Classification of Non-profit Organisations (ICNPO)](classification/icnpo.md)
- - [National Taxonomy of Exempt Entities (NTEE)](classification/ntee.md)
- - [Charity Commission for England and Wales](classification/ccew.md)
+ - [International Classification of Non-profit Organisations (ICNPO)](classification/icnpo.md) - [[CSV](classification/icnpo.csv)]
+ - [National Taxonomy of Exempt Entities (NTEE)](classification/ntee.md) - [[CSV](classification/ntee.csv)]
+ - [Charity Commission for England and Wales](classification/ccew.md) - [[CSV](classification/ccew.csv)]
+ - Standard Industrial Classification (SIC2007 - UK version) - [[CSV](classification/sic2007.csv)]
+
+There is also a [lookup (csv) between SIC2007 and ISIC and ICNPO](classification/icnpo_sic_lookup.csv). This is based on lookup table T3.3 in the [UN Handbook on Non-Profit Institutions in the System of National Accounts [pdf]](http://ccss.jhu.edu/wp-content/uploads/downloads/2011/08/UNHB_English.pdf), updated to SIC2007.
+

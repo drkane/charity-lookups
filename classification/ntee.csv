@@ -1,0 +1,621 @@
+major_group,major_group_name,code,name
+A,"Arts, Culture & Humanities",A01,Alliances & Advocacy
+A,"Arts, Culture & Humanities",A02,Management & Technical Assistance
+A,"Arts, Culture & Humanities",A03,Professional Societies & Associations 
+A,"Arts, Culture & Humanities",A05,Research Institutes & Public Policy Analysis
+A,"Arts, Culture & Humanities",A11,Single Organization Support
+A,"Arts, Culture & Humanities",A12,Fund Raising & Fund Distribution
+A,"Arts, Culture & Humanities",A19,Support NEC
+A,"Arts, Culture & Humanities",A20,Arts & Culture
+A,"Arts, Culture & Humanities",A23,Cultural & Ethnic Awareness
+A,"Arts, Culture & Humanities",A24,Folk Arts
+A,"Arts, Culture & Humanities",A25,Arts Education
+A,"Arts, Culture & Humanities",A26,Arts & Humanities Councils & Agencies
+A,"Arts, Culture & Humanities",A27,Community Celebrations
+A,"Arts, Culture & Humanities",A30,Media & Communications
+A,"Arts, Culture & Humanities",A31,Film & Video
+A,"Arts, Culture & Humanities",A32,Television
+A,"Arts, Culture & Humanities",A33,Printing & Publishing
+A,"Arts, Culture & Humanities",A34,Radio
+A,"Arts, Culture & Humanities",A40,Visual Arts
+A,"Arts, Culture & Humanities",A50,Museums
+A,"Arts, Culture & Humanities",A51,Art Museums
+A,"Arts, Culture & Humanities",A52,Children's Museums
+A,"Arts, Culture & Humanities",A54,History Museums
+A,"Arts, Culture & Humanities",A56,Natural History & Natural Science Museums
+A,"Arts, Culture & Humanities",A57,Science & Technology Museums
+A,"Arts, Culture & Humanities",A60,Performing Arts
+A,"Arts, Culture & Humanities",A61,Performing Arts Centers
+A,"Arts, Culture & Humanities",A62,Dance
+A,"Arts, Culture & Humanities",A63,Ballet
+A,"Arts, Culture & Humanities",A65,Theater
+A,"Arts, Culture & Humanities",A68,Music
+A,"Arts, Culture & Humanities",A69,Symphony Orchestras
+A,"Arts, Culture & Humanities",A6A,Opera
+A,"Arts, Culture & Humanities",A6B,Singing & Choral Groups
+A,"Arts, Culture & Humanities",A6C,Bands & Ensembles
+A,"Arts, Culture & Humanities",A6E,Performing Arts Schools
+A,"Arts, Culture & Humanities",A70,Humanities
+A,"Arts, Culture & Humanities",A80,Historical Organizations
+A,"Arts, Culture & Humanities",A82,Historical Societies & Historic Preservation
+A,"Arts, Culture & Humanities",A84,Commemorative Events
+A,"Arts, Culture & Humanities",A90,Arts Services
+A,"Arts, Culture & Humanities",A99,"Arts, Culture & Humanities NEC"
+B,Education,B01,Alliances & Advocacy 
+B,Education,B02,Management & Technical Assistance 
+B,Education,B03,Professional Societies & Associations 
+B,Education,B05,Research Institutes & Public Policy Analysis 
+B,Education,B11,Single Organization Support 
+B,Education,B12,Fund Raising & Fund Distribution 
+B,Education,B19,Support NEC
+B,Education,B20,Elementary & Secondary Schools
+B,Education,B21,Preschools
+B,Education,B24,Primary & Elementary Schools
+B,Education,B25,Secondary & High Schools
+B,Education,B28,Special Education
+B,Education,B29,Charter Schools
+B,Education,B30,Vocational & Technical Schools
+B,Education,B40,Higher Education
+B,Education,B41,Two-Year Colleges
+B,Education,B42,Undergraduate Colleges
+B,Education,B43,Universities
+B,Education,B50,Graduate & Professional Schools
+B,Education,B60,Adult Education
+B,Education,B70,Libraries
+B,Education,B80,Student Services
+B,Education,B82,Scholarships & Student Financial Aid
+B,Education,B83,Student Sororities & Fraternities
+B,Education,B84,Alumni Associations
+B,Education,B90,Educational Services
+B,Education,B92,Remedial Reading & Encouragement
+B,Education,B94,Parent & Teacher Groups
+B,Education,B99,Education NEC
+C,Environment,C01,Alliances & Advocacy 
+C,Environment,C02,Management & Technical Assistance 
+C,Environment,C03,Professional Societies & Associations 
+C,Environment,C05,Research Institutes & Public Policy Analysis 
+C,Environment,C11,Single Organization Support 
+C,Environment,C12,Fund Raising & Fund Distribution 
+C,Environment,C19,Support NEC
+C,Environment,C20,Pollution Abatement & Control
+C,Environment,C27,Recycling
+C,Environment,C30,Natural Resources Conservation & Protection
+C,Environment,C32,"Water Resources, Wetlands Conservation & Management"
+C,Environment,C34,Land Resources Conservation
+C,Environment,C35,Energy Resources Conservation & Development
+C,Environment,C36,Forest Conservation
+C,Environment,C40,"Botanical, Horticultural & Landscape Services"
+C,Environment,C41,Botanical Gardens & Arboreta
+C,Environment,C42,Garden Clubs
+C,Environment,C50,Environmental Beautification
+C,Environment,C60,Environmental Education
+C,Environment,C99,Environment NEC
+D,Animal-Related,D01,Alliances & Advocacy 
+D,Animal-Related,D02,Management & Technical Assistance 
+D,Animal-Related,D03,Professional Societies & Associations 
+D,Animal-Related,D05,Research Institutes & Public Policy Analysis 
+D,Animal-Related,D11,Single Organization Support 
+D,Animal-Related,D12,Fund Raising & Fund Distribution 
+D,Animal-Related,D19,Support NEC
+D,Animal-Related,D20,Animal Protection & Welfare
+D,Animal-Related,D30,Wildlife Preservation & Protection
+D,Animal-Related,D31,Protection of Endangered Species
+D,Animal-Related,D32,Bird Sanctuaries
+D,Animal-Related,D33,Fisheries Resources
+D,Animal-Related,D34,Wildlife Sanctuaries
+D,Animal-Related,D40,Veterinary Services
+D,Animal-Related,D50,Zoos & Aquariums
+D,Animal-Related,D60,Animal Services NEC
+D,Animal-Related,D61,Animal Training
+D,Animal-Related,D99,Animal-Related NEC
+E,Health Care,E01,Alliances & Advocacy 
+E,Health Care,E02,Management & Technical Assistance 
+E,Health Care,E03,Professional Societies & Associations 
+E,Health Care,E05,Research Institutes & Public Policy Analysis 
+E,Health Care,E11,Single Organization Support 
+E,Health Care,E12,Fund Raising & Fund Distribution 
+E,Health Care,E19,Support NEC
+E,Health Care,E20,Hospitals
+E,Health Care,E21,Community Health Systems
+E,Health Care,E22,General Hospitals
+E,Health Care,E24,Specialty Hospitals
+E,Health Care,E30,Ambulatory & Primary Health Care
+E,Health Care,E31,Group Health Practices
+E,Health Care,E32,Community Clinics
+E,Health Care,E40,Reproductive Health Care
+E,Health Care,E42,Family Planning
+E,Health Care,E50,Rehabilitative Care
+E,Health Care,E60,Health Support
+E,Health Care,E61,Blood Banks
+E,Health Care,E62,Emergency Medical Services & Transport
+E,Health Care,E65,Organ & Tissue Banks
+E,Health Care,E70,Public Health
+E,Health Care,E80,Health (General & Financing)
+E,Health Care,E86,Patient & Family Support
+E,Health Care,E90,Nursing
+E,Health Care,E91,Nursing Facilities
+E,Health Care,E92,Home Health Care
+E,Health Care,E99,Health Care NEC
+F,Mental Health & Crisis Intervention,F01,Alliances & Advocacy 
+F,Mental Health & Crisis Intervention,F02,Management & Technical Assistance 
+F,Mental Health & Crisis Intervention,F03,Professional Societies & Associations 
+F,Mental Health & Crisis Intervention,F05,Research Institutes & Public Policy Analysis 
+F,Mental Health & Crisis Intervention,F11,Single Organization Support 
+F,Mental Health & Crisis Intervention,F12,Fund Raising & Fund Distribution 
+F,Mental Health & Crisis Intervention,F19,Support NEC
+F,Mental Health & Crisis Intervention,F20,"Substance Abuse Dependency, Prevention & Treatment"
+F,Mental Health & Crisis Intervention,F21,Substance Abuse Prevention
+F,Mental Health & Crisis Intervention,F22,Substance Abuse Treatment
+F,Mental Health & Crisis Intervention,F30,Mental Health Treatment
+F,Mental Health & Crisis Intervention,F31,Psychiatric Hospitals
+F,Mental Health & Crisis Intervention,F32,Community Mental Health Centers
+F,Mental Health & Crisis Intervention,F33,Residential Mental Health Treatment
+F,Mental Health & Crisis Intervention,F40,Hot Lines & Crisis Intervention
+F,Mental Health & Crisis Intervention,F42,Sexual Assault Services
+F,Mental Health & Crisis Intervention,F50,Addictive Disorders NEC
+F,Mental Health & Crisis Intervention,F52,Smoking Addiction
+F,Mental Health & Crisis Intervention,F53,Eating Disorders & Addictions
+F,Mental Health & Crisis Intervention,F54,Gambling Addiction
+F,Mental Health & Crisis Intervention,F60,Counseling
+F,Mental Health & Crisis Intervention,F70,Mental Health Disorders
+F,Mental Health & Crisis Intervention,F80,Mental Health Associations
+F,Mental Health & Crisis Intervention,F99,Mental Health & Crisis Intervention NEC
+G,"Diseases, Disorders & Medical Disciplines",G01,Alliances & Advocacy 
+G,"Diseases, Disorders & Medical Disciplines",G02,Management & Technical Assistance 
+G,"Diseases, Disorders & Medical Disciplines",G03,Professional Societies & Associations 
+G,"Diseases, Disorders & Medical Disciplines",G05,Research Institutes & Public Policy Analysis 
+G,"Diseases, Disorders & Medical Disciplines",G11,Single Organization Support 
+G,"Diseases, Disorders & Medical Disciplines",G12,Fund Raising & Fund Distribution 
+G,"Diseases, Disorders & Medical Disciplines",G19,Support NEC
+G,"Diseases, Disorders & Medical Disciplines",G20,Birth Defects & Genetic Diseases
+G,"Diseases, Disorders & Medical Disciplines",G25,Down Syndrome
+G,"Diseases, Disorders & Medical Disciplines",G30,Cancer
+G,"Diseases, Disorders & Medical Disciplines",G32,Breast Cancer
+G,"Diseases, Disorders & Medical Disciplines",G40,Diseases of Specific Organs
+G,"Diseases, Disorders & Medical Disciplines",G41,"Eye Diseases, Blindness & Vision Impairments"
+G,"Diseases, Disorders & Medical Disciplines",G42,Ear & Throat Diseases
+G,"Diseases, Disorders & Medical Disciplines",G43,Heart & Circulatory System Diseases & Disorders
+G,"Diseases, Disorders & Medical Disciplines",G44,Kidney Diseases
+G,"Diseases, Disorders & Medical Disciplines",G45,Lung Diseases
+G,"Diseases, Disorders & Medical Disciplines",G48,Brain Disorders
+G,"Diseases, Disorders & Medical Disciplines",G50,"Nerve, Muscle & Bone Diseases"
+G,"Diseases, Disorders & Medical Disciplines",G51,Arthritis
+G,"Diseases, Disorders & Medical Disciplines",G54,Epilepsy
+G,"Diseases, Disorders & Medical Disciplines",G60,Allergy-Related Diseases
+G,"Diseases, Disorders & Medical Disciplines",G61,Asthma
+G,"Diseases, Disorders & Medical Disciplines",G70,Digestive Diseases & Disorders
+G,"Diseases, Disorders & Medical Disciplines",G80,Specifically Named Diseases
+G,"Diseases, Disorders & Medical Disciplines",G81,AIDS
+G,"Diseases, Disorders & Medical Disciplines",G83,Alzheimer's Disease
+G,"Diseases, Disorders & Medical Disciplines",G84,Autism
+G,"Diseases, Disorders & Medical Disciplines",G90,Medical Disciplines
+G,"Diseases, Disorders & Medical Disciplines",G92,Biomedicine & Bioengineering 
+G,"Diseases, Disorders & Medical Disciplines",G94,Geriatrics
+G,"Diseases, Disorders & Medical Disciplines",G96,Neurology & Neuroscience
+G,"Diseases, Disorders & Medical Disciplines",G98,Pediatrics
+G,"Diseases, Disorders & Medical Disciplines",G9B,Surgical Specialties
+G,"Diseases, Disorders & Medical Disciplines",G99,"Diseases, Disorders & Medical Disciplines NEC"
+H,Medical Research,H01,Alliances & Advocacy 
+H,Medical Research,H02,Management & Technical Assistance 
+H,Medical Research,H03,Professional Societies & Associations 
+H,Medical Research,H05,Research Institutes & Public Policy Analysis 
+H,Medical Research,H11,Single Organization Support 
+H,Medical Research,H12,Fund Raising & Fund Distribution 
+H,Medical Research,H19,Support NEC
+H,Medical Research,H20,Birth Defects & Genetic Diseases Research
+H,Medical Research,H25,Down Syndrome Research
+H,Medical Research,H30,Cancer Research
+H,Medical Research,H32,Breast Cancer Research
+H,Medical Research,H40,Diseases of Specific Organ Research
+H,Medical Research,H41,"Eye Diseases, Blindness & Vision Impairments Research"
+H,Medical Research,H42,Ear & Throat Diseases Research
+H,Medical Research,H43,Heart & Circulatory System Diseases & Disorders Research
+H,Medical Research,H44,Kidney Diseases Research
+H,Medical Research,H45,Lung Diseases Research
+H,Medical Research,H48,Brain Disorders Research
+H,Medical Research,H50,"Nerve, Muscle & Bone Diseases Research"
+H,Medical Research,H51,Arthritis Research
+H,Medical Research,H54,Epilepsy Research
+H,Medical Research,H60,ALLERGY-RELATED DISEASES RESEARCH
+H,Medical Research,H61,Asthma Research
+H,Medical Research,H70,Digestive Diseases & Disorders Research
+H,Medical Research,H80,Specifically Named Diseases Research
+H,Medical Research,H81,AIDS Research
+H,Medical Research,H83,Alzheimer's Disease Research
+H,Medical Research,H84,Autism Research
+H,Medical Research,H90,Medical Disciplines Research
+H,Medical Research,H92,Biomedicine & Bioengineering Research
+H,Medical Research,H94,Geriatrics Research
+H,Medical Research,H96,Neurology & Neuroscience Research
+H,Medical Research,H98,Pediatrics Research
+H,Medical Research,H9B,Surgical Specialties Research
+H,Medical Research,H99,Medical Research NEC
+I,Crime & Legal-Related,I01,Alliances & Advocacy 
+I,Crime & Legal-Related,I02,Management & Technical Assistance 
+I,Crime & Legal-Related,I03,Professional Societies & Associations 
+I,Crime & Legal-Related,I05,Research Institutes & Public Policy Analysis 
+I,Crime & Legal-Related,I11,Single Organization Support 
+I,Crime & Legal-Related,I12,Fund Raising & Fund Distribution 
+I,Crime & Legal-Related,I19,Support NEC
+I,Crime & Legal-Related,I20,Crime Prevention
+I,Crime & Legal-Related,I21,Youth Violence Prevention
+I,Crime & Legal-Related,I23,Drunk Driving-Related
+I,Crime & Legal-Related,I30,Correctional Facilities
+I,Crime & Legal-Related,I31,Half-Way Houses for Offenders & Ex-Offenders
+I,Crime & Legal-Related,I40,Rehabilitation Services for Offenders
+I,Crime & Legal-Related,I43,Inmate Support
+I,Crime & Legal-Related,I44,Prison Alternatives
+I,Crime & Legal-Related,I50,Administration of Justice
+I,Crime & Legal-Related,I51,Dispute Resolution & Mediation
+I,Crime & Legal-Related,I60,Law Enforcement
+I,Crime & Legal-Related,I70,Protection Against Abuse
+I,Crime & Legal-Related,I71,Spouse Abuse Prevention
+I,Crime & Legal-Related,I72,Child Abuse Prevention
+I,Crime & Legal-Related,I73,Sexual Abuse Prevention
+I,Crime & Legal-Related,I80,Legal Services
+I,Crime & Legal-Related,I83,Public Interest Law
+I,Crime & Legal-Related,I99,Crime & Legal-Related NEC
+J,Employment,J01,Alliances & Advocacy 
+J,Employment,J02,Management & Technical Assistance 
+J,Employment,J03,Professional Societies & Associations 
+J,Employment,J05,Research Institutes & Public Policy Analysis 
+J,Employment,J11,Single Organization Support 
+J,Employment,J12,Fund Raising & Fund Distribution 
+J,Employment,J19,Support NEC
+J,Employment,J20,Employment Preparation & Procurement
+J,Employment,J21,Vocational Counseling
+J,Employment,J22,Job Training
+J,Employment,J30,Vocational Rehabilitation
+J,Employment,J32,Goodwill Industries
+J,Employment,J33,Sheltered Employment
+J,Employment,J40,Labor Unions
+J,Employment,J99,Employment NEC
+K,"Food, Agriculture & Nutrition",K01,Alliances & Advocacy 
+K,"Food, Agriculture & Nutrition",K02,Management & Technical Assistance 
+K,"Food, Agriculture & Nutrition",K03,Professional Societies & Associations 
+K,"Food, Agriculture & Nutrition",K05,Research Institutes & Public Policy Analysis 
+K,"Food, Agriculture & Nutrition",K11,Single Organization Support 
+K,"Food, Agriculture & Nutrition",K12,Fund Raising & Fund Distribution 
+K,"Food, Agriculture & Nutrition",K19,Support NEC
+K,"Food, Agriculture & Nutrition",K20,Agricultural Programs
+K,"Food, Agriculture & Nutrition",K25,Farmland Preservation
+K,"Food, Agriculture & Nutrition",K26,Animal Husbandry
+K,"Food, Agriculture & Nutrition",K28,Farm Bureaus & Granges
+K,"Food, Agriculture & Nutrition",K30,Food Programs
+K,"Food, Agriculture & Nutrition",K31,Food Banks & Pantries
+K,"Food, Agriculture & Nutrition",K34,Congregate Meals
+K,"Food, Agriculture & Nutrition",K35,Soup Kitchens
+K,"Food, Agriculture & Nutrition",K36,Meals on Wheels
+K,"Food, Agriculture & Nutrition",K40,Nutrition
+K,"Food, Agriculture & Nutrition",K50,Home Economics
+K,"Food, Agriculture & Nutrition",K99,"Food, Agriculture & Nutrition NEC"
+L,Housing & Shelter,L01,Alliances & Advocacy 
+L,Housing & Shelter,L02,Management & Technical Assistance 
+L,Housing & Shelter,L03,Professional Societies & Associations 
+L,Housing & Shelter,L05,Research Institutes & Public Policy Analysis 
+L,Housing & Shelter,L11,Single Organization Support 
+L,Housing & Shelter,L12,Fund Raising & Fund Distribution 
+L,Housing & Shelter,L19,Support NEC
+L,Housing & Shelter,L20,"Housing Development, Construction &  Management"
+L,Housing & Shelter,L21,Low-Income & Subsidized Rental Housing
+L,Housing & Shelter,L22,Senior Citizens' Housing & Retirement Communities
+L,Housing & Shelter,L24,Independent Housing for People with Disabilities
+L,Housing & Shelter,L25,Housing Rehabilitation
+L,Housing & Shelter,L30,Housing Search Assistance
+L,Housing & Shelter,L40,Temporary Housing
+L,Housing & Shelter,L41,Homeless Shelters
+L,Housing & Shelter,L50,Homeowners & Tenants Associations
+L,Housing & Shelter,L80,Housing Support
+L,Housing & Shelter,L81,Home Improvement & Repairs
+L,Housing & Shelter,L82,Housing Expense Reduction Support
+L,Housing & Shelter,L99,Housing & Shelter NEC
+M,"Public Safety, Disaster Preparedness & Relief",M01,Alliances & Advocacy 
+M,"Public Safety, Disaster Preparedness & Relief",M02,Management & Technical Assistance 
+M,"Public Safety, Disaster Preparedness & Relief",M03,Professional Societies & Associations 
+M,"Public Safety, Disaster Preparedness & Relief",M05,Research Institutes & Public Policy Analysis 
+M,"Public Safety, Disaster Preparedness & Relief",M11,Single Organization Support 
+M,"Public Safety, Disaster Preparedness & Relief",M12,Fund Raising & Fund Distribution 
+M,"Public Safety, Disaster Preparedness & Relief",M19,Support NEC
+M,"Public Safety, Disaster Preparedness & Relief",M20,Disaster Preparedness & Relief Services
+M,"Public Safety, Disaster Preparedness & Relief",M23,Search & Rescue Squads
+M,"Public Safety, Disaster Preparedness & Relief",M24,Fire Prevention
+M,"Public Safety, Disaster Preparedness & Relief",M40,Safety Education
+M,"Public Safety, Disaster Preparedness & Relief",M41,First Aid
+M,"Public Safety, Disaster Preparedness & Relief",M42,Automotive Safety
+M,"Public Safety, Disaster Preparedness & Relief",M60,Public Safety Benevolent Associations
+M,"Public Safety, Disaster Preparedness & Relief",M99,"Public Safety, Disaster Preparedness & Relief NEC"
+N,Recreation & Sports,N01,Alliances & Advocacy 
+N,Recreation & Sports,N02,Management & Technical Assistance 
+N,Recreation & Sports,N03,Professional Societies & Associations 
+N,Recreation & Sports,N05,Research Institutes & Public Policy Analysis 
+N,Recreation & Sports,N11,Single Organization Support 
+N,Recreation & Sports,N12,Fund Raising & Fund Distribution 
+N,Recreation & Sports,N19,Support NEC
+N,Recreation & Sports,N20,Camps
+N,Recreation & Sports,N30,Physical Fitness & Community Recreational Facilities
+N,Recreation & Sports,N31,Community Recreational Centers
+N,Recreation & Sports,N32,Parks & Playgrounds
+N,Recreation & Sports,N40,Sports Associations & Training Facilities
+N,Recreation & Sports,N50,Recreational Clubs
+N,Recreation & Sports,N52,Fairs
+N,Recreation & Sports,N60,Amateur Sports
+N,Recreation & Sports,N61,Fishing & Hunting
+N,Recreation & Sports,N62,Basketball
+N,Recreation & Sports,N63,Baseball & Softball
+N,Recreation & Sports,N64,Soccer
+N,Recreation & Sports,N65,Football 
+N,Recreation & Sports,N66,Racquet Sports
+N,Recreation & Sports,N67,Swimming & Other Water Recreation
+N,Recreation & Sports,N68,Winter Sports 
+N,Recreation & Sports,N69,Equestrian
+N,Recreation & Sports,N6A,Golf
+N,Recreation & Sports,N70,Amateur Sports Competitions
+N,Recreation & Sports,N71,Olympics
+N,Recreation & Sports,N72,Special Olympics
+N,Recreation & Sports,N80,Professional Athletic Leagues
+N,Recreation & Sports,N99,Recreation & Sports NEC
+O,Youth Development,O01,Alliances & Advocacy
+O,Youth Development,O02,Management & Technical Assistance
+O,Youth Development,O03,Professional Societies & Associations
+O,Youth Development,O05,Research Institutes & Public Policy Analysis
+O,Youth Development,O11,Single Organization Support
+O,Youth Development,O12,Fund Raising & Fund Distribution
+O,Youth Development,O19,Support NEC
+O,Youth Development,O20,Youth Centers & Clubs
+O,Youth Development,O21,Boys Clubs
+O,Youth Development,O22,Girls Clubs
+O,Youth Development,O23,Boys & Girls Clubs
+O,Youth Development,O30,Adult & Child Matching Programs
+O,Youth Development,O31,Big Brothers & Big Sisters
+O,Youth Development,O40,Scouting Organizations
+O,Youth Development,O41,Boy Scouts of America
+O,Youth Development,O42,Girl Scouts of the U.S.A.
+O,Youth Development,O43,Camp Fire
+O,Youth Development,O50,Youth Development Programs
+O,Youth Development,O51,Youth Community Service Clubs
+O,Youth Development,O52,Youth Development - Agricultural
+O,Youth Development,O53,Youth Development - Business
+O,Youth Development,O54,Youth Development - Citizenship
+O,Youth Development,O55,Youth Development - Religious Leadership
+O,Youth Development,O99,Youth Development NEC
+P,Human Services,P01,Alliances & Advocacy 
+P,Human Services,P02,Management & Technical Assistance 
+P,Human Services,P03,Professional Societies & Associations 
+P,Human Services,P05,Research Institutes & Public Policy Analysis 
+P,Human Services,P11,Single Organization Support 
+P,Human Services,P12,Fund Raising & Fund Distribution 
+P,Human Services,P19,Support NEC
+P,Human Services,P20,Human Services
+P,Human Services,P21,American Red Cross
+P,Human Services,P22,Urban League
+P,Human Services,P24,Salvation Army
+P,Human Services,P26,Volunteers of America
+P,Human Services,P27,Young Men's or Women's Associations
+P,Human Services,P28,Neighborhood Centers
+P,Human Services,P29,Thrift Shops
+P,Human Services,P30,Children & Youth Services
+P,Human Services,P31,Adoption
+P,Human Services,P32,Foster Care
+P,Human Services,P33,Child Day Care
+P,Human Services,P40,Family Services
+P,Human Services,P42,Single Parent Agencies
+P,Human Services,P43,Family Violence Shelters
+P,Human Services,P44,In-Home Assistance
+P,Human Services,P45,Family Services for Adolescent Parents
+P,Human Services,P46,Family Counseling
+P,Human Services,P47,Pregnancy Centers
+P,Human Services,P50,Personal Social Services
+P,Human Services,P51,Financial Counseling
+P,Human Services,P52,Transportation Assistance
+P,Human Services,P58,Gift Distribution
+P,Human Services,P60,Emergency Assistance
+P,Human Services,P61,Travelers' Aid
+P,Human Services,P62,Victims' Services
+P,Human Services,P70,Residential Care & Adult Day Programs
+P,Human Services,P71,Adult Day Care
+P,Human Services,P73,Group Homes
+P,Human Services,P74,Hospices
+P,Human Services,P75,Supportive Housing for Older Adults
+P,Human Services,P80,Centers to Support the Independence of Specific Populations
+P,Human Services,P81,Senior Centers
+P,Human Services,P82,Developmentally Disabled Centers
+P,Human Services,P84,Ethnic & Immigrant Centers
+P,Human Services,P85,Homeless Centers
+P,Human Services,P86,Blind & Visually Impaired Centers 
+P,Human Services,P87,Deaf & Hearing Impaired Centers
+P,Human Services,P88,LGBT Centers 
+P,Human Services,P99,Human Services NEC
+Q,"International, Foreign Affairs & National Security",Q01,Alliances & Advocacy 
+Q,"International, Foreign Affairs & National Security",Q02,Management & Technical Assistance 
+Q,"International, Foreign Affairs & National Security",Q03,Professional Societies & Associations 
+Q,"International, Foreign Affairs & National Security",Q05,Research Institutes & Public Policy Analysis 
+Q,"International, Foreign Affairs & National Security",Q11,Single Organization Support 
+Q,"International, Foreign Affairs & National Security",Q12,Fund Raising & Fund Distribution 
+Q,"International, Foreign Affairs & National Security",Q19,Support NEC
+Q,"International, Foreign Affairs & National Security",Q20,Promotion of International Understanding
+Q,"International, Foreign Affairs & National Security",Q21,International Cultural Exchange
+Q,"International, Foreign Affairs & National Security",Q22,International Academic Exchange
+Q,"International, Foreign Affairs & National Security",Q23,International Exchange NEC
+Q,"International, Foreign Affairs & National Security",Q30,International Development
+Q,"International, Foreign Affairs & National Security",Q31,International Agricultural Development
+Q,"International, Foreign Affairs & National Security",Q32,International Economic Development
+Q,"International, Foreign Affairs & National Security",Q33,International Relief
+Q,"International, Foreign Affairs & National Security",Q35,Democracy & Civil Society Development
+Q,"International, Foreign Affairs & National Security",Q40,International Peace & Security
+Q,"International, Foreign Affairs & National Security",Q41,Arms Control & Peace
+Q,"International, Foreign Affairs & National Security",Q42,United Nations Associations
+Q,"International, Foreign Affairs & National Security",Q43,National Security
+Q,"International, Foreign Affairs & National Security",Q50,"International Affairs, Foreign Policy & Globalization"
+Q,"International, Foreign Affairs & National Security",Q51,International Economic & Trade Policy
+Q,"International, Foreign Affairs & National Security",Q70,International Human Rights
+Q,"International, Foreign Affairs & National Security",Q71,International Migration & Refugee Issues
+Q,"International, Foreign Affairs & National Security",Q99,"International, Foreign Affairs & National Security NEC"
+R,"Civil Rights, Social Action & Advocacy",R01,Alliances & Advocacy 
+R,"Civil Rights, Social Action & Advocacy",R02,Management & Technical Assistance 
+R,"Civil Rights, Social Action & Advocacy",R03,Professional Societies & Associations 
+R,"Civil Rights, Social Action & Advocacy",R05,Research Institutes & Public Policy Analysis 
+R,"Civil Rights, Social Action & Advocacy",R11,Single Organization Support 
+R,"Civil Rights, Social Action & Advocacy",R12,Fund Raising & Fund Distribution 
+R,"Civil Rights, Social Action & Advocacy",R19,Support NEC
+R,"Civil Rights, Social Action & Advocacy",R20,Civil Rights
+R,"Civil Rights, Social Action & Advocacy",R22,Minority Rights
+R,"Civil Rights, Social Action & Advocacy",R23,Disabled Persons' Rights
+R,"Civil Rights, Social Action & Advocacy",R24,Women's Rights
+R,"Civil Rights, Social Action & Advocacy",R25,Seniors' Rights
+R,"Civil Rights, Social Action & Advocacy",R26,Lesbian and Gay Rights
+R,"Civil Rights, Social Action & Advocacy",R28,Children's Rights
+R,"Civil Rights, Social Action & Advocacy",R30,Intergroup & Race Relations
+R,"Civil Rights, Social Action & Advocacy",R40,Voter Education & Registration
+R,"Civil Rights, Social Action & Advocacy",R60,Civil Liberties
+R,"Civil Rights, Social Action & Advocacy",R61,Reproductive Rights
+R,"Civil Rights, Social Action & Advocacy",R62,Right to Life
+R,"Civil Rights, Social Action & Advocacy",R63,"Censorship, Freedom of Speech & Press"
+R,"Civil Rights, Social Action & Advocacy",R67,Right to Die & Euthanasia
+R,"Civil Rights, Social Action & Advocacy",R99,"Civil Rights, Social Action & Advocacy NEC"
+S,Community Improvement & Capacity Building,S01,Alliances & Advocacy 
+S,Community Improvement & Capacity Building,S02,Management & Technical Assistance 
+S,Community Improvement & Capacity Building,S03,Professional Societies & Associations 
+S,Community Improvement & Capacity Building,S05,Research Institutes & Public Policy Analysis 
+S,Community Improvement & Capacity Building,S11,Single Organization Support 
+S,Community Improvement & Capacity Building,S12,Fund Raising & Fund Distribution 
+S,Community Improvement & Capacity Building,S19,Support NEC
+S,Community Improvement & Capacity Building,S20,Community & Neighborhood Development
+S,Community Improvement & Capacity Building,S21,Community Coalitions
+S,Community Improvement & Capacity Building,S22,Neighborhood & Block Associations
+S,Community Improvement & Capacity Building,S30,Economic Development
+S,Community Improvement & Capacity Building,S31,Urban & Community Economic Development
+S,Community Improvement & Capacity Building,S32,Rural Economic Development
+S,Community Improvement & Capacity Building,S40,Business & Industry
+S,Community Improvement & Capacity Building,S41,Chambers of Commerce & Business Leagues
+S,Community Improvement & Capacity Building,S43,Small Business Development
+S,Community Improvement & Capacity Building,S46,Boards of Trade
+S,Community Improvement & Capacity Building,S47,Real Estate Associations
+S,Community Improvement & Capacity Building,S50,Nonprofit Management
+S,Community Improvement & Capacity Building,S80,Community Service Clubs
+S,Community Improvement & Capacity Building,S81,Women's Service Clubs
+S,Community Improvement & Capacity Building,S82,Men's Service Clubs
+S,Community Improvement & Capacity Building,S99,Community Improvement & Capacity Building NEC
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T01,Alliances & Advocacy 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T02,Management & Technical Assistance 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T03,Professional Societies & Associations 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T05,Research Institutes & Public Policy Analysis 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T11,Single Organization Support 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T12,Fund Raising & Fund Distribution 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T19,Support NEC
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T20,Private Grantmaking Foundations
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T21,Corporate Foundations
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T22,Private Independent Foundations
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T23,Private Operating Foundations
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T30,Public Foundations
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T31,Community Foundations
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T40,Voluntarism Promotion
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T50,"Philanthropy, Charity & Voluntarism Promotion"
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T70,Federated Giving Programs
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T90,Named Trusts NEC 
+T,"Philanthropy, Voluntarism & Grantmaking Foundations",T99,"Philanthropy, Voluntarism & Grantmaking Foundations NEC"
+U,Science & Technology,U01,Alliances & Advocacy 
+U,Science & Technology,U02,Management & Technical Assistance 
+U,Science & Technology,U03,Professional Societies & Associations 
+U,Science & Technology,U05,Research Institutes & Public Policy Analysis 
+U,Science & Technology,U11,Single Organization Support 
+U,Science & Technology,U12,Fund Raising & Fund Distribution 
+U,Science & Technology,U19,Support NEC
+U,Science & Technology,U20,General Science
+U,Science & Technology,U21,Marine Science & Oceanography
+U,Science & Technology,U30,Physical & Earth Sciences
+U,Science & Technology,U31,Astronomy
+U,Science & Technology,U33,Chemistry & Chemical Engineering
+U,Science & Technology,U34,Mathematics
+U,Science & Technology,U36,Geology
+U,Science & Technology,U40,Engineering & Technology
+U,Science & Technology,U41,Computer Science
+U,Science & Technology,U42,Engineering
+U,Science & Technology,U50,Biological & Life Sciences
+U,Science & Technology,U99,Science & Technology NEC
+V,Social Science,V01,Alliances & Advocacy 
+V,Social Science,V02,Management & Technical Assistance 
+V,Social Science,V03,Professional Societies & Associations 
+V,Social Science,V05,Research Institutes & Public Policy Analysis 
+V,Social Science,V11,Single Organization Support 
+V,Social Science,V12,Fund Raising & Fund Distribution 
+V,Social Science,V19,Support NEC
+V,Social Science,V20,Social Science
+V,Social Science,V21,Anthropology & Sociology
+V,Social Science,V22,Economics
+V,Social Science,V23,Behavioral Science
+V,Social Science,V24,Political Science
+V,Social Science,V25,Population Studies
+V,Social Science,V26,Law & Jurisprudence
+V,Social Science,V30,Interdisciplinary Research
+V,Social Science,V31,Black Studies
+V,Social Science,V32,Women's Studies
+V,Social Science,V33,Ethnic Studies
+V,Social Science,V34,Urban Studies
+V,Social Science,V35,International Studies
+V,Social Science,V36,Gerontology
+V,Social Science,V37,Labor Studies
+V,Social Science,V99,Social Science NEC
+W,Public & Societal Benefit,W01,Alliances & Advocacy 
+W,Public & Societal Benefit,W02,Management & Technical Assistance 
+W,Public & Societal Benefit,W03,Professional Societies & Associations 
+W,Public & Societal Benefit,W05,Research Institutes & Public Policy Analysis 
+W,Public & Societal Benefit,W11,Single Organization Support 
+W,Public & Societal Benefit,W12,Fund Raising & Fund Distribution 
+W,Public & Societal Benefit,W19,Support NEC
+W,Public & Societal Benefit,W20,Government & Public Administration
+W,Public & Societal Benefit,W22,"Public Finance, Taxation & Monetary Policy"
+W,Public & Societal Benefit,W24,Citizen Participation
+W,Public & Societal Benefit,W30,Military & Veterans' Organizations
+W,Public & Societal Benefit,W40,Public Transportation Systems
+W,Public & Societal Benefit,W50,Telecommunications
+W,Public & Societal Benefit,W60,Financial Institutions
+W,Public & Societal Benefit,W61,Credit Unions
+W,Public & Societal Benefit,W70,Leadership Development
+W,Public & Societal Benefit,W80,Public Utilities
+W,Public & Societal Benefit,W90,Consumer Protection
+W,Public & Societal Benefit,W99,Public & Societal Benefit NEC
+X,Religion-Related,X01,Alliances & Advocacy 
+X,Religion-Related,X02,Management & Technical Assistance 
+X,Religion-Related,X03,Professional Societies & Associations 
+X,Religion-Related,X05,Research Institutes & Public Policy Analysis 
+X,Religion-Related,X11,Single Organization Support 
+X,Religion-Related,X12,Fund Raising & Fund Distribution 
+X,Religion-Related,X19,Support NEC
+X,Religion-Related,X20,Christianity
+X,Religion-Related,X21,Protestant
+X,Religion-Related,X22,Roman Catholic
+X,Religion-Related,X30,Judaism
+X,Religion-Related,X40,Islam
+X,Religion-Related,X50,Buddhism
+X,Religion-Related,X70,Hinduism
+X,Religion-Related,X80,Religious Media & Communications
+X,Religion-Related,X81,Religious Film & Video
+X,Religion-Related,X82,Religious Television
+X,Religion-Related,X83,Religious Printing & Publishing
+X,Religion-Related,X84,Religious Radio 
+X,Religion-Related,X90,Interfaith Coalitions
+X,Religion-Related,X99,Religion-Related NEC
+Y,Mutual & Membership Benefit,Y01,Alliances & Advocacy 
+Y,Mutual & Membership Benefit,Y02,Management & Technical Assistance 
+Y,Mutual & Membership Benefit,Y03,Professional Societies & Associations 
+Y,Mutual & Membership Benefit,Y05,Research Institutes & Public Policy Analysis 
+Y,Mutual & Membership Benefit,Y11,Single Organization Support 
+Y,Mutual & Membership Benefit,Y12,Fund Raising & Fund Distribution 
+Y,Mutual & Membership Benefit,Y19,Support NEC
+Y,Mutual & Membership Benefit,Y20,Insurance Providers
+Y,Mutual & Membership Benefit,Y22,"Local Benevolent Life Insurance Associations, Mutual Irrigation & Telephone,Companies & Like Organizations"
+Y,Mutual & Membership Benefit,Y23,Mutual Insurance Companies & Associations
+Y,Mutual & Membership Benefit,Y24,Supplemental Unemployment Compensation
+Y,Mutual & Membership Benefit,Y25,State-Sponsored Worker's Compensation Reinsurance Organizations
+Y,Mutual & Membership Benefit,Y30,Pension & Retirement Funds
+Y,Mutual & Membership Benefit,Y33,Teachers Retirement Fund Associations
+Y,Mutual & Membership Benefit,Y34,Employee Funded Pension Trusts
+Y,Mutual & Membership Benefit,Y35,Multi-Employer Pension Plans
+Y,Mutual & Membership Benefit,Y40,Fraternal Societies
+Y,Mutual & Membership Benefit,Y41,Fraternal Beneficiary Societies
+Y,Mutual & Membership Benefit,Y42,Domestic Fraternal Societies
+Y,Mutual & Membership Benefit,Y43,Voluntary Employees Beneficiary Associations (Non-Government)
+Y,Mutual & Membership Benefit,Y44,Voluntary Employees Beneficiary Associations (Government) 
+Y,Mutual & Membership Benefit,Y50,Cemeteries
+Y,Mutual & Membership Benefit,Y99,Mutual & Membership Benefit NEC
+Z,Unknown,Z99,Unknown

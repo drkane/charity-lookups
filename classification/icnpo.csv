@@ -1,0 +1,41 @@
+﻿icnpo,icnpo_desc,icnpo_group,in_original_spec
+1100,Culture and Arts,Culture and sport,TRUE
+1200,Sports,Culture and sport,TRUE
+1300,Other Recreation and Social Clubs,Culture and sport,TRUE
+2100,Primary and Secondary Education,Education,TRUE
+2110,Parent Teacher Associations,Education,TRUE
+2120,Educational Foundations,Education,TRUE
+2130,Playgroups and nurseries,Education,FALSE
+2200,Higher Education,Education,TRUE
+2210,Student Unions,Education,FALSE
+2300,Other Education,Education,TRUE
+2400,Research,Education,TRUE
+2410,Medical Research,Education,TRUE
+3100,Hospitals and Rehabilitation,Health,TRUE
+3200,Nursing Homes,Health,TRUE
+3210,Hospices,Health,FALSE
+3300,Mental Health and Crisis Intervention,Health,TRUE
+3400,Other Health Services,Health,TRUE
+4100,Social Services,Social Services,TRUE
+4110,"Scouts, guides and other groups",Social Services,FALSE
+4150,"Social services for children, young people and families",Social Services,FALSE
+4160,Social services for older people,Social Services,FALSE
+4170,Social services for adults with learning disabilities,Social Services,FALSE
+4180,Social services for people with disabilities,Social Services,FALSE
+4200,Emergency and Relief,Social Services,TRUE
+4300,Income Support and Maintenance,Social Services,TRUE
+5100,Environment,Environment and animals,TRUE
+5200,Animal Protection,Environment and animals,TRUE
+6100,"Economic, Social and Community Development","Community, employment and housing",TRUE
+6110,Village Hall,"Community, employment and housing",FALSE
+6200,Housing,"Community, employment and housing",TRUE
+6300,Employment and Training,"Community, employment and housing",TRUE
+7100,Civic and Advocacy Organizations,"Law, advocacy and politics",TRUE
+7200,Law and Legal Services,"Law, advocacy and politics",TRUE
+8100,Grant-making foundations,Philanthropy and volunteering,TRUE
+8200,Other philanthropic intermediaries and voluntarism promotion,Philanthropy and volunteering,TRUE
+9100,International activities,International aid,TRUE
+10100,Religious congregations and associations,Religion,TRUE
+11100,Business associations,Business and professional,TRUE
+11200,Professional associations,Business and professional,TRUE
+12100,Not Elsewhere classified,Other,TRUE
