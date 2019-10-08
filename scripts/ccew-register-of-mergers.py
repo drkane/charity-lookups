@@ -40,7 +40,7 @@ def find_rom(rom_page):
     """
     session = HTMLSession()
     r = session.get(rom_page)
-    return next(l for l in r.html.absolute_links if l.endswith(".xlsx"))
+    return next(l for l in r.html.absolute_links if l.endswith(".csv"))
 
 
 def parse_rom(rom):
