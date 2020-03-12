@@ -1,16 +1,16 @@
-﻿icnpo,icnpo_desc,icnpo_group,in_original_spec
+icnpo,icnpo_desc,icnpo_group,in_original_spec
 1100,Culture and Arts,Culture and sport,TRUE
 1200,Sports,Culture and sport,TRUE
 1300,Other Recreation and Social Clubs,Culture and sport,TRUE
 2100,Primary and Secondary Education,Education,TRUE
-2110,Parent Teacher Associations,Education,TRUE
-2120,Educational Foundations,Education,TRUE
+2110,Parent Teacher Associations,Education,FALSE
+2120,Educational Foundations,Education,FALSE
 2130,Playgroups and nurseries,Education,FALSE
 2200,Higher Education,Education,TRUE
 2210,Student Unions,Education,FALSE
 2300,Other Education,Education,TRUE
 2400,Research,Education,TRUE
-2410,Medical Research,Education,TRUE
+2410,Medical Research,Education,FALSE
 3100,Hospitals and Rehabilitation,Health,TRUE
 3200,Nursing Homes,Health,TRUE
 3210,Hospices,Health,FALSE
