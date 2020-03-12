@@ -1,3 +1,8 @@
+- [Charity lookups](#charity-lookups)
+- [Education charity lookups](#education-charity-lookups)
+- [Other organisation lookups](#other-organisation-lookups)
+- [Classifications](classification)
+
 # Charity lookups
 
 A collection of useful data and notes for using UK charity data.
