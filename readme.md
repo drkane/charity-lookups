@@ -1,7 +1,32 @@
+- [Charity data](#charity-data)
 - [Charity lookups](#charity-lookups)
 - [Education charity lookups](#education-charity-lookups)
 - [Other organisation lookups](#other-organisation-lookups)
 - [Classifications](classification)
+
+# Charity data
+
+## [ccew-basic.csv]
+
+A basic dump of data from the Charity Commission for England and Wales. Includes:
+
+ - `regno`: the charity number
+ - `name`: the name of the charity
+ - `orgtype`: whether the charity is currently registered (`R`) or removed from the register (`RM`)
+ - `aob`: A description of this charity's area of benefit
+ - `postcode`: The postcode of the registered address of this charity
+ - `coyno`: the charity's equivalent company number, if also registered at Companies House
+ - `fyend`: The year end for this charity's financial year
+ - `welsh`: Whether the charity operates in the Welsh language
+ - `incomedate`: the latest date of this charity's annual income
+ - `income`: the latest annual income of the charity (registered charities only)
+ - `web`: the charity's website
+ - `date_registered`: date this charity was first added to the register of charities
+ - `date_removed`: date this charity was removed from the register
+ - `reason_removed`: the reason this charity was removed
+ - `last_updated`: when the data was last updated from Charity Commission records (nb the actual data update may be older than this)
+
+The data is extracted from [Charity Commission for England and Wales](http://data.charitycommission.gov.uk/) and republished under the Open Government Licence. Any incorrect information is present in the original data and amendments need to be made with the Charity Commission itself.
 
 # Charity lookups
 
