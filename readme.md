@@ -6,7 +6,7 @@
 
 # Charity data
 
-## [ccew-basic.csv](ccew-basic.csv)
+## [ccew-basic.csv](ccew-basic.csv) - [47MB]
 
 A basic dump of data from the Charity Commission for England and Wales. Includes:
 
