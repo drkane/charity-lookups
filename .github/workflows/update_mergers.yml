@@ -21,9 +21,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas
         pip install requests_html
-    - name: Create CSV and JSON
+    - name: Update CSV with latest data
       run: |
-        python scripts\ccew-register-of-mergers.py
+        python scripts/ccew-register-of-mergers.py
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
