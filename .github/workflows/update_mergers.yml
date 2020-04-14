@@ -3,7 +3,7 @@ name: Update register of mergers
 on:
   push:
   schedule:
-    - cron: '5 4 * * *'
+    - cron: '5 4 * * 1'
 
 jobs:
   build:
