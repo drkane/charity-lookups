@@ -129,6 +129,10 @@ def parse_rom(rom):
 
     print("{:,.0f} rows don't have a valid date".format(len(rom_df)-without_date_field))
 
+    # fix typo in a charity number
+    # 1115638 => 1112538
+    rom_df.loc[rom_df["transferor_regno"]=="1115638", "transferor_regno"] = "1112538"
+
     # reorder the columns
     rom_df = rom_df[["transferor_name",
                      "transferor_regno",
