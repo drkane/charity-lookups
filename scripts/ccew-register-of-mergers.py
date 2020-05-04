@@ -71,11 +71,18 @@ def parse_rom(rom):
     print("Existing columns:")
     for c in rom_df.columns:
         print(" - {}".format(c))
-    rom_df.columns = ["transferor_name",
-                      "transferee_name",
-                      "date_vesting_declaration",
-                      "date_property_transferred",
-                      "date_merger_registered"]
+    new_columns = {
+        "Name of transferring charity (transferor) and charity number (if any)": "transferor_name",
+        "Name of receiving charity (transferee) and charity number (if any)": "transferee_name",
+        "Date Vesting Declaration made": "date_vesting_declaration",
+        "Date property transferred": "date_property_transferred",
+        "Date merger registered": "date_merger_registered"
+    }
+    rom_df = rom_df.rename(columns=lambda c: new_columns.get(c.strip(), c))
+    print("renamed columns")
+    for c in new_columns.values():
+        print(c)
+        assert c in rom_df.columns
 
     # look for rows split by lots of spaces
     rom_df = splitDataFrameList(rom_df, "transferor_name", r"\s\s\s\s+")
@@ -113,15 +120,20 @@ def parse_rom(rom):
             continue
 
         # fix date typos
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("`", "")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("I ", "01 ")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Janaury", "January")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Janurary", "January")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Marhc", "March")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Ju;u", "June")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Octboer", "October")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Deceber", "December")
-        rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace("Decimber", "December")
+        date_replace = [
+            ("`", ""),
+            ("I ", "01 "),
+            ("Janaury", "January"),
+            ("Janurary", "January"),
+            ("Marhc", "March"),
+            ("Ju;u", "June"),
+            ("Octboer", "October"),
+            ("Deceber", "December"),
+            ("Decimber", "December"),
+            ("Augiust", "August"),
+        ]
+        for d in date_replace:
+            rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace(d[0], d[1])
         
         rom_df.loc[:, f] = pd.to_datetime(rom_df[f])
 
@@ -144,7 +156,7 @@ def parse_rom(rom):
                      "date_property_transferred",
                      "date_merger_registered"]]
 
-    return rom_df
+    return rom_df.sort_values("date_merger_registered")
 
 
 def main():
