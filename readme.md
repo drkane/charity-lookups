@@ -6,9 +6,9 @@
 
 # Charity data
 
-## [ccew-basic.csv](ccew-basic.csv) - [47MB]
+## [ccew-basic.csv](ccew-basic.csv)
 
-A basic dump of data from the Charity Commission for England and Wales. Includes:
+A basic dump of data from the Charity Commission for England and Wales, only including currently active charities. The file is around 25MB. Includes:
 
  - `regno`: the charity number
  - `name`: the name of the charity
@@ -27,6 +27,10 @@ A basic dump of data from the Charity Commission for England and Wales. Includes
  - `last_updated`: when the data was last updated from Charity Commission records (nb the actual data update may be older than this)
 
 The data is extracted from [Charity Commission for England and Wales](http://data.charitycommission.gov.uk/) and republished under the Open Government Licence. Any incorrect information is present in the original data and amendments need to be made with the Charity Commission itself.
+
+## [ccew-removed.csv](ccew-removed.csv)
+
+A basic dump of data from the Charity Commission for England and Wales, only including charities that have been removed from the register. The file is around 22MB. Uses the same fields as [ccew-basic.csv](#ccew-basiccsv).
 
 # Charity lookups
 
