@@ -95,6 +95,11 @@ means that these should not be taken as an official list of the members of feder
 Some organisations will not be affiliated to the parent body, or may have been wrongly 
 included based on words in their name.
 
+## [grid-lookup.csv](grid-lookup.csv)
+
+A lookup from UK nonprofit organisations on the [GRID database](https://grid.ac/)
+to their charity number, either in Scotland or England and Wales.
+
 # Education charity lookups
 
 ## [academy-trusts-company-number.csv](academy-trusts-company-number.csv)
