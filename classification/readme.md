@@ -15,3 +15,4 @@ The source for the ICNP/TSO classification is the [UN Satellite Account on Non-p
 ## Other Classification systems:
 
 - Candid [Philanthropy Classification System](https://taxonomy.candid.org/resources/downloads/full-pcs-taxonomy-with-definitions) - based on NTEE
+- [Draft Framework for data on Diversity, Equality and Inclusion](https://www.tsiconsultancy.com/updated-dei-data-group-population-framework/)
