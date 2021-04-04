@@ -66,10 +66,13 @@ Read-across for activity, beneficiary and purpose categories for Charities from 
 
 - [Originally kept in a Github gist](https://gist.github.com/drkane/1cc51bd96b64fe813f6f556558f8da62)
 
-## [cc-aoo-gss-iso.csv](cc-aoo-gss-iso.csv)
+## [cc-aoo-gss-iso-new.csv](cc-aoo-gss-iso-new.csv)
 
-Charity Commission for England and Wales lookup from area of operation codes to GSS and ISO country codes 
+Charity Commission for England and Wales lookup from area of operation names to GSS and ISO country codes. From the new (April 2021) Charity Commission data download.
 
+See also:
+
+- [cc-aoo-gss-iso.csv](cc-aoo-gss-iso.csv) - version from old Charity Commission format download.
 - [Originally kept in a Github gist](https://gist.github.com/drkane/8973fd75009f502f28aacfdc396b40d2)
 
 ## [ccew-register-of-mergers.csv](ccew-register-of-mergers.csv)

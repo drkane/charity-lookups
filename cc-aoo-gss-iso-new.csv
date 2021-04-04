@@ -1,0 +1,468 @@
+﻿geographic_area_type,geographic_area_description,GSS,ISO3166_1,ISO3166_1_3,ISO3166_2_GB,ContinentCode
+Continent,Africa,,,,,AF
+Continent,Antarctica,,,,,AN
+Continent,Asia,,,,,AS
+Continent,Europe,,,,,EU
+Continent,North America,,,,,NA
+Continent,Oceania,,,,,OC
+Continent,South America,,,,,SA
+Country,Abu Dhabi,,AE,ARE,,AS
+Country,Afghanistan,,AF,AFG,,AS
+Country,Ajman,,AE,ARE,,AS
+Country,Akrotiri,,,,,EU
+Country,Aland Islands,,AX,ALA,,EU
+Country,Albania,,AL,ALB,,EU
+Country,Algeria,,DZ,DZA,,AF
+Country,American Samoa,,AS,ASM,,OC
+Country,Andorra,,AD,AND,,EU
+Country,Angola,,AO,AGO,,AF
+Country,Anguilla,,AI,AIA,,NA
+Country,Antarctica,,AQ,ATA,,AN
+Country,Antigua And Barbuda,,AG,ATG,,NA
+Country,Argentina,,AR,ARG,,SA
+Country,Armenia,,AM,ARM,,AS
+Country,Aruba,,AW,ABW,,NA
+Country,Ascension,,SH,SHN,,AF
+Country,Australia,,AU,AUS,,OC
+Country,Austria,,AT,AUT,,EU
+Country,Azerbaijan,,AZ,AZE,,EU
+Country,Bahrain,,BH,BHR,,AS
+Country,Baker Island,,UM,UMI,,OC
+Country,Bangladesh,,BD,BGD,,AS
+Country,Barbados,,BB,BRB,,NA
+Country,Belarus,,BY,BLR,,EU
+Country,Belgium,,BE,BEL,,EU
+Country,Belize,,BZ,BLZ,,NA
+Country,Benin,,BJ,BEN,,AF
+Country,Bermuda,,BM,BMU,,NA
+Country,Bhutan,,BT,BTN,,AS
+Country,Bolivia,,BO,BOL,,SA
+Country,Bonaire,,BQ,BES,,NA
+Country,Bosnia And Herzegovina,,BA,BIH,,EU
+Country,Botswana,,BW,BWA,,AF
+Country,Bouvet Island,,BV,BVT,,AN
+Country,Brazil,,BR,BRA,,SA
+Country,British Antarctic Territory,,BQ,ATB,,AN
+Country,British Indian Ocean Territory,,IO,IOT,,AS
+Country,British Virgin Islands,,VG,VGB,,NA
+Country,Brunei,,BN,BRN,,AS
+Country,Bulgaria,,BG,BGR,,EU
+Country,Burkina Faso,,BF,BFA,,AF
+Country,Burma,,MM,MMR,,AS
+Country,Burundi,,BI,BDI,,AF
+Country,Cambodia,,KH,KHM,,AS
+Country,Cameroon,,CM,CMR,,AF
+Country,Canada,,CA,CAN,,NA
+Country,Cape Verde,,CV,CPV,,EU
+Country,Cayman Islands,,KY,CYM,,NA
+Country,Central African Republic,,CF,CAF,,AF
+Country,Ceuta,,EA,,,AF
+Country,Chad,,TD,TCD,,AF
+Country,Chile,,CL,CHL,,SA
+Country,China,,CN,CHN,,AS
+Country,Christmas Island,,CX,CXR,,AS
+Country,Cocos (KEELING) ISLANDS,,CC,CCK,,AS
+Country,Colombia,,CO,COL,,SA
+Country,Comoros,,KM,COM,,AF
+Country,Congo,,CG,COG,,AF
+Country,Congo (Democratic Republic),,CD,COD,,AF
+Country,Cook Islands,,CK,COK,,OC
+Country,Costa Rica,,CR,CRI,,NA
+Country,Croatia,,HR,HRV,,EU
+Country,Cuba,,CU,CUB,,NA
+Country,Cyprus,,CY,CYP,,EU
+Country,Czech Republic,,CZ,CZE,,EU
+Country,Denmark,,DK,DNK,,EU
+Country,Dhekelia,,,,,EU
+Country,Djibouti,,DJ,DJI,,AF
+Country,Dominica,,DM,DMA,,NA
+Country,Dominican Republic,,DO,DOM,,NA
+Country,Dubai,,AE,ARE,,AS
+Country,East Timor,,TL,TLS,,AS
+Country,Easter Island,,CL,CHL,,OC
+Country,Ecuador,,EC,ECU,,SA
+Country,Egypt,,EG,EGY,,AF
+Country,El Salvador,,SV,SLV,,NA
+Country,Equatorial Guinea,,GQ,GNQ,,AF
+Country,Eritrea,,ER,ERI,,AF
+Country,Estonia,,EE,EST,,EU
+Country,Eswatini,,SZ,SWZ,,AF
+Country,Ethiopia,,ET,ETH,,AF
+Country,Falkland Islands,,FK,FLK,,SA
+Country,Faroe Islands,,FO,FRO,,EU
+Country,Fiji,,FJ,FJI,,OC
+Country,Finland,,FI,FIN,,EU
+Country,France,,FR,FRA,,EU
+Country,French Guiana,,GF,GUF,,SA
+Country,French Polynesia,,PF,PYF,,OC
+Country,French Southern Territories,,TF,ATF,,AF
+Country,Fujairah,,AE,ARE,,AS
+Country,Gabon,,GA,GAB,,AF
+Country,Georgia,,GE,GEO,,EU
+Country,Germany,,DE,DEU,,EU
+Country,Ghana,,GH,GHA,,AF
+Country,Gibraltar,,GI,GIB,,EU
+Country,Greece,,GR,GRC,,EU
+Country,Greenland,,GL,GRL,,NA
+Country,Grenada,,GD,GRD,,NA
+Country,Guadeloupe,,GP,GLP,,NA
+Country,Guam,,GU,GUM,,OC
+Country,Guatemala,,GT,GTM,,NA
+Country,Guernsey,,GG,GGY,,EU
+Country,Guinea,,GN,GIN,,AF
+Country,Guinea-bissau,,GW,GNB,,AF
+Country,Guyana,,GY,GUY,,SA
+Country,Haiti,,HT,HTI,,NA
+Country,Heard Island And Mcdonald Islands,,HM,HMD,,OC
+Country,Honduras,,HN,HND,,NA
+Country,Hong Kong,,HK,HKG,,AS
+Country,Howland Island,,UM,UMI,,OC
+Country,Hungary,,HU,HUN,,EU
+Country,Iceland,,IS,ISL,,EU
+Country,India,,IN,IND,,AS
+Country,Indonesia,,ID,IDN,,AS
+Country,Iran,,IR,IRN,,AS
+Country,Iraq,,IQ,IRQ,,AS
+Country,Ireland,,IE,IRL,,EU
+Country,Isle Of Man,,IM,IMN,,EU
+Country,Israel,,IL,ISR,,AS
+Country,Italy,,IT,ITA,,EU
+Country,Ivory Coast,,CI,CIV,,AF
+Country,Jamaica,,JM,JAM,,NA
+Country,Japan,,JP,JPN,,AS
+Country,Jarvis Island,,UM,UMI,,OC
+Country,Jersey,,JE,JEY,,EU
+Country,Johnston Atoll,,UM,UMI,,OC
+Country,Jordan,,JO,JOR,,AS
+Country,Kazakhstan,,KZ,KAZ,,AS
+Country,Kenya,,KE,KEN,,AF
+Country,Kingman Reef,,UM,UMI,,OC
+Country,Kiribati,,KI,KIR,,OC
+Country,Kosovo,,XK,UNK,,EU
+Country,Kuwait,,KW,KWT,,AS
+Country,Kyrgyzstan,,KG,KGZ,,AS
+Country,Laos,,LA,LAO,,AS
+Country,Latvia,,LV,LVA,,EU
+Country,Lebanon,,LB,LBN,,AS
+Country,Lesotho,,LS,LSO,,AF
+Country,Liberia,,LR,LBR,,AF
+Country,Libya,,LY,LBY,,AF
+Country,Liechtenstein,,LI,LIE,,EU
+Country,Lithuania,,LT,LTU,,EU
+Country,Luxembourg,,LU,LUX,,EU
+Country,Macau,,MO,MAC,,AS
+Country,Macedonia,,MK,MKD,,EU
+Country,Madagascar,,MG,MDG,,AF
+Country,Malawi,,MW,MWI,,AF
+Country,Malaysia,,MY,MYS,,AS
+Country,Maldives,,MV,MDV,,AS
+Country,Mali,,ML,MLI,,AF
+Country,Malta,,MT,MLT,,EU
+Country,Marshall Islands,,MH,MHL,,OC
+Country,Martinique,,MQ,MTQ,,NA
+Country,Mauritania,,MR,MRT,,AF
+Country,Mauritius,,MU,MUS,,AF
+Country,Mayotte,,YT,MYT,,AF
+Country,Melilla,,EA,,,AF
+Country,Mexico,,MX,MEX,,NA
+Country,Micronesia,,FM,FSM,,OC
+Country,Midway Islands,,UM,UMI,,OC
+Country,Moldova,,MD,MDA,,EU
+Country,Monaco,,MC,MCO,,EU
+Country,Mongolia,,MN,MNG,,AS
+Country,Montenegro,,ME,MNE,,EU
+Country,Montserrat,,MS,MSR,,NA
+Country,Morocco,,MA,MAR,,AF
+Country,Mozambique,,MZ,MOZ,,AF
+Country,Namibia,,NA,NAM,,AF
+Country,Nauru,,NR,NRU,,OC
+Country,Navassa Island,,UM,UMI,,OC
+Country,Nepal,,NP,NPL,,AS
+Country,Netherlands,,NL,NLD,,EU
+Country,Netherlands Antilles,,AN,ANT,,NA
+Country,New Caledonia,,NC,NCL,,OC
+Country,New Zealand,,NZ,NZL,,OC
+Country,Nicaragua,,NI,NIC,,NA
+Country,Niger,,NE,NER,,AF
+Country,Nigeria,,NG,NGA,,AF
+Country,Niue,,NU,NIU,,OC
+Country,Norfolk Island,,NF,NFK,,OC
+Country,North Korea,,KP,PRK,,AS
+Country,Northern Ireland,N92000002,GB,GBR,GB-NIR,EU
+Country,Northern Mariana Islands,,MP,MNP,,OC
+Country,Norway,,NO,NOR,,EU
+Country,Occupied Palestinian Territories,,PS,PSE,,AS
+Country,Oman,,OM,OMN,,AS
+Country,Pakistan,,PK,PAK,,AS
+Country,Palau,,PW,PLW,,OC
+Country,Palmyra Atoll,,UM,UMI,,OC
+Country,Panama,,PA,PAN,,NA
+Country,Papua New Guinea,,PG,PNG,,OC
+Country,Paraguay,,PY,PRY,,SA
+Country,Peru,,PE,PER,,SA
+Country,Philippines,,PH,PHL,,AS
+Country,"Pitcairn, Henderson, Ducie And Oeno Islands",,PN,PCN,,OC
+Country,Poland,,PL,POL,,EU
+Country,Portugal,,PT,PRT,,EU
+Country,Puerto Rico,,PR,PRI,,NA
+Country,Qatar,,QA,QAT,,AS
+Country,Ras Al-khaimah,,AE,ARE,,AS
+Country,Réunion,,RE,REU,,AF
+Country,Romania,,RO,ROU,,EU
+Country,Russia,,RU,RUS,,EU
+Country,Rwanda,,RW,RWA,,AF
+Country,Saba,,BQ,BES,,NA
+Country,Saint-Martin,,MF,MAF,,NA
+Country,Saint Barthélemy,,BL,BLM,,NA
+Country,Saint Helena,,SH,SHN,,AF
+Country,Saint Pierre And Miquelon,,PM,SPM,,NA
+Country,Saint Vincent,,VC,VCT,,NA
+Country,Samoa,,WS,WSM,,OC
+Country,San Marino,,SM,SMR,,EU
+Country,São Tomé And Principe,,ST,STP,,AF
+Country,Saudi Arabia,,SA,SAU,,AS
+Country,Scotland,S92000003,GB,GBR,GB-SCT,EU
+Country,Senegal,,SN,SEN,,AF
+Country,Serbia,,RS,SRB,,EU
+Country,Seychelles,,SC,SYC,,AF
+Country,Sierra Leone,,SL,SLE,,AF
+Country,Singapore,,SG,SGP,,AS
+Country,Sint Eustatius,,BQ,BES,,NA
+Country,Sint Maarten,,SX,SXM,,NA
+Country,Slovakia,,SK,SVK,,EU
+Country,Slovenia,,SI,SVN,,EU
+Country,Solomon Islands,,SB,SLB,,OC
+Country,Somalia,,SO,SOM,,AF
+Country,South Africa,,ZA,ZAF,,AF
+Country,South Georgia And South Sandwich Islands,,GS,SGS,,SA
+Country,South Korea,,KR,KOR,,AS
+Country,South Sudan,,SS,SSD,,AF
+Country,Spain,,ES,ESP,,EU
+Country,Sri Lanka,,LK,LKA,,AS
+Country,St Kitts And Nevis,,KN,KNA,,NA
+Country,St Lucia,,LC,LCA,,NA
+Country,Sudan,,SD,SDN,,AF
+Country,Suriname,,SR,SUR,,SA
+Country,Svalbard And Jan Mayen,,SJ,SJM,,EU
+Country,Sweden,,SE,SWE,,EU
+Country,Switzerland,,CH,CHE,,EU
+Country,Syria,,SY,SYR,,AS
+Country,Taiwan,,TW,TWN,,AS
+Country,Tajikistan,,TJ,TJK,,AS
+Country,Tanzania,,TZ,TZA,,AF
+Country,Thailand,,TH,THA,,AS
+Country,The Bahamas,,BS,BHS,,NA
+Country,The Gambia,,GM,GMB,,AF
+Country,Togo,,TG,TGO,,AF
+Country,Tokelau,,TK,TKL,,OC
+Country,Tonga,,TO,TON,,OC
+Country,Trinidad And Tobago,,TT,TTO,,NA
+Country,Tristan Da Cunha,,SH,SHN,,AF
+Country,Tunisia,,TN,TUN,,AF
+Country,Turkey,,TR,TUR,,AS
+Country,Turkmenistan,,TM,TKM,,AS
+Country,Turks And Caicos Islands,,TC,TCA,,NA
+Country,Tuvalu,,TV,TUV,,OC
+Country,Uganda,,UG,UGA,,AF
+Country,Ukraine,,UA,UKR,,EU
+Country,Umm Al-quwain,,AE,ARE,,AS
+Country,United Arab Emirates,,AE,ARE,,AS
+Country,United States,,US,USA,,NA
+Country,United States Virgin Islands,,VI,VIR,,NA
+Country,Uruguay,,UY,URY,,SA
+Country,Uzbekistan,,UZ,UZB,,AS
+Country,Vanuatu,,VU,VUT,,OC
+Country,Vatican City,,VA,VAT,,EU
+Country,Venezuela,,VE,VEN,,SA
+Country,Vietnam,,VN,VNM,,AS
+Country,Wake Island,,UM,UMI,,OC
+Country,Wallis And Futuna,,WF,WLF,,OC
+Country,Western Sahara,,EH,ESH,,AF
+Country,Yemen,,YE,YEM,,AS
+Country,Zambia,,ZM,ZMB,,AF
+Country,Zimbabwe,,ZW,ZWE,,AF
+Local Authority,Barking And Dagenham,E09000002,GB,GBR,GB-BDG,EU
+Local Authority,Barnet,E09000003,GB,GBR,GB-BNE,EU
+Local Authority,Barnsley,E08000016,GB,GBR,GB-BNS,EU
+Local Authority,Bath And North East Somerset,E06000022,GB,GBR,GB-BAS,EU
+Local Authority,Bedford,E06000055,GB,GBR,GB-BDF,EU
+Local Authority,Bexley,E09000004,GB,GBR,GB-BEX,EU
+Local Authority,Birmingham City,E08000025,GB,GBR,GB-BIR,EU
+Local Authority,Blackburn With Darwen,E06000008,GB,GBR,GB-BBD,EU
+Local Authority,Blackpool,E06000009,GB,GBR,GB-BPL,EU
+Local Authority,Blaenau Gwent,W06000019,GB,GBR,GB-BGW,EU
+Local Authority,Bolton,E08000001,GB,GBR,GB-BOL,EU
+Local Authority,Bournemouth,E06000058,GB,GBR,GB-BMH,EU
+Local Authority,Bracknell Forest,E06000036,GB,GBR,GB-BRC,EU
+Local Authority,Bradford City,E08000032,GB,GBR,GB-BRD,EU
+Local Authority,Brent,E09000005,GB,GBR,GB-BEN,EU
+Local Authority,Bridgend,W06000013,GB,GBR,GB-BGE,EU
+Local Authority,Brighton And Hove,E06000043,GB,GBR,GB-BNH,EU
+Local Authority,Bristol City,E06000023,GB,GBR,GB-BST,EU
+Local Authority,Bromley,E09000006,GB,GBR,GB-BRY,EU
+Local Authority,Buckinghamshire,E06000060,GB,GBR,GB-BKM,EU
+Local Authority,Bury,E08000002,GB,GBR,GB-BUR,EU
+Local Authority,Caerphilly,W06000018,GB,GBR,GB-CAY,EU
+Local Authority,Calderdale,E08000033,GB,GBR,GB-CLD,EU
+Local Authority,Cambridgeshire,E10000003,GB,GBR,GB-CAM,EU
+Local Authority,Camden,E09000007,GB,GBR,GB-CMD,EU
+Local Authority,Cardiff,W06000015,GB,GBR,GB-CRF,EU
+Local Authority,Carmarthenshire,W06000010,GB,GBR,GB-CMN,EU
+Local Authority,Central Bedfordshire,E06000056,GB,GBR,GB-CBF,EU
+Local Authority,Ceredigion,W06000008,GB,GBR,GB-CGN,EU
+Local Authority,Cheshire East,E06000049,GB,GBR,GB-CHE,EU
+Local Authority,Cheshire West & Chester,E06000050,GB,GBR,GB-CHW,EU
+Local Authority,City Of London,E09000001,GB,GBR,GB-LND,EU
+Local Authority,City Of Swansea,W06000011,GB,GBR,GB-SWA,EU
+Local Authority,City Of Wakefield,E08000036,GB,GBR,GB-WKF,EU
+Local Authority,City Of Westminster,E09000033,GB,GBR,GB-WSM,EU
+Local Authority,City Of York,E06000014,GB,GBR,GB-YOR,EU
+Local Authority,Conwy,W06000003,GB,GBR,GB-CWY,EU
+Local Authority,Cornwall,E06000052,GB,GBR,GB-CON,EU
+Local Authority,Coventry City,E08000026,GB,GBR,GB-COV,EU
+Local Authority,Croydon,E09000008,GB,GBR,GB-CRY,EU
+Local Authority,Cumbria,E10000006,GB,GBR,GB-CMA,EU
+Local Authority,Darlington,E06000005,GB,GBR,GB-DAL,EU
+Local Authority,Denbighshire,W06000004,GB,GBR,GB-DEN,EU
+Local Authority,Derby City,E06000015,GB,GBR,GB-DER,EU
+Local Authority,Derbyshire,E10000007,GB,GBR,GB-DBY,EU
+Local Authority,Devon,E10000008,GB,GBR,GB-DEV,EU
+Local Authority,Doncaster,E08000017,GB,GBR,GB-DNC,EU
+Local Authority,Dorset,E06000059,GB,GBR,GB-DOR,EU
+Local Authority,Dudley,E08000027,GB,GBR,GB-DUD,EU
+Local Authority,Durham,E06000047,GB,GBR,GB-DUR,EU
+Local Authority,Ealing,E09000009,GB,GBR,GB-EAL,EU
+Local Authority,East Riding Of Yorkshire,E06000011,GB,GBR,GB-ERY,EU
+Local Authority,East Sussex,E10000011,GB,GBR,GB-ESX,EU
+Local Authority,Enfield,E09000010,GB,GBR,GB-ENF,EU
+Local Authority,Essex,E10000012,GB,GBR,GB-ESS,EU
+Local Authority,Flintshire,W06000005,GB,GBR,GB-FLN,EU
+Local Authority,Gateshead,E08000037,GB,GBR,GB-GAT,EU
+Local Authority,Gloucestershire,E10000013,GB,GBR,GB-GLS,EU
+Local Authority,Greenwich,E09000011,GB,GBR,GB-GRE,EU
+Local Authority,Gwynedd,W06000002,GB,GBR,GB-GWN,EU
+Local Authority,Hackney,E09000012,GB,GBR,GB-HCK,EU
+Local Authority,Halton,E06000006,GB,GBR,GB-HAL,EU
+Local Authority,Hammersmith And Fulham,E09000013,GB,GBR,GB-HMF,EU
+Local Authority,Hampshire,E10000014,GB,GBR,GB-HAM,EU
+Local Authority,Haringey,E09000014,GB,GBR,GB-HRY,EU
+Local Authority,Harrow,E09000015,GB,GBR,GB-HRW,EU
+Local Authority,Hartlepool,E06000001,GB,GBR,GB-HPL,EU
+Local Authority,Havering,E09000016,GB,GBR,GB-HAV,EU
+Local Authority,Herefordshire,E06000019,GB,GBR,GB-HEF,EU
+Local Authority,Hertfordshire,E06000019,GB,GBR,GB-HRT,EU
+Local Authority,Hillingdon,E09000017,GB,GBR,GB-HIL,EU
+Local Authority,Hounslow,E09000018,GB,GBR,GB-HNS,EU
+Local Authority,Isle Of Anglesey,W06000001,GB,GBR,GB-AGY,EU
+Local Authority,Isle Of Wight,E06000046,GB,GBR,GB-IOW,EU
+Local Authority,Isles Of Scilly,E06000053,GB,GBR,GB-IOS,EU
+Local Authority,Islington,E09000019,GB,GBR,GB-ISL,EU
+Local Authority,Kensington And Chelsea,E09000020,GB,GBR,GB-KEC,EU
+Local Authority,Kent,E10000016,GB,GBR,GB-KEN,EU
+Local Authority,Kingston Upon Hull City,E06000010,GB,GBR,GB-KHL,EU
+Local Authority,Kingston Upon Thames,E09000021,GB,GBR,GB-KTT,EU
+Local Authority,Kirklees,E08000034,GB,GBR,GB-KIR,EU
+Local Authority,Knowsley,E08000011,GB,GBR,GB-KWL,EU
+Local Authority,Lambeth,E09000022,GB,GBR,GB-LBH,EU
+Local Authority,Lancashire,E10000017,GB,GBR,GB-LAN,EU
+Local Authority,Leeds City,E08000035,GB,GBR,GB-LDS,EU
+Local Authority,Leicester City,E06000016,GB,GBR,GB-LCE,EU
+Local Authority,Leicestershire,E10000018,GB,GBR,GB-LEC,EU
+Local Authority,Lewisham,E09000023,GB,GBR,GB-LEW,EU
+Local Authority,Lincolnshire,E10000019,GB,GBR,GB-LIN,EU
+Local Authority,Liverpool City,E08000012,GB,GBR,GB-LIV,EU
+Local Authority,Luton,E06000032,GB,GBR,GB-LUT,EU
+Local Authority,Manchester City,E08000003,GB,GBR,GB-MAN,EU
+Local Authority,Medway,E06000035,GB,GBR,GB-MDW,EU
+Local Authority,Merthyr Tydfil,W06000024,GB,GBR,GB-MTY,EU
+Local Authority,Merton,E09000024,GB,GBR,GB-MRT,EU
+Local Authority,Middlesbrough,E06000002,GB,GBR,GB-MDB,EU
+Local Authority,Milton Keynes,E06000042,GB,GBR,GB-MIK,EU
+Local Authority,Monmouthshire,W06000021,GB,GBR,GB-MON,EU
+Local Authority,Neath Port Talbot,W06000012,GB,GBR,GB-NTL,EU
+Local Authority,Newcastle Upon Tyne City,E08000021,GB,GBR,GB-NET,EU
+Local Authority,Newham,E09000025,GB,GBR,GB-NWM,EU
+Local Authority,Newport City,W06000022,GB,GBR,GB-NWP,EU
+Local Authority,Norfolk,E10000020,GB,GBR,GB-NFK,EU
+Local Authority,North East Lincolnshire,E06000012,GB,GBR,GB-NEL,EU
+Local Authority,North Lincolnshire,E06000013,GB,GBR,GB-NLN,EU
+Local Authority,North Somerset,E06000024,GB,GBR,GB-NSM,EU
+Local Authority,North Tyneside,E08000022,GB,GBR,GB-NTY,EU
+Local Authority,North Yorkshire,E10000023,GB,GBR,GB-NYK,EU
+Local Authority,Northamptonshire,E10000021,GB,GBR,GB-NTH,EU
+Local Authority,Northumberland,E06000057,GB,GBR,GB-NBL,EU
+Local Authority,Nottingham City,E06000018,GB,GBR,GB-NGM,EU
+Local Authority,Nottinghamshire,E10000024,GB,GBR,GB-NTT,EU
+Local Authority,Oldham,E08000004,GB,GBR,GB-OLD,EU
+Local Authority,Oxfordshire,E10000025,GB,GBR,GB-OXF,EU
+Local Authority,Pembrokeshire,W06000009,GB,GBR,GB-PEM,EU
+Local Authority,Peterborough City,E06000031,GB,GBR,GB-PTE,EU
+Local Authority,Plymouth City,E06000026,GB,GBR,GB-PLY,EU
+Local Authority,Poole,E06000058,GB,GBR,GB-POL,EU
+Local Authority,Portsmouth City,E06000044,GB,GBR,GB-POR,EU
+Local Authority,Powys,W06000023,GB,GBR,GB-POW,EU
+Local Authority,Reading,E06000038,GB,GBR,GB-RDG,EU
+Local Authority,Redbridge,E09000026,GB,GBR,GB-RDB,EU
+Local Authority,Redcar And Cleveland,E06000003,GB,GBR,GB-RCC,EU
+Local Authority,Rhondda Cynon Taff,W06000016,GB,GBR,GB-RCT,EU
+Local Authority,Richmond Upon Thames,E09000027,GB,GBR,GB-RIC,EU
+Local Authority,Rochdale,E08000005,GB,GBR,GB-RCH,EU
+Local Authority,Rotherham,E08000018,GB,GBR,GB-ROT,EU
+Local Authority,Rutland,E06000017,GB,GBR,GB-RUT,EU
+Local Authority,Salford City,E08000006,GB,GBR,GB-SLF,EU
+Local Authority,Sandwell,E08000028,GB,GBR,GB-SAW,EU
+Local Authority,Sefton,E08000014,GB,GBR,GB-SFT,EU
+Local Authority,Sheffield City,E08000019,GB,GBR,GB-SHF,EU
+Local Authority,Shropshire,E06000051,GB,GBR,GB-SHR,EU
+Local Authority,Slough,E06000039,GB,GBR,GB-SLG,EU
+Local Authority,Solihull,E08000029,GB,GBR,GB-SOL,EU
+Local Authority,Somerset,E10000027,GB,GBR,GB-SOM,EU
+Local Authority,South Gloucestershire,E06000025,GB,GBR,GB-SGC,EU
+Local Authority,South Tyneside,E08000023,GB,GBR,GB-STY,EU
+Local Authority,Southampton City,E06000045,GB,GBR,GB-STH,EU
+Local Authority,Southend-on-sea,E06000033,GB,GBR,GB-SOS,EU
+Local Authority,Southwark,E09000028,GB,GBR,GB-SWK,EU
+Local Authority,St Helens,E08000013,GB,GBR,GB-SHN,EU
+Local Authority,Staffordshire,E10000028,GB,GBR,GB-STS,EU
+Local Authority,Stockport,E08000007,GB,GBR,GB-SKP,EU
+Local Authority,Stockton-on-tees,E06000004,GB,GBR,GB-STT,EU
+Local Authority,Stoke-on-trent City,E06000021,GB,GBR,GB-STE,EU
+Local Authority,Suffolk,E10000029,GB,GBR,GB-SFK,EU
+Local Authority,Sunderland,E08000024,GB,GBR,GB-SND,EU
+Local Authority,Surrey,E10000030,GB,GBR,GB-SRY,EU
+Local Authority,Sutton,E09000029,GB,GBR,GB-STN,EU
+Local Authority,Swindon,E06000030,GB,GBR,GB-SWD,EU
+Local Authority,Tameside,E08000008,GB,GBR,GB-TAM,EU
+Local Authority,Telford & Wrekin,E06000020,GB,GBR,GB-TFW,EU
+Local Authority,Thurrock,E06000034,GB,GBR,GB-THR,EU
+Local Authority,Torbay,E06000027,GB,GBR,GB-TOB,EU
+Local Authority,Torfaen,W06000020,GB,GBR,GB-TOF,EU
+Local Authority,Tower Hamlets,E09000030,GB,GBR,GB-TWH,EU
+Local Authority,Trafford,E08000009,GB,GBR,GB-TRF,EU
+Local Authority,Vale Of Glamorgan,W06000014,GB,GBR,GB-VGL,EU
+Local Authority,Walsall,E08000030,GB,GBR,GB-WLL,EU
+Local Authority,Waltham Forest,E09000031,GB,GBR,GB-WFT,EU
+Local Authority,Wandsworth,E09000032,GB,GBR,GB-WND,EU
+Local Authority,Warrington,E06000007,GB,GBR,GB-WRT,EU
+Local Authority,Warwickshire,E10000031,GB,GBR,GB-WAR,EU
+Local Authority,West Berkshire,E06000037,GB,GBR,GB-WBK,EU
+Local Authority,West Sussex,E10000032,GB,GBR,GB-WSX,EU
+Local Authority,Wigan,E08000010,GB,GBR,GB-WGN,EU
+Local Authority,Wiltshire,E06000054,GB,GBR,GB-WIL,EU
+Local Authority,Windsor And Maidenhead,E06000040,GB,GBR,GB-WNM,EU
+Local Authority,Wirral,E08000015,GB,GBR,GB-WRL,EU
+Local Authority,Wokingham,E06000041,GB,GBR,GB-WOK,EU
+Local Authority,Wolverhampton,E08000031,GB,GBR,GB-WLV,EU
+Local Authority,Worcestershire,E10000034,GB,GBR,GB-WOR,EU
+Local Authority,Wrexham,W06000006,GB,GBR,GB-WRX,EU
+Metropolitan Counties,Greater London,E12000007,GB,GBR,,EU
+Metropolitan Counties,Greater Manchester,E11000001,GB,GBR,,EU
+Metropolitan Counties,Merseyside,E11000002,GB,GBR,,EU
+Metropolitan Counties,South Yorkshire,E11000003,GB,GBR,,EU
+Metropolitan Counties,Tyne And Wear,E11000007,GB,GBR,,EU
+Metropolitan Counties,West Midlands,E11000005,GB,GBR,,EU
+Metropolitan Counties,West Yorkshire,E11000006,GB,GBR,,EU
+Region,Throughout England,E92000001,GB,GBR,GB-ENG,EU
+Region,Throughout England And Wales,K04000001,GB,GBR,GB-EAW,EU
+Region,Throughout London,E12000007,GB,GBR,,EU
+Region,Throughout Wales,W92000004,GB,GBR,GB-WLS,EU
