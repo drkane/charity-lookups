@@ -92,13 +92,16 @@ def parse_rom(rom):
 
     # look for charity numbers in the data
     # charity number extraction includes looking for subsidiary numbers
-    regno_regex = r"\(([0-9]{6,7})([\-\/]([0-9]+))?\)"
+    regno_regex = r"(\(([0-9]{6,7})([\-\/]([0-9]+))?\)| ([0-9]{6,7})$)"
 
     for f in ["transferor", "transferee"]:
         regno = rom_df[f + "_name"].str.extract(regno_regex, expand=True)
-        rom_df.loc[:, f + "_regno"] = regno[0]
-        rom_df.loc[:, f + "_subno"] = regno[2].fillna(0)
-        rom_df.loc[:, f + "_name"] = rom_df[f + "_name"].str.replace(regno_regex, "")
+        print(regno)
+        rom_df.loc[:, f + "_regno"] = regno[1].fillna(regno[4])
+        rom_df.loc[:, f + "_subno"] = regno[3].fillna(0)
+        rom_df.loc[:, f + "_name"] = rom_df[f + "_name"].str.replace(
+            regno_regex, "", regex=True
+        )
         rom_df.loc[rom_df[f + "_regno"].isnull(), f + "_subno"] = None
     print("Charity numbers extracted")
     print(
@@ -148,7 +151,11 @@ def parse_rom(rom):
                 d[0], d[1]
             )
 
-        rom_df.loc[:, f] = pd.to_datetime(rom_df[f])
+        rom_df.loc[:, f] = pd.to_datetime(
+            rom_df[f],
+            infer_datetime_format=True,
+            dayfirst=True,
+        )
 
     without_date_field = len(rom_df[date_fields].dropna(how="all"))
 
@@ -187,7 +194,7 @@ def parse_rom(rom):
         ]
     )
 
-    return rom_df.sort_values("date_merger_registered")
+    return rom_df
 
 
 def main():
