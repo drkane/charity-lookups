@@ -2,3 +2,6 @@ pandas
 requests_html
 black
 isort
+ipykernel
+sqlalchemy
+psycopg2-binary
