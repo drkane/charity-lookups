@@ -6,14 +6,8 @@
 #
 appdirs==1.4.4
     # via pyppeteer
-asttokens==2.0.5
-    # via stack-data
-backcall==0.2.0
-    # via ipython
 beautifulsoup4==4.11.1
     # via bs4
-black==22.6.0
-    # via -r requirements.in
 bs4==0.0.1
     # via requests-html
 certifi==2022.6.15
@@ -22,101 +16,34 @@ certifi==2022.6.15
     #   requests
 charset-normalizer==2.1.0
     # via requests
-click==8.1.3
-    # via black
 colorama==0.4.5
-    # via
-    #   click
-    #   ipython
-    #   tqdm
+    # via tqdm
 cssselect==1.1.0
     # via pyquery
-debugpy==1.6.2
-    # via ipykernel
-decorator==5.1.1
-    # via ipython
-entrypoints==0.4
-    # via jupyter-client
-executing==0.8.3
-    # via stack-data
 fake-useragent==0.1.11
     # via requests-html
-greenlet==1.1.2
-    # via sqlalchemy
 idna==3.3
     # via requests
 importlib-metadata==4.12.0
     # via pyppeteer
-ipykernel==6.15.1
-    # via -r requirements.in
-ipython==8.4.0
-    # via ipykernel
-isort==5.10.1
-    # via -r requirements.in
-jedi==0.18.1
-    # via ipython
-jupyter-client==7.3.4
-    # via ipykernel
-jupyter-core==4.11.1
-    # via jupyter-client
 lxml==4.9.1
     # via pyquery
-matplotlib-inline==0.1.3
-    # via
-    #   ipykernel
-    #   ipython
-mypy-extensions==0.4.3
-    # via black
-nest-asyncio==1.5.5
-    # via
-    #   ipykernel
-    #   jupyter-client
 numpy==1.23.0
     # via pandas
-packaging==21.3
-    # via ipykernel
 pandas==1.4.3
     # via -r requirements.in
 parse==1.19.0
     # via requests-html
-parso==0.8.3
-    # via jedi
-pathspec==0.9.0
-    # via black
-pickleshare==0.7.5
-    # via ipython
-platformdirs==2.5.2
-    # via black
-prompt-toolkit==3.0.30
-    # via ipython
-psutil==5.9.1
-    # via ipykernel
-psycopg2-binary==2.9.3
-    # via -r requirements.in
-pure-eval==0.2.2
-    # via stack-data
 pyee==8.2.2
     # via pyppeteer
-pygments==2.12.0
-    # via ipython
-pyparsing==3.0.9
-    # via packaging
 pyppeteer==1.0.2
     # via requests-html
 pyquery==1.4.3
     # via requests-html
 python-dateutil==2.8.2
-    # via
-    #   jupyter-client
-    #   pandas
+    # via pandas
 pytz==2022.1
     # via pandas
-pywin32==304
-    # via jupyter-core
-pyzmq==23.2.0
-    # via
-    #   ipykernel
-    #   jupyter-client
 requests==2.28.1
     # via requests-html
 requests-html==0.10.0
@@ -127,37 +54,15 @@ six==1.16.0
     #   w3lib
 soupsieve==2.3.2.post1
     # via beautifulsoup4
-sqlalchemy==1.4.39
-    # via -r requirements.in
-stack-data==0.3.0
-    # via ipython
-tomli==2.0.1
-    # via black
-tornado==6.2
-    # via
-    #   ipykernel
-    #   jupyter-client
 tqdm==4.64.0
     # via pyppeteer
-traitlets==5.3.0
-    # via
-    #   ipykernel
-    #   ipython
-    #   jupyter-client
-    #   jupyter-core
-    #   matplotlib-inline
 urllib3==1.26.10
     # via
     #   pyppeteer
     #   requests
 w3lib==1.22.0
     # via requests-html
-wcwidth==0.2.5
-    # via prompt-toolkit
 websockets==10.3
     # via pyppeteer
 zipp==3.8.0
     # via importlib-metadata
-
-# The following packages are considered to be unsafe in a requirements file:
-# setuptools
