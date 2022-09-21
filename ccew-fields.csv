@@ -29,7 +29,7 @@ Charity,charity_is_cdf_or_cif,Indicates whether the charity is a Common Investme
 Charity,charity_is_cio,Indicates whether the charity is a Charitable Incorporated Organisation.
 Charity,cio_is_dissolved,Indicates the CIO is to be dissolved.
 Charity,date_cio_dissolution_notice,Date the CIO dissolution notice expires
-Charity,charity_activities,"The charity activities, the trustees� description of what they do and who they help."
+Charity,charity_activities,"The charity activities, the trustees' description of what they do and who they help."
 Charity,charity_gift_aid,"Indicates whether the charity is registered for gift aid with HMRC. True, False, NULL (not known)"
 Charity,charity_has_land,"Indicates whether the charity owns or leases any land or buildings. True, False, NULL (not known)"
 CharityAnnualReturnHistory,organisation_number,The organisation number for the charity. This is the index value for the charity.
@@ -83,7 +83,7 @@ CharityARPartA,trustee_payments_acting_as_trustee,"Indicates if any trustees rec
 CharityARPartA,trustee_receives_payments_services,"Indicates if any trustees received payments for providing services to the charity for the financial period detailed. (True, False or NULL)"
 CharityARPartA,trustee_receives_other_benefit,"Indicates if any trustees received any other benefit from the charity for the financial period detailed. (True, False or NULL)"
 CharityARPartA,trustee_resigned_employment,"Indicates if any of the trustees resigned and took up employment with the charity during the financial period detailed. (True, False or NULL)"
-CharityARPartA,employees_salary_over_60k,"Indicates if any of the charity's staff received total employee benefits of �60,000 or more. (True, False or NULL)"
+CharityARPartA,employees_salary_over_60k,"Indicates if any of the charity's staff received total employee benefits of £60,000 or more. (True, False or NULL)"
 CharityARPartA,count_salary_band_60001_70000,Number of staff whose total employment benefits were in this band for the financial period detailed.
 CharityARPartA,count_salary_band_70001_80000,Number of staff whose total employment benefits were in this band for the financial period detailed.
 CharityARPartA,count_salary_band_80001_90000,Number of staff whose total employment benefits were in this band for the financial period detailed.
@@ -120,21 +120,21 @@ CharityARPartB,income_total_income_and_endowments,Total income including endowme
 CharityARPartB,income_legacies,Income from legacies as entered on the Annual Return form for the financial period detailed.
 CharityARPartB,income_endowments,Income from endowments as entered on the Annual Return form for the financial period detailed.
 CharityARPartB,expenditure_raising_funds,"Costs associated with providing goods and services to the public, where the main motive is to raise funds for the charity rather than providing goods or services to meet the needs of its beneficiaries for the financial period detailed. (eg charity shops, fundraising dinners etc.)."
-CharityARPartB,expenditure_charitable_expenditure,Costs incurred by the charity in supplying goods or services to meet the needs of its beneficiaries. Grants made to meet the needs of the charity�s beneficiaries for the financial period detailed.
-CharityARPartB,expenditure_other,Other expenditure for the financial period detailed. This category is only used very exceptionally for items that don�t fit within one of the categories above.
+CharityARPartB,expenditure_charitable_expenditure,Costs incurred by the charity in supplying goods or services to meet the needs of its beneficiaries. Grants made to meet the needs of the charity's beneficiaries for the financial period detailed.
+CharityARPartB,expenditure_other,Other expenditure for the financial period detailed. This category is only used very exceptionally for items that don't fit within one of the categories above.
 CharityARPartB,expenditure_total,Total expenditure for the financial period detailed on the Part B of the annual return.
 CharityARPartB,expenditure_investment_management,Expenditure managing investments for the financial period detailed.
 CharityARPartB,expenditure_grants_institution,Any grants that the charity has awarded to other institutions to further their charitable work.
 CharityARPartB,expenditure_governance,"Costs associated with running the charity itself for the financial period. (e.g. costs of trustee meetings, internal and external audit costs and legal advice relating to governance matters)."
 CharityARPartB,expenditure_support_costs,"Support costs should be allocated across activities and are those costs which, while necessary to deliver an activity, do not themselves produce the activity.  They include the central office functions of the charity and are often apportioned to activities.  The amount shown here is the total amount of support costs (for charitable, fundraising and governance activities) included in resources expended."
 CharityARPartB,expenditure_depreciation,"Depreciation charge for the year can be found in the fixed asset analysis notes to the accounts.  This is the amount of depreciation on tangible fixed assets (including impairment charges, if any), which will be shown as the charge for the year in the tangible fixed asset note to the accounts."
-CharityARPartB,gain_loss_investment,The gain or loss associated with the charity�s investments
-CharityARPartB,gain_loss_pension_fund,The gain or loss associated with the charity�s pension fund
+CharityARPartB,gain_loss_investment,The gain or loss associated with the charity's investments
+CharityARPartB,gain_loss_pension_fund,The gain or loss associated with the charity's pension fund
 CharityARPartB,gain_loss_revaluation_fixed_investment,The gain or loss associated with any revaluation of fixed assets
 CharityARPartB,gain_loss_other,The gain or loss associated with any other assets
 CharityARPartB,reserves,The level of reserves is those unrestricted funds which are freely available for the charity to spend and can be found in the Financial Review in the Trustees Annual Report and will exclude endowments.
 CharityARPartB,assets_total_fixed,"Total fixed assets. Fixed assets are those held for continuing use and include tangible fixed assets such as land, buildings, equipment and vehicles, and any investments held on a long-term basis to generate income or gains."
-CharityARPartB,assets_own_use,Total own use assets. This is a calculated field. assets_own_use = assets_total_fixed � assets_long_term_investment
+CharityARPartB,assets_own_use,Total own use assets. This is a calculated field. assets_own_use = assets_total_fixed - assets_long_term_investment
 CharityARPartB,assets_long_term_investment,"Fixed Asset Investment are held for the long term to generate income or gains and may include quoted and unquoted shares, bonds, gilts, common investment funds, investment property and term deposits held as part of an investment portfolio."
 CharityARPartB,defined_benefit_pension_scheme,This is surplus or deficit in any defined benefit pension scheme operated and represents a potential long-term asset or liability.
 CharityARPartB,assets_other_assets,The value of any other assets
