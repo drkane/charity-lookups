@@ -123,6 +123,10 @@ A list of registered social housing providers, with charity and company numbers.
 Based on the [list published by the Regulator of Social Housing](https://www.gov.uk/government/publications/current-registered-providers-of-social-housing).
 Only covers England.
 
+## [organisation-company-numbers.csv](organisation-company-numbers.csv)
+
+Company numbers held by Companies House for organisations that are also registered companies.
+
 # [Classifications](classification)
 
 A collection of definitions of classifications relevant to non profit organisations.
