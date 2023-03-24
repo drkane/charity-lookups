@@ -48,7 +48,7 @@ Field name      | Old Field name		| Data type		| Description                    
 `assets_long_term_investment`	| `fixed_assets`	| numeric		| Fixed Asset Investment are held for the long term to generate income or gains and may include quoted and unquoted shares, bonds, gilts, common investment funds, investment property and term deposits held as part of an investment portfolio. | 
 (No longer reported)		| `open_assets`		| numeric		| Fixed Investments Assets (start of year)            | Can be found in `assets_long_term_investment` field for previous year
 `defined_benefit_pension_scheme`	| `pension_assets`	| numeric		| This is surplus or deficit in any defined benefit pension scheme operated and represents a potential long-term asset or liability. | 
-`assets_other_assets`	| 	| numeric		| The value of any other assets | 
+`assets_other_assets`	| 	| numeric		| The value of gross current assets | 
 `assets_total_liabilities`	| 	| numeric		| The value of the total liabilities for the charity. This is a calculated field. `assets_total_liabilities` = `creditors_one_year_total_current` + `creditors_falling_due_after_one_year` | 
 `assets_current_investment`	| `invest_assets`	| numeric		| Total Current Investemnt Assets are a separate class of Total Current Asset and they are held with intention of disposing of them within 12 months. | 
 `assets_total_assets_and_liabilities`	| `total_assets`	| numeric		| Total Net assets or liabilities can be found on the Balance Sheet. This is the total of all assets shown less all liabilities. This should be the same as the Total funds of the charity. | 
@@ -128,14 +128,13 @@ Spending on support costs (`expenditure_support_costs`) and depreciation (`expen
 <th>level 3</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="9">assets_total_assets_and_liabilities</td><td rowspan="2">assets_total_fixed</td><td>assets_long_term_investment [Fixed Investment Assets]</td></tr>
+<tr><td rowspan="8">assets_total_assets_and_liabilities</td><td rowspan="2">assets_total_fixed</td><td>assets_long_term_investment [Fixed Investment Assets]</td></tr>
 <tr><td>assets_own_use [Tangible Fixed Assets]</td></tr>
-<tr><td rowspan="3">(calculated current assets)</td><td>assets_current_investment</td></tr>
+<tr><td rowspan="3">assets_other_assets</td><td>assets_current_investment</td></tr>
 <tr><td>assets_cash</td></tr>
-<tr><td>(possible residual [current_assets - (assets_current_investment + assets_cash)])</td></tr>
+<tr><td>(residual [assets_other_assets - (assets_current_investment + assets_cash)])</td></tr>
 <tr><td rowspan="2">assets_total_liabilities</td><td colspan="1">creditors_one_year_total_current</td></tr>
 <tr><td colspan="1">creditors_falling_due_after_one_year</td></tr>
-<tr><td colspan="2">assets_other_assets</td></tr>
 <tr><td colspan="2">defined_benefit_pension_scheme</td></tr>
 </tbody>
 </table>
