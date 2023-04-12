@@ -33,6 +33,8 @@ charset-normalizer==2.1.0
     #   requests
 click==8.1.3
     # via black
+colorama==0.4.5
+    # via -r requirements.txt
 cssselect==1.1.0
     # via
     #   -r requirements.txt
@@ -61,7 +63,7 @@ importlib-metadata==4.12.0
     #   pyppeteer
 ipykernel==6.15.1
     # via -r dev-requirements.in
-ipython==8.4.0
+ipython==8.10.0
     # via ipykernel
 isort==5.10.1
     # via -r dev-requirements.in
@@ -199,6 +201,3 @@ zipp==3.8.0
     # via
     #   -r requirements.txt
     #   importlib-metadata
-
-# The following packages are considered to be unsafe in a requirements file:
-# setuptools
