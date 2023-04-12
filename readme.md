@@ -31,6 +31,10 @@ Dummy company numbers held by Companies House for charities that are
 [Charitable Incorporated Organisations](https://en.wikipedia.org/wiki/Charitable_incorporated_organisation) or 
 [Scottish Charitable Incorporated Organisations](https://www.oscr.org.uk/becoming-a-charity/becoming-a-scio/)
 
+## [charity-company-numbers.csv](charity-company-numbers.csv)
+
+Company numbers held by Companies House for charities that are also registered companies. Mainly focused on Scottish and Northern Irish charities as there are already company numbers in the England and Wales data.
+
 ## [ccew-oscr-activities-readacross.csv](ccew-oscr-activities-readacross.csv)
 
 Read-across for activity, beneficiary and purpose categories for Charities from those used by the Charity Commission for England and Wales (CCEW) to the Office of the Scottish Charity Regulator (OSCR). NB These are many-to-many relationships, and lots of the categories don't match exactly. 
@@ -118,6 +122,10 @@ A list of registered social housing providers, with charity and company numbers.
 
 Based on the [list published by the Regulator of Social Housing](https://www.gov.uk/government/publications/current-registered-providers-of-social-housing).
 Only covers England.
+
+## [organisation-company-numbers.csv](organisation-company-numbers.csv)
+
+Company numbers held by Companies House for organisations that are also registered companies.
 
 # [Classifications](classification)
 

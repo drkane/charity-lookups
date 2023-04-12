@@ -1,7 +1,7 @@
-import re
 import argparse
 import csv
 import os
+import re
 
 import pandas as pd
 from requests_html import HTMLSession
@@ -10,6 +10,7 @@ from requests_html import HTMLSession
 
 # default location of the register of mergers
 ROM_PAGE = "https://www.gov.uk/government/publications/register-of-merged-charities"
+
 
 # function for spliting dataframe rows based on separating a column
 # from https://gist.github.com/jlln/338b4b0b55bd6984f883#gistcomment-2359013
@@ -41,7 +42,7 @@ def find_rom(rom_page):
     """
     session = HTMLSession()
     r = session.get(rom_page)
-    return next(l for l in r.html.absolute_links if l.endswith(".csv"))
+    return next(link for link in r.html.absolute_links if link.endswith(".csv"))
 
 
 def parse_rom(rom):
@@ -127,7 +128,6 @@ def parse_rom(rom):
         "date_merger_registered",
     ]
     for f in date_fields:
-
         rows_with_str = rom_df[f].apply(type).eq(str)
 
         if not rows_with_str.any():
@@ -145,6 +145,8 @@ def parse_rom(rom):
             ("Deceber", "December"),
             ("Decimber", "December"),
             ("Augiust", "August"),
+            ("Novemeber", "November"),
+            ("201731 Oc", "2017"),
         ]
         for d in date_replace:
             rom_df.loc[rows_with_str, f] = rom_df.loc[rows_with_str, f].str.replace(
@@ -198,7 +200,6 @@ def parse_rom(rom):
 
 
 def main():
-
     parser = argparse.ArgumentParser(
         description="Import the Charity Commission register of mergers"
     )

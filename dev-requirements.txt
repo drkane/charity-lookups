@@ -22,7 +22,7 @@ bs4==0.0.1
     # via
     #   -r requirements.txt
     #   requests-html
-certifi==2022.6.15
+certifi==2022.12.7
     # via
     #   -r requirements.txt
     #   pyppeteer
