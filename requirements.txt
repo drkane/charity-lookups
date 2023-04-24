@@ -10,14 +10,12 @@ beautifulsoup4==4.11.1
     # via bs4
 bs4==0.0.1
     # via requests-html
-certifi==2022.6.15
+certifi==2022.12.7
     # via
     #   pyppeteer
     #   requests
 charset-normalizer==2.1.0
     # via requests
-colorama==0.4.5
-    # via tqdm
 cssselect==1.1.0
     # via pyquery
 fake-useragent==0.1.11
