@@ -18,7 +18,9 @@ def splitDataFrameList(df, target_column, separator):
     """df = dataframe to split,
     target_column = the column containing the values to split
     separator = the symbol used to perform the split
-    returns: a dataframe with each entry for the target column separated, with each element moved into a new row.
+    returns: a dataframe with each entry for the target column separated, with each
+    element moved into a new row.
+
     The values in the other columns are duplicated across the newly divided rows.
     """
 
@@ -75,8 +77,10 @@ def parse_rom(rom):
     for c in rom_df.columns:
         print(" - {}".format(c))
     new_columns = {
-        "Name of transferring charity (transferor) and charity number (if any)": "transferor_name",
-        "Name of receiving charity (transferee) and charity number (if any)": "transferee_name",
+        "Name of transferring charity (transferor) "
+        + "and charity number (if any)": "transferor_name",
+        "Name of receiving charity (transferee) "
+        + "and charity number (if any)": "transferee_name",
         "Date Vesting Declaration made": "date_vesting_declaration",
         "Date property transferred": "date_property_transferred",
         "Date merger registered": "date_merger_registered",
@@ -136,6 +140,7 @@ def parse_rom(rom):
         # fix date typos
         date_replace = [
             ("`", ""),
+            ("Nil", ""),
             ("I ", "01 "),
             ("Janaury", "January"),
             ("Janurary", "January"),
