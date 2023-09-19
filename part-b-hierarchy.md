@@ -107,16 +107,15 @@ the sum of both of them using `exp_total - (exp_other + exp_charble + exp_gov + 
 <th>level 3</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="6">expenditure_total</td><td colspan="2">expenditure_raising_funds</td></tr>
-<tr><td colspan="2">expenditure_investment_management</td></tr>
-<tr><td rowspan="2">expenditure_charitable_expenditure</td><td>expenditure_grants_institution</td></tr>
-<tr><td>(residual [expenditure_charitable_expenditure - expenditure_grants_institution])</td></tr>
-<tr><td colspan="2">expenditure_governance</td></tr>
-<tr><td colspan="2">expenditure_other</td></tr>
+<tr><td rowspan="5">Total expenditure<br>(<code>expenditure_total</code>)</td><td rowspan="2">Spending on raising funds<br>(<code>expenditure_raising_funds</code>)</td><td>Investment management costs<br>(<code>expenditure_investment_management</code>)</td></tr>
+<tr><td>Other spending on raising funds<br>(residual [<code>expenditure_raising_funds - expenditure_investment_management</code>)</td></tr>
+<tr><td rowspan="2">Spending on charitable activities<br>(<code>expenditure_charitable_expenditure</code>)</td><td>Grants made to institutions<br>(<code>expenditure_grants_institution</code>)</td></tr>
+<tr><td>Other charitable activities<br>(residual [<code>expenditure_charitable_expenditure - expenditure_grants_institution</code>])</td></tr>
+<tr><td colspan="2">Other spending<br>(<code>expenditure_other</code>)</td></tr>
 </tbody>
 </table>
 
-Spending on support costs (`expenditure_support_costs`) and depreciation (`expenditure_depreciation`) is reported separately.
+Spending on governance (`expenditure_governance`), support costs (`expenditure_support_costs`) and depreciation (`expenditure_depreciation`) is reported separately.
 
 #### Assets
 
