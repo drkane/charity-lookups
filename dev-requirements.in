@@ -1,6 +1,5 @@
 -r requirements.txt
-black
-isort
+ruff
 ipykernel
 sqlalchemy
 psycopg2-binary
