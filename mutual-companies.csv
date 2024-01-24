@@ -5,8 +5,8 @@ GB-MPR-10BENS,GB-COH-SP10BENS,Lenzie Benevolent Society
 GB-MPR-11BENS,GB-COH-SP11BENS,Clydesdale Upper Ward Society
 GB-MPR-13BENS,GB-COH-SP13BENS,Lanarkshire Spastic Association
 GB-MPR-15BENS,GB-COH-SP015BEN,Scottish Office Benevolent Society
-GB-MPR-18BENS,GB-COH-SP18BENS,Scottish Foresters Convalescent Home Benevolent Society
 GB-MPR-18BEN,GB-COH-RS0018EN,Hair and Beauty Benevolent
+GB-MPR-18BENS,GB-COH-SP18BENS,Scottish Foresters Convalescent Home Benevolent Society
 GB-MPR-25BEN,GB-COH-RS0025EN,Sons of Temperance Benevolent Society
 GB-MPR-27BEN,GB-COH-RS0027EN,Sociedad De Beneficencia Ibero-Americana
 GB-MPR-31BEN,GB-COH-RS0031EN,The Guild of Aid
@@ -735,7 +735,6 @@ GB-MPR-5060,GB-COH-RS005060,View Co-op Limited
 GB-MPR-5061,GB-COH-RS005061,Treetop High Co-op Limited
 GB-MPR-5062,GB-COH-RS005062,Williton Allotments Limited
 GB-MPR-5064,GB-COH-RS005064,Kenton Village Allotments Cooperative Limited
-GB-MPR-5066,GB-COH-RS05066Z,Alexandra Co-op Limited
 GB-MPR-5067,GB-COH-RS005067,Braxfield Co-op Limited
 GB-MPR-5068,GB-COH-RS005068,Skiffington Co-op Limited
 GB-MPR-5069,GB-COH-RS005069,The Stonemasons' Guild of St. Stephen Limited
@@ -757,17 +756,32 @@ GB-MPR-5091,GB-COH-RS005091,The Anne Turner Allotments Association Limited
 GB-MPR-5094,GB-COH-RS005094,Hengrove Common Cooperative Allotments Limited
 GB-MPR-5096,GB-COH-RS005096,Black Country Cohousing Limited
 GB-MPR-5097,GB-COH-RS005097,Eastleigh Working Men's Club Limited
+GB-MPR-5100,GB-COH-RS005100,Cheslyn Hay Community and Sports Club Limited
 GB-MPR-5101,GB-COH-RS005101,Dragon Song of Avalon Housing Co-operative Limited
 GB-MPR-5103,GB-COH-RS005103,Origin Twenty Collective Limited
 GB-MPR-5105,GB-COH-RS005105,Pangbourne Working Men's Club Limited
 GB-MPR-5106,GB-COH-RS005106,Fulcrum Housing Co-operative Limited
 GB-MPR-5107,GB-COH-RS005107,SCYRUS Limited
+GB-MPR-5108,GB-COH-RS005108,South Kirkby Coronation Club & Institute Limited
+GB-MPR-5109,GB-COH-RS05109Z,Sarisbury Green Social Club Limited
 GB-MPR-5110,GB-COH-RS05110Z,Rokeby Co-op Limited
 GB-MPR-5112,GB-COH-RS005112,Ramsay Road Allotment Cooperative Limited
 GB-MPR-5114,GB-COH-RS005114,Varna House Co-operative Limited
 GB-MPR-5115,GB-COH-RS005115,Holly Close Allotments Association Limited
 GB-MPR-5116,GB-COH-RS05116Z,Highbury South Allotment Society Limited
 GB-MPR-5119,GB-COH-RS005119,Stan Pennington Allotments Limited
+GB-MPR-5123,GB-COH-RS005123,Hill and Cakemore Ex-Servicemen's and Social Club Limited
+GB-MPR-5124,GB-COH-RS005124,Rushden Town Band Club Limited
+GB-MPR-5125,GB-COH-RS005125,Wensum Social Club Limited
+GB-MPR-5126,GB-COH-RS005126,Langley Hall Social Club Limited
+GB-MPR-5127,GB-COH-RS005127,Royal British Legion Scotland Club (Irvine) Limited
+GB-MPR-5129,GB-COH-RS005129,Tai Cydweithredol Aberystwyth Housing Co-operative Limited
+GB-MPR-5131,GB-COH-RS005131,Phoenix Cohousing Lewes Limited
+GB-MPR-5132,GB-COH-RS005132,Workforce Co-operative Limited
+GB-MPR-5136,GB-COH-RS005136,Barriedale Allotment Association Limited
+GB-MPR-5137,GB-COH-RS005137,Farsley Constitutional Club Limited
+GB-MPR-5138,GB-COH-RS005138,Ripple Coop 5 Limited
+GB-MPR-5139,GB-COH-RS005139,Eartharmony Limited
 GB-MPR-8668,GB-COH-RS008668,Kara An Tir Housing Co-op Limited
 GB-MPR-4819,GB-COH-RS004819,Coed Talylan Housing Co-operative Limited
 GB-MPR-7001,GB-COH-RS007001,Sunart Community Renewables Limited
@@ -1662,7 +1676,6 @@ GB-MPR-8193,GB-COH-RS008193,Fadmoor Community Pub Limited
 GB-MPR-8195,GB-COH-RS008195,New Prosperity Devon Limited
 GB-MPR-8197,GB-COH-RS008197,The Garsington Community Benefit Society Limited
 GB-MPR-8198,GB-COH-RS008198,Draycott Community Shop Limited
-GB-MPR-8201,GB-COH-RS008201,Hastings Older Women Co-housing (HOCWH) Community Land Trust Limited
 GB-MPR-8203,GB-COH-RS008203,Loxley Community Benefit Society Limited
 GB-MPR-8205,GB-COH-RS008205,Leasowe Community Homes Limited
 GB-MPR-8206,GB-COH-RS008206,Blackley Golf Club Limited
@@ -2196,6 +2209,7 @@ GB-MPR-8912,GB-COH-RS008912,Taiwan Arts Festival Society Limited
 GB-MPR-8914,GB-COH-RS008914,Myddleton Road Community Benefit Society Limited
 GB-MPR-8915,GB-COH-RS008915,Wray Village Store Limited
 GB-MPR-8916,GB-COH-RS008916,Barford Tigers Sports Club Limited
+GB-MPR-8917,GB-COH-RS008917,AG Homes 10 Limited
 GB-MPR-8918,GB-COH-RS008918,Southport Community Energy Limited
 GB-MPR-8919,GB-COH-RS008919,Ragged Trousered Utilities Limited
 GB-MPR-8920,GB-COH-RS008920,Vitality Farm Oxfordshire Limited
@@ -2372,80 +2386,104 @@ GB-MPR-9157,GB-COH-RS009157,Ulgham Community Benefit Society Limited
 GB-MPR-9158,GB-COH-RS009158,Ashendon Community Pub Society Limited
 GB-MPR-9159,GB-COH-RS009159,New Forest Tractor and Engine Preservation Society Limited
 GB-MPR-9160,GB-COH-RS009160,Watten Shop Group Limited
+GB-MPR-9161,GB-COH-RS009161,The Bartons Community Benefit Society Limited
+GB-MPR-9162,GB-COH-RS009162,Menter Felinheli Limited
 GB-MPR-9164,GB-COH-RS009164,Wylderne Limited
 GB-MPR-9166,GB-COH-RS009166,Bonsall Energy Group Limited
 GB-MPR-9167,GB-COH-RS009167,Port Vale Supporters' Club Limited
 GB-MPR-9168,GB-COH-RS009168,Devon Traders Association Limited
 GB-MPR-9169,GB-COH-RS009169,Dobcross Village Society Limited
 GB-MPR-9171,GB-COH-RS009171,The May Hill Hub Limited
+GB-MPR-9172,GB-COH-RS009172,Soul Farm Produce Limited
 GB-MPR-9173,GB-COH-RS009173,North Tawton Community Land Trust Limited
 GB-MPR-9174,GB-COH-RS009174,Hardwick Community Energy Limited
+GB-MPR-9176,GB-COH-RS009176,Hengistbury Head Outdoors Limited
+GB-MPR-9177,GB-COH-RS009177,Milverton Community Benefit Society Limited
+GB-MPR-9178,GB-COH-RS009178,Marsham Community Land Trust Limited
+GB-MPR-9179,GB-COH-RS009179,Three Seas Cornwall
+GB-MPR-9180,GB-COH-RS009180,Save Bristol Gardens Alliance Limited
+GB-MPR-9181,GB-COH-RS009181,Wilburton Community Hub Limited
+GB-MPR-9182,GB-COH-RS009182,Miners Arms Community Pub Limited
+GB-MPR-9183,GB-COH-RS009183,Corn Exchange Casnewydd Limited
+GB-MPR-9186,GB-COH-RS009186,Carers for Kin Sheffield Limited
+GB-MPR-9187,GB-COH-RS009187,Phoenix Farming Limited
+GB-MPR-9188,GB-COH-RS009188,Deviock Community Trust
+GB-MPR-9191,GB-COH-RS009191,Community Energy Preston Limited
+GB-MPR-9192,GB-COH-RS009192,AG Homes 30 Limited
+GB-MPR-9193,GB-COH-RS009193,Woodchester Community Land and Gardens Limited
+GB-MPR-9194,GB-COH-RS009194,Coventry Rugby Supporters' Guild Limited
+GB-MPR-9196,GB-COH-RS009196,Open Style Lab
+GB-MPR-9197,GB-COH-RS009197,The Swan Community Project Limited
+GB-MPR-9198,GB-COH-RS009198,Necton Community Enterprise Limited
+GB-MPR-9199,GB-COH-RS009199,The Black Lion Community Group Limited
+GB-MPR-9203,GB-COH-RS009203,Granville Community Homes Limited
+GB-MPR-9205,GB-COH-RS009205,Cleeve Prior Community Pub Limited
 GB-MPR-30093R,GB-COH-IP030093,Family Mosaic Housing
-GB-MPR-1CUS,GB-COH-SP001CUS,Mosshill Credit Union Limited
-GB-MPR-1CU,GB-COH-NO000001,Abbey Credit Union Limited
 GB-MPR-1C,GB-COH-IP00001C,Skelmersdale Credit Union Limited
+GB-MPR-1CU,GB-COH-NO000001,Abbey Credit Union Limited
+GB-MPR-1CUS,GB-COH-SP001CUS,Mosshill Credit Union Limited
+GB-MPR-2C,GB-COH-IP00002C,London Taxi Drivers Credit Union Limited
+GB-MPR-2CU,GB-COH-NO000002,A-B-C Credit Union Limited
 GB-MPR-2CUS,GB-COH-IP002CUS,Newarthill Credit Union Limited
 GB-MPR-2CUS,GB-COH-SP002CUS,Newarthill Credit Union Limited
-GB-MPR-2CU,GB-COH-NO000002,A-B-C Credit Union Limited
-GB-MPR-2C,GB-COH-IP00002C,London Taxi Drivers Credit Union Limited
 GB-MPR-3CUS,GB-COH-IP003CUS,Dalmuir Credit Union Limited
 GB-MPR-3CUS,GB-COH-SP003CUS,Dalmuir Credit Union Limited
 GB-MPR-4CU,GB-COH-NO000004,Antrim Credit Union Limited
 GB-MPR-4CUS,GB-COH-IP004CUS,Cranhill Credit Union Limited
 GB-MPR-5CU,GB-COH-NO000005,Ardboe Credit Union Limited
 GB-MPR-5CUS,GB-COH-SP005CUS,Drumchapel Community Credit Union Limited
-GB-MPR-6CUS,GB-COH-SP006CUS,Johnstone Credit Union Limited
 GB-MPR-6CU,GB-COH-NO000006,Armagh Credit Union Limited
+GB-MPR-6CUS,GB-COH-SP006CUS,Johnstone Credit Union Limited
 GB-MPR-7C,GB-COH-IP00007C,Brent Shrine Credit Union Limited
+GB-MPR-7CU,GB-COH-NO000007,Avila Credit Union Limited
 GB-MPR-7CUS,GB-COH-IP007CUS,Viewpark Credit Union Limited
 GB-MPR-7CUS,GB-COH-SP007CUS,Viewpark Credit Union Limited
-GB-MPR-7CU,GB-COH-NO000007,Avila Credit Union Limited
-GB-MPR-8CUS,GB-COH-SP008CUS,Lochend Credit Union Limited
-GB-MPR-8CUS,GB-COH-IP008CUS,Lochend Credit Union Limited
 GB-MPR-8CU,GB-COH-NO000008,Ballinderry Bridge Credit Union Limited
-GB-MPR-9CUS,GB-COH-IP009CUS,Taxi Trade Credit Union Limited
+GB-MPR-8CUS,GB-COH-IP008CUS,Lochend Credit Union Limited
+GB-MPR-8CUS,GB-COH-SP008CUS,Lochend Credit Union Limited
 GB-MPR-9CU,GB-COH-NO000009,Ballycastle Credit Union Limited
-GB-MPR-10CUS,GB-COH-SP010CUS,Vale of Leven Credit Union Limited
+GB-MPR-9CUS,GB-COH-IP009CUS,Taxi Trade Credit Union Limited
 GB-MPR-10CU,GB-COH-NO000010,Ballyhackamore Credit Union Limited
-GB-MPR-11CUS,GB-COH-SP011CUS,Faifley Credit Union Limited
+GB-MPR-10CUS,GB-COH-SP010CUS,Vale of Leven Credit Union Limited
 GB-MPR-11C,GB-COH-IP00011C,Felix Credit Union (Bradford) Limited
+GB-MPR-11CUS,GB-COH-SP011CUS,Faifley Credit Union Limited
 GB-MPR-12CU,GB-COH-NO000012,Ballymena Credit Union Limited
 GB-MPR-12CUS,GB-COH-SP012CUS,Credit Union (Whitburn) Limited
 GB-MPR-13CUS,GB-COH-SP013CUS,Rhu and Shandon Credit Union Limited
 GB-MPR-14CU,GB-COH-NO000014,Ballynahinch Credit Union Limited
 GB-MPR-14CUS,GB-COH-SP014CUS,Scottish Transport Credit Union Limited
-GB-MPR-15CUS,GB-COH-SP015CUS,Antonine Credit Union Limited
 GB-MPR-15CU,GB-COH-NO000015,Banbridge Credit Union Limited
-GB-MPR-16CU,GB-COH-NO000016,Bannvale Credit Union Limited
+GB-MPR-15CUS,GB-COH-SP015CUS,Antonine Credit Union Limited
 GB-MPR-16C,GB-COH-IP00016C,Leicester Caribbean Credit Union Limited
-GB-MPR-17CUS,GB-COH-SP017CUS,East Kilbride Credit Union Limited
+GB-MPR-16CU,GB-COH-NO000016,Bannvale Credit Union Limited
 GB-MPR-17CU,GB-COH-NO000017,B.D.S. Credit Union Limited
-GB-MPR-18CUS,GB-COH-SP0018CU,Tail O' the Bank Credit Union Limited
+GB-MPR-17CUS,GB-COH-SP017CUS,East Kilbride Credit Union Limited
 GB-MPR-18CU,GB-COH-NO000018,Teachers Credit Union Limited
+GB-MPR-18CUS,GB-COH-SP0018CU,Tail O' the Bank Credit Union Limited
 GB-MPR-19CU,GB-COH-NO000019,Bessbrook Credit Union Limited
 GB-MPR-20CU,GB-COH-NO000020,Clonard Credit Union Limited
 GB-MPR-20CUS,GB-COH-SP0020CU,Penilee Credit Union Limited
 GB-MPR-21CU,GB-COH-NO000021,Coalisland Credit Union Limited
 GB-MPR-21CUS,GB-COH-SP0021CU,White Cart Credit Union Limited
-GB-MPR-22CUS,GB-COH-IP022CUS,Foxbar (Paisley) Credit Union Limited
 GB-MPR-22CU,GB-COH-NO000022,Causeway Credit Union Limited
+GB-MPR-22CUS,GB-COH-IP022CUS,Foxbar (Paisley) Credit Union Limited
 GB-MPR-22CUS,GB-COH-SP0022CU,Foxbar (Paisley) Credit Union Limited
 GB-MPR-23CU,GB-COH-NO000023,Cookstown Credit Union Limited
-GB-MPR-24CUS,GB-COH-IP024CUS,Hamilton Credit Union Limited
 GB-MPR-24CU,GB-COH-NO000024,Derrygonnelly Credit Union Limited
+GB-MPR-24CUS,GB-COH-IP024CUS,Hamilton Credit Union Limited
 GB-MPR-25CU,GB-COH-NO000025,Desertmartin Credit Union Limited
 GB-MPR-26CU,GB-COH-NO000026,Torrent Credit Union Limited
-GB-MPR-27CUS,GB-COH-RS000027,Keep Credit Union Limited
 GB-MPR-27CU,GB-COH-NO000027,Downpatrick Credit Union Limited
+GB-MPR-27CUS,GB-COH-RS000027,Keep Credit Union Limited
 GB-MPR-28CU,GB-COH-NO000028,Dromara And Drumgooland Credit Union Limited
 GB-MPR-29C,GB-COH-IP00029C,Forest Gate (E L W A) Credit Union Limited
 GB-MPR-29CU,GB-COH-NO000029,Dromore (Tyrone) Credit Union Limited
 GB-MPR-31C,GB-COH-IP00031C,Tower Hamlets (Green Light) Credit Union Limited
-GB-MPR-31CUS,GB-COH-SP0031CU,Chryston and District Credit Union Limited
 GB-MPR-31CU,GB-COH-NO000031,Dungannon Credit Union Limited
+GB-MPR-31CUS,GB-COH-SP0031CU,Chryston and District Credit Union Limited
 GB-MPR-32CU,GB-COH-NO000032,Dungiven Credit Union Limited
-GB-MPR-33CUS,GB-COH-SP0033CU,Gleniffer Credit Union Limited
 GB-MPR-33CU,GB-COH-NO000033,Ederney Credit Union Limited
+GB-MPR-33CUS,GB-COH-SP0033CU,Gleniffer Credit Union Limited
 GB-MPR-34CU,GB-COH-NO000034,Enniskillen Credit Union Limited
 GB-MPR-34CUS,GB-COH-SP0034CU,Glasgow Credit Union Limited
 GB-MPR-35CU,GB-COH-NO000035,Moyenir Credit Union Limited
@@ -2454,29 +2492,29 @@ GB-MPR-36CU,GB-COH-NO000036,Faughanvale Credit Union Limited
 GB-MPR-37CU,GB-COH-NO000037,Fintona Credit Union Limited
 GB-MPR-37CUS,GB-COH-SP0037CU,Scottish Police Credit Union Limited
 GB-MPR-38C,GB-COH-IP00038C,Croydon Caribbean Credit Union Limited
-GB-MPR-38CUS,GB-COH-RS00038S,Benarty and Lochgelly Credit Union Limited
 GB-MPR-38CU,GB-COH-NO000038,Hannahstown Credit Union Limited
+GB-MPR-38CUS,GB-COH-RS00038S,Benarty and Lochgelly Credit Union Limited
 GB-MPR-39CU,GB-COH-NO000039,Keady Credit Union Limited
 GB-MPR-40CU,GB-COH-NO000040,Kildress Credit Union Limited
 GB-MPR-40CUS,GB-COH-SP0040CU,Bathgate Credit Union Limited
 GB-MPR-41CU,GB-COH-NO000041,Kilkeel Credit Union Limited
-GB-MPR-42CU,GB-COH-NO000042,Limavady Credit Union Limited
 GB-MPR-42C,GB-COH-IP00042C,Derby United Credit Union Limited
+GB-MPR-42CU,GB-COH-NO000042,Limavady Credit Union Limited
 GB-MPR-43C,GB-COH-IP00043C,Connection Credit Union Limited
-GB-MPR-43CUS,GB-COH-RS00043S,Castlemilk Credit Union Limited
 GB-MPR-43CU,GB-COH-NO000043,Lisburn Credit Union Limited
+GB-MPR-43CUS,GB-COH-RS00043S,Castlemilk Credit Union Limited
 GB-MPR-44CU,GB-COH-NO000044,Loughguile Credit Union Limited
 GB-MPR-45CU,GB-COH-NO000045,Lurgan Credit Union Limited
 GB-MPR-46CUS,GB-COH-RS00046S,Glasgow South Credit Union Limited
-GB-MPR-47CUS,GB-COH-RS00047S,Dumbarton Credit Union Limited
 GB-MPR-47CU,GB-COH-NO000047,Magherafelt Credit Union Limited
+GB-MPR-47CUS,GB-COH-RS00047S,Dumbarton Credit Union Limited
 GB-MPR-48CU,GB-COH-NO000048,Magilligan Credit Union Limited
 GB-MPR-49CU,GB-COH-NO000049,Moy Credit Union Limited
-GB-MPR-50CU,GB-COH-NO000050,Moyola & Toome Credit Union Limited
 GB-MPR-50C,GB-COH-IP00050C,Wandsworth Community Credit Union Limited
+GB-MPR-50CU,GB-COH-NO000050,Moyola & Toome Credit Union Limited
 GB-MPR-51CUS,GB-COH-RS00051S,First Shipbuilders Credit Union Limited
-GB-MPR-52CU,GB-COH-NO000052,Newington Credit Union Limited
 GB-MPR-52C,GB-COH-IP00052C,Pagnell Street Savings Credit Union Limited
+GB-MPR-52CU,GB-COH-NO000052,Newington Credit Union Limited
 GB-MPR-53C,GB-COH-IP00053C,West Midlands Punjabee Savings Credit Union Limited
 GB-MPR-53CU,GB-COH-NO000053,Newmount Credit Union Limited
 GB-MPR-54CU,GB-COH-NO000054,Newry Credit Union Limited
@@ -2484,121 +2522,121 @@ GB-MPR-54CUS,GB-COH-RS00054S,Greater Springburn Credit Union Limited
 GB-MPR-56CU,GB-COH-NO000056,Omagh Credit Union Limited
 GB-MPR-56CUS,GB-COH-RS00056S,Port Glasgow Credit Union Limited
 GB-MPR-57CU,GB-COH-NO000057,Ormeau Credit Union Limited
-GB-MPR-58CUS,GB-COH-RS00058S,St Machar Credit Union Limited
 GB-MPR-58CU,GB-COH-NO000058,Pomeroy Credit Union Limited
+GB-MPR-58CUS,GB-COH-RS00058S,St Machar Credit Union Limited
 GB-MPR-59C,GB-COH-IP00059C,The Chaplaincy Savings and Credit Union Limited
 GB-MPR-59CU,GB-COH-NO000059,Portadown Credit Union Limited
-GB-MPR-60CU,GB-COH-NO000060,Portaferry Credit Union Limited
 GB-MPR-60C,GB-COH-IP00060C,First Rate Credit Union Limited
+GB-MPR-60CU,GB-COH-NO000060,Portaferry Credit Union Limited
 GB-MPR-61CU,GB-COH-NO000061,Sion Mills Credit Union Limited
 GB-MPR-61CUS,GB-COH-RS000061,Scotwest Credit Union Limited
-GB-MPR-62CUS,GB-COH-RS00062S,Greater Milton And Possilpark Credit Union Limited
 GB-MPR-62C,GB-COH-IP00062C,Pennine Community Credit Union Limited
+GB-MPR-62CUS,GB-COH-RS00062S,Greater Milton And Possilpark Credit Union Limited
 GB-MPR-63CU,GB-COH-NO000063,Slieve Gullion Credit Union Limited
 GB-MPR-64C,GB-COH-IP00064C,London Mutual Credit Union Limited
 GB-MPR-64CU,GB-COH-NO000064,Strabane Credit Union Limited
 GB-MPR-65CU,GB-COH-NO000065,Strangford Credit Union Limited
 GB-MPR-65CUS,GB-COH-SP065CUS,First Scottish University Credit Union Limited
+GB-MPR-66C,GB-COH-IP00066C,Saffron Lane Estate Credit Union Limited
 GB-MPR-66CU,GB-COH-NO000066,Termonmaguirk Credit Union Limited
 GB-MPR-66CUS,GB-COH-SP066CUS,Renfrew Credit Union Limited
-GB-MPR-66C,GB-COH-IP00066C,Saffron Lane Estate Credit Union Limited
 GB-MPR-67CU,GB-COH-NO000067,T.P.M. Credit Union Limited
 GB-MPR-67CUS,GB-COH-SP067CUS,Cowie Community Credit Union Limited
 GB-MPR-68CUS,GB-COH-SP00068R,Blantyre Credit Union Limited
 GB-MPR-69CU,GB-COH-NO000069,Waterside Credit Union Limited
 GB-MPR-69CUS,GB-COH-SP0069RS,Forward Centre Associates Credit Union Limited
-GB-MPR-70CUS,GB-COH-SP70CUSR,Stevenston Credit Union Limited
 GB-MPR-70CU,GB-COH-NO000070,W.B.R. Credit Union Limited
-GB-MPR-71CUS,GB-COH-RS00071S,Motherwell & District Credit Union Limited
+GB-MPR-70CUS,GB-COH-SP70CUSR,Stevenston Credit Union Limited
 GB-MPR-71CU,GB-COH-NO000071,Willowfield Credit Union Limited
+GB-MPR-71CUS,GB-COH-RS00071S,Motherwell & District Credit Union Limited
 GB-MPR-72CUS,GB-COH-RS00072S,1st Class Credit Union Limited
-GB-MPR-73CUS,GB-COH-RS00073S,Knightscliffe Temple Credit Union Limited
 GB-MPR-73CU,GB-COH-NO000073,Newtownhamilton Credit Union Limited
-GB-MPR-74CU,GB-COH-NO000074,S.A.G. Credit Union Limited
+GB-MPR-73CUS,GB-COH-RS00073S,Knightscliffe Temple Credit Union Limited
 GB-MPR-74C,GB-COH-IP00074C,Undeb Credyd Plaid Cymru Credit Union Limited
-GB-MPR-75CUS,GB-COH-RS00075S,North Airdrie Credit Union Limited
+GB-MPR-74CU,GB-COH-NO000074,S.A.G. Credit Union Limited
 GB-MPR-75CU,GB-COH-NO000075,Ballinascreen Credit Union Limited
+GB-MPR-75CUS,GB-COH-RS00075S,North Airdrie Credit Union Limited
 GB-MPR-76C,GB-COH-IP00076C,Rotton Park/Winson Green Credit Union Limited
 GB-MPR-76CU,GB-COH-NO000076,Krd Credit Union Limited
 GB-MPR-76CUS,GB-COH-RS00076S,Haghill  Dennistoun Credit Union Limited
-GB-MPR-77CUS,GB-COH-RS00077S,Shettleston and Tollcross Credit Union Limited
 GB-MPR-77CU,GB-COH-NO000077,Derry Credit Union Limited
+GB-MPR-77CUS,GB-COH-RS00077S,Shettleston and Tollcross Credit Union Limited
 GB-MPR-78C,GB-COH-IP000078,Number One Police Credit Union Limited
-GB-MPR-78CUS,GB-COH-RS00078S,Abronhill Credit Union Limited
 GB-MPR-78CU,GB-COH-NO000078,Pennyburn Credit Union Limited
-GB-MPR-79CU,GB-COH-NO000079,Claudy Credit Union Limited
+GB-MPR-78CUS,GB-COH-RS00078S,Abronhill Credit Union Limited
 GB-MPR-79C,GB-COH-IP00079C,Police Credit Union Limited
+GB-MPR-79CU,GB-COH-NO000079,Claudy Credit Union Limited
 GB-MPR-79CUS,GB-COH-IP000079,Grampian Credit Union Limited
 GB-MPR-80CUS,GB-COH-RS00080S,Newmains and District Credit Union Limited
 GB-MPR-81C,GB-COH-IP00081C,Southdene Credit Union Limited
-GB-MPR-81CUS,GB-COH-IP081CUS,Pioneer Mutual Credit Union Limited
 GB-MPR-81CU,GB-COH-NO000081,Clogher Valley Credit Union Limited
+GB-MPR-81CUS,GB-COH-IP081CUS,Pioneer Mutual Credit Union Limited
 GB-MPR-82CU,GB-COH-NO000082,Ballykelly Credit Union Limited
 GB-MPR-83C,GB-COH-IP00083C,Commonwealth Secretariat Staff Credit Union Limited
 GB-MPR-83CU,GB-COH-NO000083,Irvinestown Credit Union Limited
-GB-MPR-85CU,GB-COH-NO000085,Knockninny Credit Union Limited
 GB-MPR-85C,GB-COH-RS00085C,St Mary's & St Joseph's (Newton Aycliffe) Credit Union Limited
+GB-MPR-85CU,GB-COH-NO000085,Knockninny Credit Union Limited
 GB-MPR-85CUS,GB-COH-RS00085S,Pollok Credit Union Limited
-GB-MPR-86CUS,GB-COH-RS00086S,Maryhill Credit Union Limited
 GB-MPR-86CU,GB-COH-NO000086,Bangor Credit Union Limited
+GB-MPR-86CUS,GB-COH-RS00086S,Maryhill Credit Union Limited
 GB-MPR-87CU,GB-COH-NO000087,Larne Credit Union Limited
-GB-MPR-88CUS,GB-COH-RS00088S,Kirklands Credit Union Limited
 GB-MPR-88C,GB-COH-IP00088C,Leeds City Credit Union Limited
 GB-MPR-88CU,GB-COH-NO000088,Crossmaglen Credit Union Limited
+GB-MPR-88CUS,GB-COH-RS00088S,Kirklands Credit Union Limited
 GB-MPR-89C,GB-COH-IP00089C,Basildon Credit Union Limited
 GB-MPR-89CU,GB-COH-NO000089,Divisview Antigonish Credit Union Limited
 GB-MPR-89CUS,GB-COH-RS00089S,Thorniewood Credit Union Limited
 GB-MPR-90CUS,GB-COH-IP000090,Ayrshire Credit Union Limited
 GB-MPR-91CU,GB-COH-NO000091,Link Credit Union Limited
 GB-MPR-92CU,GB-COH-NO000092,Owenkillew Credit Union Limited
-GB-MPR-93CUS,GB-COH-SP000093,Bute and Cowal Credit Union Limited
 GB-MPR-93CU,GB-COH-NO000093,Beragh Credit Union Limited
+GB-MPR-93CUS,GB-COH-SP000093,Bute and Cowal Credit Union Limited
 GB-MPR-94CU,GB-COH-NO000094,Lisnaskea Credit Union Limited
 GB-MPR-95C,GB-COH-IP00095C,Birmingham Inner Circle Community Credit Union Limited
 GB-MPR-95CUS,GB-COH-SP0095CU,Dalkeith & District Credit Union Limited
 GB-MPR-96CU,GB-COH-NO000096,Mourne-Derg Credit Union Limited
-GB-MPR-97CU,GB-COH-NO000097,Carnglen Credit Union Limited
 GB-MPR-97C,GB-COH-IP00097C,South East Birmingham Community Credit Union Limited
+GB-MPR-97CU,GB-COH-NO000097,Carnglen Credit Union Limited
 GB-MPR-98C,GB-COH-IP00098C,Citysave Credit Union Limited
 GB-MPR-98CU,GB-COH-NO000098,Beechview Antigonish Credit Union Limited
-GB-MPR-99CUS,GB-COH-RS099CUS,Blackburn Seafield and District Credit Union Limited
 GB-MPR-99CU,GB-COH-NO000099,Progressive Antigonish Credit Union Limited
+GB-MPR-99CUS,GB-COH-RS099CUS,Blackburn Seafield and District Credit Union Limited
 GB-MPR-100C,GB-COH-IP00100C,Dial-A-Cab Credit Union Limited
-GB-MPR-100CUS,GB-COH-RS00100S,Cardenden & Kinglassie Credit Union Limited
 GB-MPR-100CU,GB-COH-NO000100,Glenelly Credit Union Limited
-GB-MPR-101CUS,GB-COH-SP101CUS,Tay Valley Credit Union Limited
+GB-MPR-100CUS,GB-COH-RS00100S,Cardenden & Kinglassie Credit Union Limited
 GB-MPR-101C,GB-COH-IP00101C,Adventist Credit Union Limited
 GB-MPR-101CU,GB-COH-NO000101,Fairywater Credit Union Limited
-GB-MPR-102CUS,GB-COH-IP0102CU,W.H.E.B. Credit Union Limited
+GB-MPR-101CUS,GB-COH-SP101CUS,Tay Valley Credit Union Limited
 GB-MPR-102CU,GB-COH-NO000102,Newtownstewart Credit Union Limited
+GB-MPR-102CUS,GB-COH-IP0102CU,W.H.E.B. Credit Union Limited
 GB-MPR-103CU,GB-COH-NO000103,Poleglass Credit Union Limited
-GB-MPR-104CUS,GB-COH-RS00104S,Parkhead Credit Union Limited
 GB-MPR-104CU,GB-COH-NO000104,Balmoral Credit Union Limited
+GB-MPR-104CUS,GB-COH-RS00104S,Parkhead Credit Union Limited
 GB-MPR-105CU,GB-COH-NO000105,Shaftesbury Credit Union Limited
 GB-MPR-106CU,GB-COH-NO000106,No 5 Credit Union Limited
 GB-MPR-107CU,GB-COH-NO000107,Brownlow (Lurgan) Credit Union Limited
 GB-MPR-107CUS,GB-COH-RS00107S,Cambuslang Credit Union Limited
-GB-MPR-108CUS,GB-COH-RS00108S,North Coatbridge Credit Union Limited
-GB-MPR-108CU,GB-COH-NO000108,Clifton Street Credit Union Limited
 GB-MPR-108C,GB-COH-IP00108C,Harlowsave Credit Union Limited
+GB-MPR-108CU,GB-COH-NO000108,Clifton Street Credit Union Limited
+GB-MPR-108CUS,GB-COH-RS00108S,North Coatbridge Credit Union Limited
 GB-MPR-109CU,GB-COH-NO000109,Portadown Diamond Credit Union Limited
 GB-MPR-109CUS,GB-COH-SP109CUS,Moray Firth Credit Union Limited
 GB-MPR-110CU,GB-COH-NO000110,Court Credit Union Limited
 GB-MPR-111CUS,GB-COH-SP111CUS,Fraserburgh Credit Union Limited
-GB-MPR-112CUS,GB-COH-SP112CUS,Levern Credit Union Limited
 GB-MPR-112CU,GB-COH-NO000112,Camlin Credit Union Limited
+GB-MPR-112CUS,GB-COH-SP112CUS,Levern Credit Union Limited
 GB-MPR-113CU,GB-COH-NO000113,Kinawley Credit Union Limited
 GB-MPR-114CU,GB-COH-NO000114,Kilrea And District No 5 Credit Union Limited
 GB-MPR-115C,GB-COH-IP00115C,Enterprise Credit Union Limited
 GB-MPR-115CU,GB-COH-NO000115,Carrickfergus Credit Union Limited
 GB-MPR-115CUS,GB-COH-SP115CUS,Castle Credit Union Limited
-GB-MPR-116CUS,GB-COH-SP116CUS,Fairfield Govan Credit Union Limited
 GB-MPR-116CU,GB-COH-NO000116,Macnean Credit Union Limited
+GB-MPR-116CUS,GB-COH-SP116CUS,Fairfield Govan Credit Union Limited
 GB-MPR-117CU,GB-COH-NO000117,Magherafelt And District No 3 Credit Union Limited
 GB-MPR-118CU,GB-COH-NO000118,Forthriver Credit Union Limited
 GB-MPR-118CUS,GB-COH-SP118CUS,Strathkelvin Credit Union Limited
-GB-MPR-119CUS,GB-COH-RS00119S,South Coatbridge Credit Union Limited
 GB-MPR-119CU,GB-COH-NO000119,Society Credit Union Limited
+GB-MPR-119CUS,GB-COH-RS00119S,South Coatbridge Credit Union Limited
 GB-MPR-120CU,GB-COH-NO000120,Orchard Credit Union Limited
 GB-MPR-121CU,GB-COH-NO000121,Cloughfern Community Credit Union Limited
 GB-MPR-122CU,GB-COH-NO000122,Lisbellaw Credit Union Limited
@@ -2606,20 +2644,21 @@ GB-MPR-122CUS,GB-COH-RS00122S,Greater Govan Credit Union Limited
 GB-MPR-123CU,GB-COH-NO000123,Carrs Glen Credit Union Limited
 GB-MPR-123CUS,GB-COH-RS00123S,Clackmannanshire Credit Union Limited
 GB-MPR-124C,GB-COH-IP00124C,St Matthews (Allerton) Credit Union Limited
-GB-MPR-124CUS,GB-COH-SP124CUS,Greenfern Credit Union Limited
 GB-MPR-124CU,GB-COH-NO000124,Holywood Credit Union Limited
-GB-MPR-125CUS,GB-COH-SP125CUS,Greater Pollokshaws Credit Union Limited
-GB-MPR-125CU,GB-COH-NO000125,Roslea Credit Union Limited
+GB-MPR-124CUS,GB-COH-SP124CUS,Greenfern Credit Union Limited
 GB-MPR-125C,GB-COH-IP00125C,Sparkhill/Springfield Credit Union Limited
+GB-MPR-125CU,GB-COH-NO000125,Roslea Credit Union Limited
+GB-MPR-125CUS,GB-COH-SP125CUS,Greater Pollokshaws Credit Union Limited
 GB-MPR-126CU,GB-COH-NO000126,Castlederg And District No.12 Credit Union Limited
+GB-MPR-126CUS,GB-COH-RS000126,Carntyne and Riddrie Credit Union Limited
 GB-MPR-127CU,GB-COH-NO000127,Templemore Credit Union Limited
 GB-MPR-128C,GB-COH-IP00128C,Dragonsavers Credit Union Limited
 GB-MPR-128CUS,GB-COH-IP000128,Wishaw Credit Union Limited
 GB-MPR-129CU,GB-COH-NO000129,Skea Credit Union Limited
-GB-MPR-129CUS,GB-COH-RS00129S,Baillieston Credit Union Limited
 GB-MPR-129CUS,GB-COH-IP000129,Baillieston Credit Union Limited
-GB-MPR-130CU,GB-COH-NO000130,Frontier Credit Union Limited
+GB-MPR-129CUS,GB-COH-RS00129S,Baillieston Credit Union Limited
 GB-MPR-130C,GB-COH-IP00130C,Advance Credit Union Limited
+GB-MPR-130CU,GB-COH-NO000130,Frontier Credit Union Limited
 GB-MPR-130CUS,GB-COH-RS00130S,Mercat Cross And The Bruce Credit Union Limited
 GB-MPR-131C,GB-COH-IP00131C,Durham Constabulary Credit Union Limited
 GB-MPR-131CU,GB-COH-NO000131,Benburb And Killyman Districts Credit Union Limited
@@ -2629,35 +2668,35 @@ GB-MPR-133C,GB-COH-IP00133C,Central Liverpool Credit Union Limited
 GB-MPR-133CU,GB-COH-NO000133,Rowallane Credit Union Limited
 GB-MPR-134C,GB-COH-IP00134C,Halewood Community Credit Union Limited
 GB-MPR-134CU,GB-COH-NO000134,Fairhill And District Credit Union Limited
-GB-MPR-135CU,GB-COH-NO000135,Annahoe Credit Union Limited
 GB-MPR-135C,GB-COH-IP00135C,Lee Bank/Highgate Credit Union Limited
+GB-MPR-135CU,GB-COH-NO000135,Annahoe Credit Union Limited
 GB-MPR-135CUS,GB-COH-SP135CUS,S C V O Credit Union Limited
 GB-MPR-136CU,GB-COH-NO000136,Stewartstown And District Credit Union Limited
 GB-MPR-137C,GB-COH-IP00137C,Handsworth (Birmingham) Credit Union Limited
-GB-MPR-137CUS,GB-COH-RS000137,Caledonian Credit Union Limited
 GB-MPR-137CU,GB-COH-NO000137,Roe Valley Credit Union Limited
-GB-MPR-138CUS,GB-COH-RS00138S,Stranraer Credit Union Limited
+GB-MPR-137CUS,GB-COH-RS000137,Caledonian Credit Union Limited
 GB-MPR-138CU,GB-COH-NO000138,Hamilton Road Credit Union Limited
+GB-MPR-138CUS,GB-COH-RS00138S,Stranraer Credit Union Limited
 GB-MPR-139CU,GB-COH-NO000139,Dalriada Credit Union Limited
 GB-MPR-140CU,GB-COH-NO000140,Mid-Tyrone Credit Union Limited
 GB-MPR-141CU,GB-COH-NO000141,Sixmilecross And District Credit Union Limited
+GB-MPR-142C,GB-COH-IP00142C,Lodge Lane and District (Liverpool) Credit Union Limited
 GB-MPR-142CU,GB-COH-NO000142,Erne Credit Union Limited
 GB-MPR-142CUS,GB-COH-RS00142S,North East Fife Credit Union Limited
-GB-MPR-142C,GB-COH-IP00142C,Lodge Lane and District (Liverpool) Credit Union Limited
-GB-MPR-143CUS,GB-COH-SP143CUS,Solway Credit Union Limited
 GB-MPR-143CU,GB-COH-NO000143,North Tyrone Credit Union Limited
+GB-MPR-143CUS,GB-COH-SP143CUS,Solway Credit Union Limited
 GB-MPR-144CU,GB-COH-NO000144,Lagan Valley Credit Union Limited
-GB-MPR-145CUS,GB-COH-RS00145S,Kilsyth and Villages Credit Union Limited
-GB-MPR-145CU,GB-COH-NO000145,Lecale Credit Union Limited
 GB-MPR-145C,GB-COH-IP00145C,Penrhys Community Credit Union Limited
+GB-MPR-145CU,GB-COH-NO000145,Lecale Credit Union Limited
+GB-MPR-145CUS,GB-COH-RS00145S,Kilsyth and Villages Credit Union Limited
 GB-MPR-146C,GB-COH-IP00146C,Stockport Credit Union Limited
-GB-MPR-146CUS,GB-COH-RS00146S,Glasgow West Credit Union Limited
 GB-MPR-146CU,GB-COH-NO000146,Star Credit Union Limited
+GB-MPR-146CUS,GB-COH-RS00146S,Glasgow West Credit Union Limited
 GB-MPR-148CU,GB-COH-NO000148,Newtownbutler Credit Union Limited
 GB-MPR-149C,GB-COH-IP00149C,Unify Credit Union Limited
 GB-MPR-149CUS,GB-COH-RS00149S,South Airdrie Credit Union Limited
-GB-MPR-150CUS,GB-COH-SP000150,Sovereign Credit Union Limited
 GB-MPR-150CU,GB-COH-NO000150,South Fermanagh Credit Union Limited
+GB-MPR-150CUS,GB-COH-SP000150,Sovereign Credit Union Limited
 GB-MPR-151C,GB-COH-IP00151C,Toothill Credit Union Limited
 GB-MPR-151CU,GB-COH-NO000151,Slemish Credit Union Limited
 GB-MPR-152CU,GB-COH-NO000152,Muckamore Credit Union Limited
@@ -2666,23 +2705,23 @@ GB-MPR-153CU,GB-COH-NO000153,Newtownards Credit Union Limited
 GB-MPR-154C,GB-COH-IP00154C,Canterbury Estate (Bradford) Credit Union Limited
 GB-MPR-154CU,GB-COH-NO000154,Ballymacarrett Credit Union Limited
 GB-MPR-154CUS,GB-COH-SP000154,Stirling Credit Union Limited
-GB-MPR-155CUS,GB-COH-SP155CUS,Discovery Credit Union Limited
-GB-MPR-155CU,GB-COH-NO000155,Carleton Credit Union Limited
 GB-MPR-155C,GB-COH-IP00155C,Norwich Credit Union Limited
-GB-MPR-156CUS,GB-COH-RS00156S,North East Scotland Credit Union Limited
-GB-MPR-156CU,GB-COH-NO000156,Aghaloo Credit Union Limited
+GB-MPR-155CU,GB-COH-NO000155,Carleton Credit Union Limited
+GB-MPR-155CUS,GB-COH-SP155CUS,Discovery Credit Union Limited
 GB-MPR-156C,GB-COH-IP00156C,Tower Hill (Kirkby) Credit Union Limited
+GB-MPR-156CU,GB-COH-NO000156,Aghaloo Credit Union Limited
+GB-MPR-156CUS,GB-COH-RS00156S,North East Scotland Credit Union Limited
 GB-MPR-157CUS,GB-COH-RS00157S,1st Alliance (Ayrshire) Credit Union Limited
-GB-MPR-158CUS,GB-COH-RS00158S,Kingdom Credit Union Limited
-GB-MPR-158CU,GB-COH-NO000158,Lower Iveagh Credit Union Limited
 GB-MPR-158C,GB-COH-IP00158C,South Bank Savings and Credit Union Limited
+GB-MPR-158CU,GB-COH-NO000158,Lower Iveagh Credit Union Limited
+GB-MPR-158CUS,GB-COH-RS00158S,Kingdom Credit Union Limited
 GB-MPR-159CU,GB-COH-NO000159,Lakeland Credit Union Limited
 GB-MPR-159CUS,GB-COH-IP00159C,Right Way Credit Union Limited
 GB-MPR-160CU,GB-COH-NO000160,Mourne Valley Credit Union Limited
 GB-MPR-161CUS,GB-COH-SP161CUS,Western Isles Credit Union Limited
 GB-MPR-162CU,GB-COH-NO000162,Kingdom Of Mourne Credit Union Limited
-GB-MPR-163CU,GB-COH-NO000163,Comber Community Credit Union Limited
 GB-MPR-163C,GB-COH-IP000163,Smart Money Cymru Credit Union Limited
+GB-MPR-163CU,GB-COH-NO000163,Comber Community Credit Union Limited
 GB-MPR-164CU,GB-COH-NO000164,Dundonald Credit Union Limited
 GB-MPR-164CUS,GB-COH-SP000164,Perth and Kinross Credit Union Limited
 GB-MPR-165CU,GB-COH-NO000165,Braid Credit Union Limited
@@ -2692,8 +2731,8 @@ GB-MPR-168C,GB-COH-IP00168C,St Gilbert's (Eccles) Credit Union Limited
 GB-MPR-168CU,GB-COH-NO000168,Riada Credit Union Limited
 GB-MPR-169C,GB-COH-IP00169C,Khalsa (Bradford) Credit Union Limited
 GB-MPR-169CU,GB-COH-NO000169,Glenard Credit Union Limited
-GB-MPR-170CU,GB-COH-NO000170,Victoria Credit Union Limited
 GB-MPR-170C,GB-COH-IP00170C,News International Credit Union Limited
+GB-MPR-170CU,GB-COH-NO000170,Victoria Credit Union Limited
 GB-MPR-171C,GB-COH-IP00171C,Shiremoor and District Credit Union Limited
 GB-MPR-171CU,GB-COH-NO000171,Tullycarnet Credit Union Limited
 GB-MPR-172CU,GB-COH-NO000172,Triangle No2 District Credit Union Limited
@@ -2702,29 +2741,29 @@ GB-MPR-174CU,GB-COH-NO000174,Braniel Credit Union Limited
 GB-MPR-175CU,GB-COH-NO000175,K.G.M. Credit Union Limited
 GB-MPR-176CU,GB-COH-NO000176,Coagh & District Credit Union Limited
 GB-MPR-177CU,GB-COH-NO000177,Moneyreagh Credit Union Limited
-GB-MPR-178CU,GB-COH-NO000178,Moneymore Credit Union Limited
 GB-MPR-178C,GB-COH-IP00178C,St Malachy's Credit Union Limited
+GB-MPR-178CU,GB-COH-NO000178,Moneymore Credit Union Limited
 GB-MPR-179CU,GB-COH-NO000179,Britannia Credit Union Limited
-GB-MPR-180CU,GB-COH-NO000180,Stramore Community Credit Union Limited
 GB-MPR-180C,GB-COH-IP00180C,Great North Two Thousand (Transport) Credit Union Limited
+GB-MPR-180CU,GB-COH-NO000180,Stramore Community Credit Union Limited
 GB-MPR-181CU,GB-COH-NO000181,North Belfast Credit Union Limited
 GB-MPR-182CU,GB-COH-NO000182,Harp And Crown Credit Union Limited - The
 GB-MPR-183CU,GB-COH-NO000183,West Tyrone Credit Union Limited
-GB-MPR-185CU,GB-COH-NO000185,Rathfriland Credit Union Imited
 GB-MPR-185C,GB-COH-IP00185C,Sefton Credit Union Limited
+GB-MPR-185CU,GB-COH-NO000185,Rathfriland Credit Union Imited
 GB-MPR-186C,GB-COH-IP00186C,Credit Union For South East Northumberland Limited
 GB-MPR-186CU,GB-COH-NO000186,Bannview Community Credit Union Limited
 GB-MPR-187CU,GB-COH-NO000187,Horseshoe Credit Union Limited
 GB-MPR-189C,GB-COH-IP00189C,Riverside Credit Union Limited
 GB-MPR-189CU,GB-COH-NO000189,Maghera Credit Union Limited
-GB-MPR-190CU,GB-COH-NO000190,Belvoir Credit Union Limited
 GB-MPR-190C,GB-COH-IP00190C,Lingham (Moreton) Residents Association Credit Union Limited
+GB-MPR-190CU,GB-COH-NO000190,Belvoir Credit Union Limited
 GB-MPR-191CU,GB-COH-NO000191,Mallard Credit Union Limited
 GB-MPR-192CU,GB-COH-NO000192,New Horizons Credit Union Limited
 GB-MPR-193CU,GB-COH-NO000193,Circle Credit Union Limited
 GB-MPR-194CU,GB-COH-NO000194,Caledon And Killylea Districts Credit Union Limited
-GB-MPR-195CU,GB-COH-NO000195,Slemish N' Tha Braid Credit Union Limited
 GB-MPR-195C,GB-COH-IP00195C,North End (Birkenhead) Credit Union Limited
+GB-MPR-195CU,GB-COH-NO000195,Slemish N' Tha Braid Credit Union Limited
 GB-MPR-196C,GB-COH-IP00196C,Mile Cross Credit Union Limited
 GB-MPR-197C,GB-COH-IP00197C,Albert Park Savings and Credit Union Limited
 GB-MPR-201C,GB-COH-RS00201C,Burnley West Credit Union Limited
@@ -2965,8 +3004,8 @@ GB-MPR-760C,GB-COH-RS000760,YourB Credit Union Limited
 GB-MPR-1FS,GB-COH-SP00001F,Braemar Royal Highland Society
 GB-MPR-1INFI,GB-COH-RS0001FI,"A.J.McKenna, No.49, a branch of the Irish National Foresters Benefit Society"
 GB-MPR-2INFI,GB-COH-RS0002FI,"Henry Joy McCracken, No.92, a branch of the Irish National Foresters Benefit Society"
-GB-MPR-3INFI,GB-COH-RS0003FI,"Thomas Sexton, No.90, a branch of the Irish National Foresters Benefit Society"
 GB-MPR-3FI,GB-COH-RS00003F,Irish National Foresters' (Northern Ireland) Benefit Society
+GB-MPR-3INFI,GB-COH-RS0003FI,"Thomas Sexton, No.90, a branch of the Irish National Foresters Benefit Society"
 GB-MPR-4COLS,GB-COH-SP4COLLS,Glasgow Juvenile Foresters Friendly Society ( Adult Life Assurance Section)
 GB-MPR-4FS,GB-COH-SP00004F,Aberdeen and District Juvenile Foresters Friendly Society
 GB-MPR-5INFI,GB-COH-RS0005FI,"Dungannon Volunteers, No.169, a branch of the Irish National Foresters' Benefit Society"
@@ -3079,6 +3118,8 @@ GB-MPR-166IP,GB-COH-NP000166,Connswater Homes Limited
 GB-MPR-169IP,GB-COH-NP000169,Radius Housing Association Limited
 GB-MPR-170IP,GB-COH-NP000170,Willowfield Parish Church Housing Association Limited
 GB-MPR-171IP,GB-COH-NP000171,Covenanter Residential Association Limited
+GB-MPR-172IP,GB-COH-IP00172R,Woven Housing Association Limited
+GB-MPR-172IP,GB-COH-NP000172,Woven Housing Association Limited
 GB-MPR-173IP,GB-COH-NP000173,Grove Community Housing Association Limited
 GB-MPR-174IP,GB-COH-NP000174,Craigowen Housing Association Limited
 GB-MPR-176IP,GB-COH-IP00176R,Nilex Limited
@@ -3124,8 +3165,8 @@ GB-MPR-230IP,GB-COH-NP000230,Glenand Youth And Community Workshop Limited
 GB-MPR-231IP,GB-COH-NP000231,Broadway Housing Association Limited
 GB-MPR-232IP,GB-COH-IP00232R,Abbeyfield Bangor Society Limited
 GB-MPR-235IP,GB-COH-NP000235,Ulster Provident Housing Association Limited
-GB-MPR-238IP,GB-COH-NP000238,Malone Housing Association Limited
 GB-MPR-238IP,GB-COH-IP00238R,Malone Housing Association Limited
+GB-MPR-238IP,GB-COH-NP000238,Malone Housing Association Limited
 GB-MPR-239IP,GB-COH-IP00239R,Limestone Youth Training Project Limited
 GB-MPR-239IP,GB-COH-NP000239,Limestone Youth Training Project Limited
 GB-MPR-240IP,GB-COH-NP000240,Farquhar Housing Association Limited
@@ -3156,8 +3197,8 @@ GB-MPR-275IP,GB-COH-NP000275,Presbyterian Mutual Society Limited
 GB-MPR-277IP,GB-COH-NP000277,Northern Ireland Festival For Youth Society Limited
 GB-MPR-278IP,GB-COH-NP000278,Abode Housing Association Limited
 GB-MPR-279IP,GB-COH-NP000279,Larne Housing Association Limited
-GB-MPR-280IP,GB-COH-NP000280,Lurgan Community Workshop Limited
 GB-MPR-280IP,GB-COH-IP000280,Lurgan Community Workshop Limited
+GB-MPR-280IP,GB-COH-NP000280,Lurgan Community Workshop Limited
 GB-MPR-281IP,GB-COH-IP000281,Chatham House Training And Development Agency Limited
 GB-MPR-281IP,GB-COH-NP000281,Chatham House Training And Development Agency Limited
 GB-MPR-282IP,GB-COH-NP000282,Ulster Homemaker Limited
@@ -3167,50 +3208,50 @@ GB-MPR-285IP,GB-COH-NP000285,Cairnbeg Housing Association Limited
 GB-MPR-287RS,GB-COH-SP0287RS,Fairfield Working Men's Club and Institute Society Limited
 GB-MPR-288IP,GB-COH-NP000288,Springfarm Housing Association Limited
 GB-MPR-290IP,GB-COH-NP000290,Antrim Placement And Training Services Limited
-GB-MPR-291IP,GB-COH-NP000291,Armagh Housing Association Limited
 GB-MPR-291IP,GB-COH-IP000291,Armagh Housing Association Limited
-GB-MPR-293IP,GB-COH-NP000293,Croft Community Limited
+GB-MPR-291IP,GB-COH-NP000291,Armagh Housing Association Limited
 GB-MPR-293IP,GB-COH-IP000293,Croft Community Limited
+GB-MPR-293IP,GB-COH-NP000293,Croft Community Limited
 GB-MPR-294IP,GB-COH-NP000294,Seaforde Growers Limited
-GB-MPR-295IP,GB-COH-NP000295,Abbeyfield Glengormley And District Society Limited
 GB-MPR-295IP,GB-COH-IP000295,Abbeyfield Glengormley And District Society Limited
+GB-MPR-295IP,GB-COH-NP000295,Abbeyfield Glengormley And District Society Limited
 GB-MPR-296IP,GB-COH-NP000296,Anglo-North Irish Fish Producers Organisation Limited
 GB-MPR-297IP,GB-COH-IP000297,Ballymena Housing Association Limited
 GB-MPR-297IP,GB-COH-NP000297,Ballymena Housing Association Limited
-GB-MPR-299IP,GB-COH-NP000299,James Butcher Retirement Homes Limited
 GB-MPR-299IP,GB-COH-IP000299,James Butcher Retirement Homes Limited
+GB-MPR-299IP,GB-COH-NP000299,James Butcher Retirement Homes Limited
 GB-MPR-300RS,GB-COH-SP0300RS,Armadale Public House Society Limited
 GB-MPR-301IP,GB-COH-IP000301,Newtownards Housing Association Limited
 GB-MPR-301IP,GB-COH-NP000301,Newtownards Housing Association Limited
 GB-MPR-302IP,GB-COH-NP000302,Asherwoods Housing Association Limited
-GB-MPR-304IP,GB-COH-NP000304,Nih Provident Limited
 GB-MPR-304IP,GB-COH-IP000304,Nih Provident Limited
+GB-MPR-304IP,GB-COH-NP000304,Nih Provident Limited
 GB-MPR-305IP,GB-COH-NP000305,Flax Housing Association Limited
 GB-MPR-306IP,GB-COH-NP000306,Ark Housing Association Northern Ireland Limited
 GB-MPR-306RS,GB-COH-SP0306RS,Greenock Industrial Building Society Limited
 GB-MPR-307IP,GB-COH-NP000307,Co-op Taxis (Belfast) Limited
 GB-MPR-308IP,GB-COH-IP000308,Northern Ireland Fish Producers Organisation (Manufacturing) Limited
-GB-MPR-309IP,GB-COH-NP000309,Rathfriland Farmers Co-operative Society Limited
 GB-MPR-309IP,GB-COH-IP000309,Rathfriland Farmers Co-operative Society Limited
+GB-MPR-309IP,GB-COH-NP000309,Rathfriland Farmers Co-operative Society Limited
 GB-MPR-310IP,GB-COH-NP000310,Aberdeen Angus Livestock (N.I.) Limited
+GB-MPR-311IP,GB-COH-IP000311,Crossmaglen And Region Enterprises Limited
 GB-MPR-311IP,GB-COH-NP000311,Crossmaglen And Region Enterprises Limited
 GB-MPR-311RS,GB-COH-SP0311RS,Tarff Valley Limited
-GB-MPR-311IP,GB-COH-IP000311,Crossmaglen And Region Enterprises Limited
 GB-MPR-312IP,GB-COH-NP000312,S.A.F.E. Mushrooms Limited
 GB-MPR-313IP,GB-COH-NP000313,North Belfast Co-operative Limited
-GB-MPR-314IP,GB-COH-NP000314,Ashton Centre Development Limited
 GB-MPR-314IP,GB-COH-IP000314,Ashton Centre Development Limited
+GB-MPR-314IP,GB-COH-NP000314,Ashton Centre Development Limited
 GB-MPR-315IP,GB-COH-NP000315,Community Transport Co-operative (West Belfast) Limited
 GB-MPR-316R,GB-COH-IP00316R,Shepley Industrial and Provident Society Limited
 GB-MPR-318IP,GB-COH-NP000318,Ruby House (Ni) Limited
-GB-MPR-320IP,GB-COH-NP000320,Northern Rabbit Producers Limited
 GB-MPR-320IP,GB-COH-IP000320,Northern Rabbit Producers Limited
+GB-MPR-320IP,GB-COH-NP000320,Northern Rabbit Producers Limited
 GB-MPR-321IP,GB-COH-NP000321,Mohair Producers Co-operative Society (Ireland) Limited
 GB-MPR-322IP,GB-COH-NP000322,North West Incineration Co-operative Limited
 GB-MPR-323IP,GB-COH-NP000323,Clonduff Development Enterprise Limited
 GB-MPR-324IP,GB-COH-NP000324,Knitters Co-operative (Northern Ireland) Limited
-GB-MPR-325RS,GB-COH-SP0325RS,Scottish Agricultural Organisation Society Limited
 GB-MPR-325IP,GB-COH-NP000325,Creggan Co-operative Society Limited
+GB-MPR-325RS,GB-COH-SP0325RS,Scottish Agricultural Organisation Society Limited
 GB-MPR-326IP,GB-COH-NP000326,Templemore `89 Limited
 GB-MPR-327IP,GB-COH-NP000327,Lurgan Employment Training Services Limited
 GB-MPR-327R,GB-COH-IP00327R,Warrington Co-operative Society Limited
@@ -3218,13 +3259,13 @@ GB-MPR-328IP,GB-COH-NP000328,Glenall Housing Co-operative Limited
 GB-MPR-330IP,GB-COH-NP000330,Drumcree Community Co-operative Limited
 GB-MPR-331IP,GB-COH-NP000331,East Antrim Co-operative Society Limited
 GB-MPR-333IP,GB-COH-NP000333,Belfast Pilots Limited
-GB-MPR-334IP,GB-COH-NP000334,Mid Ulster Enterprises (Creggan) Limited
 GB-MPR-334IP,GB-COH-IP000334,Mid Ulster Enterprises (Creggan) Limited
+GB-MPR-334IP,GB-COH-NP000334,Mid Ulster Enterprises (Creggan) Limited
 GB-MPR-335IP,GB-COH-IP000335,U.P.A. (Ireland) Limited
 GB-MPR-336IP,GB-COH-NP000336,Downpatrick Co-operative Marketing Limited
 GB-MPR-337IP,GB-COH-NP000337,Sperrin Producers Co-operative Limited
-GB-MPR-339RS,GB-COH-SP0339RS,Methven Arms Hotel Society Limited
 GB-MPR-339IP,GB-COH-NP000339,South Tyrone Lamb Marketing Limited
+GB-MPR-339RS,GB-COH-SP0339RS,Methven Arms Hotel Society Limited
 GB-MPR-341IP,GB-COH-NP000341,Strangford Down Limited
 GB-MPR-342IP,GB-COH-IP00342R,Erne Marketing Co-operative Society Limited
 GB-MPR-344IP,GB-COH-NP000344,Derrygonnelly & District Community Enterprises Limited
@@ -3237,8 +3278,8 @@ GB-MPR-351IP,GB-COH-NP000351,Belfast Self-Build Housing Association Limited
 GB-MPR-352IP,GB-COH-NP000352,Green Glens Marketing Limited
 GB-MPR-353IP,GB-COH-NP000353,Lakeland Timber Limited
 GB-MPR-354IP,GB-COH-NP000354,Mid Tyrone Forestry Co-operative Limited
-GB-MPR-355RS,GB-COH-SP0355RS,St Andrews and East of Fife Farmers Club Limited
 GB-MPR-355IP,GB-COH-NP000355,Rathlin Co-operative Society Limited
+GB-MPR-355RS,GB-COH-SP0355RS,St Andrews and East of Fife Farmers Club Limited
 GB-MPR-356IP,GB-COH-NP000356,Progressive Lean Pigs Limited
 GB-MPR-357IP,GB-COH-NP000357,Armagh Quality Lamb Marketing Limited
 GB-MPR-358IP,GB-COH-NP000358,Northern Ireland Horse Board Co-operative Society Limited
@@ -3275,8 +3316,8 @@ GB-MPR-391IP,GB-COH-NP000391,Trinity Housing Limited
 GB-MPR-392IP,GB-COH-NP000392,M.O.V.E Community Housing C0-0perative Society Limited
 GB-MPR-393IP,GB-COH-NP000393,Derry City Supporters' Society Limited
 GB-MPR-394IP,GB-COH-NP000394,Alpha Housing (Northern Ireland) Limited
-GB-MPR-395RS,GB-COH-SP0395RS,Fallin Public House Society Limited
 GB-MPR-395IP,GB-COH-NP000395,The Coast Office Society Limited
+GB-MPR-395RS,GB-COH-SP0395RS,Fallin Public House Society Limited
 GB-MPR-396IP,GB-COH-NP000396,Belfast Cleaning Co-operative Limited
 GB-MPR-397IP,GB-COH-NP000397,Na Croisbhealai Limited
 GB-MPR-398IP,GB-COH-NP000398,Drumlin Wind Energy Co-operative Limited
@@ -3345,8 +3386,8 @@ GB-MPR-974RS,GB-COH-SP0974RS,Kilsyth Co-operative Society Limited
 GB-MPR-981RS,GB-COH-SP0981RS,Peebles Ex-Service Men's Club Limited
 GB-MPR-983RS,GB-COH-SP0983RS,Elgin District EX-Service Men's Club Limited
 GB-MPR-991RS,GB-COH-SP0991RS,Motherwell United Services Club Limited
-GB-MPR-992RS,GB-COH-SP0992RS,Ayr Ex-Services Club Limited
 GB-MPR-992R,GB-COH-IP00992R,Grosmont Co-operative Society Limited
+GB-MPR-992RS,GB-COH-SP0992RS,Ayr Ex-Services Club Limited
 GB-MPR-1032RS,GB-COH-SP1032RS,North Talisker Sheep Stock Club Co-operative Credit Society Limited
 GB-MPR-1040R,GB-COH-IP01040R,South Leicestershire Co-operative Society Limited
 GB-MPR-1040RS,GB-COH-SP1040RS,North Raasay Sheep Stock Co-operative Credit Society Limited
@@ -3438,12 +3479,12 @@ GB-MPR-1799RS,GB-COH-SP1799RS,Lowlands Housing Society Limited
 GB-MPR-1800RS,GB-COH-SP1800RS,Linthouse Housing Association Limited
 GB-MPR-1805RS,GB-COH-SP1805RS,Charing Cross Housing Association Limited
 GB-MPR-1814RS,GB-COH-SP1814RS,Glasgow Fair Housing Association Limited
-GB-MPR-1818RS,GB-COH-SP01818R,Milnbank Housing Association Limited
 GB-MPR-1818RS,GB-COH-IP1818RS,Milnbank Housing Association Limited
+GB-MPR-1818RS,GB-COH-SP01818R,Milnbank Housing Association Limited
 GB-MPR-1821RS,GB-COH-SP01821R,Cathcart and District Housing Association Limited
 GB-MPR-1823RS,GB-COH-RS001823,Wheatley Homes East Limited
-GB-MPR-1824RS,GB-COH-SP1824RS,Partick Housing Association Limited
 GB-MPR-1824R,GB-COH-IP01824R,International Exhibition Co-operative Wine Society Limited
+GB-MPR-1824RS,GB-COH-SP1824RS,Partick Housing Association Limited
 GB-MPR-1825RS,GB-COH-SP1825RS,Reidvale Housing Association
 GB-MPR-1827RS,GB-COH-SP1827RS,Horizon Housing Association Limited
 GB-MPR-1828RS,GB-COH-SP1828RS,West of Scotland Housing Association Limited
@@ -3555,8 +3596,8 @@ GB-MPR-2119RS,GB-COH-SP2119RS,Dundee Industrial Association Limited
 GB-MPR-2124RS,GB-COH-SP2124RS,Abbeyfield Ballachulish Society Limited
 GB-MPR-2125RS,GB-COH-SP2125RS,Shetland Fish Producers' Organisation Limited
 GB-MPR-2126RS,GB-COH-SP2126RS,Carradale Fishermen Limited
-GB-MPR-2127RS,GB-COH-SP2127RS,Aberdeen Soroptimist Housing Society Limited
 GB-MPR-2127RS,GB-COH-IP2127RS,Aberdeen Soroptimist Housing Society Limited
+GB-MPR-2127RS,GB-COH-SP2127RS,Aberdeen Soroptimist Housing Society Limited
 GB-MPR-2128RS,GB-COH-IP2128RS,Lochee United Social Club and Institute Limited
 GB-MPR-2132RS,GB-COH-RS002132,Buidheann Tigheadas Loch Aillse Agus An Eilein Sgitheanaich Limited
 GB-MPR-2136RS,GB-COH-IP2136RS,Scot-Caught Sea Fishing Limited
@@ -3615,8 +3656,8 @@ GB-MPR-2253RS,GB-COH-SP02253R,Vatersay Isle Marketing Limited
 GB-MPR-2256RS,GB-COH-IP2256RS,Bute Meat Producers Limited
 GB-MPR-2257RS,GB-COH-IP2257RS,East of Scotland Growers Limited
 GB-MPR-2258RS,GB-COH-IP2258RS,Jacobite Housing Limited
-GB-MPR-2261RS,GB-COH-SP02261R,Galloway Lamb Limited
 GB-MPR-2261RS,GB-COH-IP2261RS,Galloway Lamb Limited
+GB-MPR-2261RS,GB-COH-SP02261R,Galloway Lamb Limited
 GB-MPR-2264RS,GB-COH-IP2264RS,Angus Potato Growers Limited
 GB-MPR-2265RS,GB-COH-IP2265RS,Eildon Turnip Growers Limited
 GB-MPR-2266RS,GB-COH-IP2266RS,East Lothian Housing Association Limited
@@ -3771,8 +3812,8 @@ GB-MPR-2582R,GB-COH-IP02582R,Tamworth Co-operative Society Limited
 GB-MPR-2583RS,GB-COH-SP2583RS,Sustainable Housing Action Co-operative Limited
 GB-MPR-2584RS,GB-COH-SP2584RS,Berry Growers Limited
 GB-MPR-2585RS,GB-COH-SP2585RS,Callander Self Build Housing Association Limited
-GB-MPR-2588RS,GB-COH-SP2588RS,Greenock Morton Supporters' Society Limited
 GB-MPR-2588R,GB-COH-IP02588R,North Yorkshire Co-operative Society Limited
+GB-MPR-2588RS,GB-COH-SP2588RS,Greenock Morton Supporters' Society Limited
 GB-MPR-2589RS,GB-COH-SP2589RS,Scotmid Property & Services Limited
 GB-MPR-2590RS,GB-COH-IP2590RS,Raith Rovers Independent Supporters' Society Limited
 GB-MPR-2594RS,GB-COH-SP2594RS,EID Community Co-operative Limited
@@ -4337,7 +4378,7 @@ GB-MPR-7789R,GB-COH-IP07789R,Risca Working Men's Club and Institute Limited
 GB-MPR-7800R,GB-COH-IP07800R,Highfields Allotments Society Limited
 GB-MPR-7825R,GB-COH-IP07825R,Somersham and District Smallholding and Allotment Association Limited
 GB-MPR-7827R,GB-COH-IP07827R,Kingsley Park Allotment Association Limited
-GB-MPR-7832R,GB-COH-IP07832R,Penygraig and District Labour and Progressive Club and Institute Limited
+GB-MPR-7832R,GB-COH-IP07832R,Penygraig Sports and Community Club Limited
 GB-MPR-7834R,GB-COH-IP07834R,Chandler's Ford Central Club and Institute Limited
 GB-MPR-7835R,GB-COH-IP07835R,Great Doddington Food Production Society Limited
 GB-MPR-7841R,GB-COH-IP07841R,Kettlebrook Working Men's Club and Institute Limited
@@ -4812,7 +4853,7 @@ GB-MPR-10696R,GB-COH-IP10696R,Coalville Labour Club and Institute Limited
 GB-MPR-10711R,GB-COH-IP10711R,Latimer Ward Conservative Institute Limited
 GB-MPR-10713R,GB-COH-IP10713R,Formby Royal British Legion Club Limited
 GB-MPR-10714R,GB-COH-IP10714R,Neston and Parkgate Housing Society Limited
-GB-MPR-10719R,GB-COH-IP10719R,South Wigston Working Men's Club and Institute Limited
+GB-MPR-10719R,GB-COH-RS010719,South Wigston Club And Institute Limited
 GB-MPR-10721R,GB-COH-RS010721,Royal British Legion and Ex-Service Men's Club (Ryde) Limited
 GB-MPR-10730R,GB-COH-RS10730R,Ystrad Mynach Non-Political Social Club and Institute Limited
 GB-MPR-10732R,GB-COH-IP10732R,New Ashton Representation and Social Club and Institute Limited
@@ -5574,7 +5615,7 @@ GB-MPR-14419R,GB-COH-IP14419R,Mellor Conservative Club Limited
 GB-MPR-14423R,GB-COH-IP14423R,Heathfield (Horsham) Limited
 GB-MPR-14424R,GB-COH-IP14424R,Leeds Jewish Housing Association Limited
 GB-MPR-14426R,GB-COH-IP14426R,Gaywood Conservative Club Limited
-GB-MPR-14429R,GB-COH-IP14429R,Long Eaton Masonic Hall Limited
+GB-MPR-14429R,GB-COH-IP14429R,Long Eaton Freemasons Hall Limited
 GB-MPR-14432R,GB-COH-IP14432R,Glyn Neath Social Club and Institute Limited
 GB-MPR-14433R,GB-COH-IP14433R,Spring Estate Garden and Allotment Society Limited
 GB-MPR-14436R,GB-COH-IP14436R,Surrey Country Markets Limited
@@ -7269,6 +7310,7 @@ GB-MPR-23820R,GB-COH-IP023820,Elysia Therapeutic Centre Limited
 GB-MPR-23823R,GB-COH-IP23823R,Ely Beet Sports and Social Club and Institute Limited
 GB-MPR-23826R,GB-COH-IP23826R,Stamford Hill Building Co-operative Limited
 GB-MPR-23831R,GB-COH-IP23831R,Pinecroft Cost Sale Homes Society (Eastbourne) Limited
+GB-MPR-23831R,GB-COH-RS023831,Pinecroft Cost Sale Homes Society (Eastbourne) Limited
 GB-MPR-23832R,GB-COH-IP23832R,Fondu Sports Club Limited
 GB-MPR-23833R,GB-COH-IP23833R,Exclusive Creations Limited
 GB-MPR-23835R,GB-COH-IP23835R,Silver Needles Limited
@@ -7543,8 +7585,8 @@ GB-MPR-25133R,GB-COH-IP025133,Chapel-En-Le Frith Self-Build Housing Association 
 GB-MPR-25138R,GB-COH-IP025138,Pontycymmer Constitutional Club Limited
 GB-MPR-25141R,GB-COH-IP025141,Edward Housing Association Limited
 GB-MPR-25142R,GB-COH-IP025142,South Bank Architects Co-operative Limited
-GB-MPR-25144R,GB-COH-IP25144R,Barrington Lodge Residents Society Limited
 GB-MPR-25144R,GB-COH-IP025144,Barrington Lodge Residents Society Limited
+GB-MPR-25144R,GB-COH-IP25144R,Barrington Lodge Residents Society Limited
 GB-MPR-25145R,GB-COH-IP025145,Wolverhampton Wholefoods Limited
 GB-MPR-25154R,GB-COH-IP025154,Allenby Housing Association Limited
 GB-MPR-25155R,GB-COH-IP025155,Chisel Limited
@@ -10901,7 +10943,7 @@ GB-MPR-32441R,GB-COH-IP032441,Unity Arts Wakefield Limited
 GB-MPR-32443R,GB-COH-IP032443,Co-operative Foodstores Limited
 GB-MPR-32444R,GB-COH-IP032444,Exeter St James Neighbourhood Trust Limited
 GB-MPR-32445R,GB-COH-IP032445,Tonbridge Angels Football Club Limited
-GB-MPR-32446R,GB-COH-IP032446,Dolphin Living Limited
+GB-MPR-32446R,GB-COH-IP032446,Dolphin Housing Limited
 GB-MPR-32447R,GB-COH-IP032447,Burton in Lonsdale Community Pub Limited
 GB-MPR-32448R,GB-COH-IP032448,The Bristol Cable Limited
 GB-MPR-32449R,GB-COH-IP032449,Rode Housing Co-operative Limited
@@ -10914,8 +10956,8 @@ GB-MPR-32455R,GB-COH-IP032455,Tamar Energy Community Limited
 GB-MPR-32456R,GB-COH-IP032456,Wycombe Wanderers Supporters Group Limited
 GB-MPR-32458R,GB-COH-IP032458,Pendleton Together Communities Limited
 GB-MPR-32459R,GB-COH-IP032459,Carlisle Mountaineering Club Limited
-GB-MPR-3SAS,GB-COH-SP003SAS,Scottish Society for Crop Research
 GB-MPR-3SA,GB-COH-RS0003SA,"Derby District, Grand United Order of Oddfellows Investment Association"
+GB-MPR-3SAS,GB-COH-SP003SAS,Scottish Society for Crop Research
 GB-MPR-4SA,GB-COH-RS0004SA,Derby and Derbyshire Foresters Investment Association
 GB-MPR-4SAS,GB-COH-SP004SAS,The Moredun Foundation
 GB-MPR-7SA,GB-COH-RS0007SA,Sinfin Lane Allotment Association
@@ -10971,13 +11013,13 @@ GB-MPR-220SA,GB-COH-RS000220,Local Area Research and Intelligence Association
 GB-MPR-9WS,GB-COH-SP0009WS,Clan Macnachtan Association and Club
 GB-MPR-10W,GB-COH-RS00010W,Slip End Social Club
 GB-MPR-10WS,GB-COH-SP0010WS,Merchiston Hearts Social Club
-GB-MPR-11WS,GB-COH-SP0011WS,Seaforth Club Nairn
 GB-MPR-11W,GB-COH-RS00011W,High Town Club (Non-Political)
+GB-MPR-11WS,GB-COH-SP0011WS,Seaforth Club Nairn
 GB-MPR-14WS,GB-COH-SP0014WS,Hawick Burns Club
 GB-MPR-15W,GB-COH-RS00015W,Sundon Park Social Club
 GB-MPR-16WS,GB-COH-SP0016WS,Carronshore Workers Welfare Society and Social Club
-GB-MPR-17WS,GB-COH-SP0017WS,Bathgate Working Men's Club and Institute
 GB-MPR-17W,GB-COH-RS00017W,Toddington Social and Services Club
+GB-MPR-17WS,GB-COH-SP0017WS,Bathgate Working Men's Club and Institute
 GB-MPR-19WS,GB-COH-SP0019WS,Prestongrange Bowling and Social Club
 GB-MPR-20WS,GB-COH-SP0020WS,Greenfield Social and Recreation Club
 GB-MPR-26WS,GB-COH-SP0026WS,Newarthill Working Men's Club
