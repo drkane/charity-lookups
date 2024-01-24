@@ -101,7 +101,6 @@ def parse_rom(rom):
 
     for f in ["transferor", "transferee"]:
         regno = rom_df[f + "_name"].str.extract(regno_regex, expand=True)
-        print(regno)
         rom_df.loc[:, f + "_regno"] = regno[1].fillna(regno[4])
         rom_df.loc[:, f + "_subno"] = regno[3].fillna(0)
         rom_df.loc[:, f + "_name"] = rom_df[f + "_name"].str.replace(
@@ -160,7 +159,6 @@ def parse_rom(rom):
 
         rom_df.loc[:, f] = pd.to_datetime(
             rom_df[f],
-            infer_datetime_format=True,
             dayfirst=True,
         )
 
@@ -173,12 +171,18 @@ def parse_rom(rom):
     # fix typo in a charity number
     # 1115638 => 1112538
     charity_number_typos = [
-        # (From, To),
-        ("1115638", "1112538", "transferor_regno"),
-        ("1076829", "1076289", "transferor_regno"),
+        # (From, To, from_field, to_field),
+        ("1115638", "1112538", "transferor_regno", "transferor_regno"),
+        ("1076829", "1076289", "transferor_regno", "transferor_regno"),
+        (
+            "Preston Bamber Bridge Congregation of Jehovah's Witnesses",
+            "275946",
+            "transferor_name",
+            "transferee_regno",
+        ),
     ]
-    for number_from, number_to, field in charity_number_typos:
-        rom_df.loc[rom_df[field] == number_from, field] = number_to
+    for number_from, number_to, from_field, to_field in charity_number_typos:
+        rom_df.loc[rom_df[from_field] == number_from, to_field] = number_to
 
     # reorder the columns
     rom_df = (
