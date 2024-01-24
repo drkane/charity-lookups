@@ -1,0 +1,46 @@
+org_id_a,org_id_b,org_name,relationship,source
+GB-EDU-133905,GB-COH-RC000048,Birkbeck College,sameas,University Royal Charters
+GB-EDU-133897,GB-COH-RC000079,Brunel University,sameas,University Royal Charters
+GB-EDU-133815,GB-COH-RC000121,City University,sameas,University Royal Charters
+GB-EDU-133848,GB-COH-RC000151,Cranfield University,sameas,University Royal Charters
+GB-EDU-135411,GB-COH-RC000219,Heythrop College,sameas,University Royal Charters
+GB-EDU-133887,GB-COH-RC000231,"Imperial College of Science, Technology and Medicine",sameas,University Royal Charters
+GB-EDU-133906,GB-COH-RC000718,Institute of Education,sameas,University Royal Charters
+GB-EDU-133874,GB-COH-RC000297,King's College London,sameas,University Royal Charters
+GB-EDU-133860,GB-COH-RC000721,London Business School,sameas,University Royal Charters
+GB-EDU-133834,GB-COH-RC000332,Loughborough University,sameas,University Royal Charters
+GB-EDU-133813,GB-COH-RC000710,Queen Mary and Westfield College,sameas,University Royal Charters
+GB-EDU-133861,GB-COH-RC000438,Royal Academy of Music,sameas,University Royal Charters
+GB-EDU-133888,GB-COH-RC000458,Royal College of Music,sameas,University Royal Charters
+GB-EDU-133907,GB-COH-RC000541,School of Oriental and African Studies,sameas,University Royal Charters
+GB-EDU-133849,GB-COH-RC000391,The Open University,sameas,University Royal Charters
+GB-EDU-133859,GB-COH-RC000532,The Royal Veterinary College,sameas,University Royal Charters
+GB-EDU-133902,GB-COH-RC000631,University College London,sameas,University Royal Charters
+GB-EDU-133789,GB-COH-RC000644,University of Bath,sameas,University Royal Charters
+GB-EDU-133784,GB-COH-RC000645,University of Birmingham,sameas,University Royal Charters
+GB-EDU-133791,GB-COH-RC000647,University of Bradford,sameas,University Royal Charters
+GB-EDU-133799,GB-COH-RC000648,University of Bristol,sameas,University Royal Charters
+GB-EDU-135414,GB-COH-RC000730,University of Buckingham,sameas,University Royal Charters
+GB-EDU-133812,GB-COH-RC000650,University of Durham,sameas,University Royal Charters
+GB-EDU-133853,GB-COH-RC000651,University of East Anglia,sameas,University Royal Charters
+GB-EDU-133805,GB-COH-RC000652,University of Essex,sameas,University Royal Charters
+GB-EDU-133817,GB-COH-RC000653,University of Exeter,sameas,University Royal Charters
+GB-EDU-133824,GB-COH-RC000654,University of Hull,sameas,University Royal Charters
+GB-EDU-133883,GB-COH-RC000655,University of Keele,sameas,University Royal Charters
+GB-EDU-133807,GB-COH-RC000656,University of Kent,sameas,University Royal Charters
+GB-EDU-133831,GB-COH-RC000657,University of Lancaster,sameas,University Royal Charters
+GB-EDU-133839,GB-COH-RC000658,University of Leeds,sameas,University Royal Charters
+GB-EDU-133832,GB-COH-RC000659,University of Leicester,sameas,University Royal Charters
+GB-EDU-133829,GB-COH-RC000660,University of Liverpool,sameas,University Royal Charters
+GB-EDU-133904,GB-COH-RC000661,University of London,sameas,University Royal Charters
+GB-EDU-133842,GB-COH-RC000797,University of Manchester,sameas,University Royal Charters
+GB-EDU-133846,GB-COH-RC000797,University of Manchester,sameas,University Royal Charters
+GB-EDU-133856,GB-COH-RC000664,University of Nottingham,sameas,University Royal Charters
+GB-EDU-133870,GB-COH-RC000665,University of Reading,sameas,University Royal Charters
+GB-EDU-133845,GB-COH-RC000666,University of Salford,sameas,University Royal Charters
+GB-EDU-133872,GB-COH-RC000667,University of Sheffield,sameas,University Royal Charters
+GB-EDU-133879,GB-COH-RC000668,University of Southampton,sameas,University Royal Charters
+GB-EDU-133820,GB-COH-RC000671,University of Surrey,sameas,University Royal Charters
+GB-EDU-133795,GB-COH-RC000672,University of Sussex,sameas,University Royal Charters
+GB-EDU-133809,GB-COH-RC000678,University of Warwick,sameas,University Royal Charters
+GB-EDU-133913,GB-COH-RC000679,University of York,sameas,University Royal Charters

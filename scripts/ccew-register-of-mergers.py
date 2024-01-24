@@ -181,24 +181,47 @@ def parse_rom(rom):
         rom_df.loc[rom_df[field] == number_from, field] = number_to
 
     # reorder the columns
-    rom_df = rom_df[
-        [
-            "transferor_name",
-            "transferor_regno",
-            "transferor_subno",
-            "transferee_name",
-            "transferee_regno",
-            "transferee_subno",
-            "date_vesting_declaration",
-            "date_property_transferred",
-            "date_merger_registered",
+    rom_df = (
+        rom_df.assign(
+            org_id_a=lambda x: x["transferor_regno"].apply(
+                lambda y: "GB-CHC-{}".format(y) if isinstance(y, str) else None
+            ),
+            org_id_b=lambda x: x["transferee_regno"].apply(
+                lambda y: "GB-CHC-{}".format(y) if isinstance(y, str) else None
+            ),
+            relationship="sameas",
+            source="Charity Commission Register of Mergers",
+        )
+        .rename(
+            columns={
+                "transferor_name": "org_name_a",
+                "transferee_name": "org_name_b",
+                "date_merger_registered": "valid_from",
+            }
+        )[
+            [
+                "org_id_a",
+                "org_id_b",
+                "relationship",
+                "source",
+                "org_name_a",
+                "transferor_regno",
+                "transferor_subno",
+                "org_name_b",
+                "transferee_regno",
+                "transferee_subno",
+                "date_vesting_declaration",
+                "date_property_transferred",
+                "valid_from",
+            ]
         ]
-    ].sort_values(
-        [
-            "date_merger_registered",
-            "transferee_regno",
-            "transferor_regno",
-        ]
+        .sort_values(
+            [
+                "valid_from",
+                "transferee_regno",
+                "transferor_regno",
+            ]
+        )
     )
 
     return rom_df
@@ -214,7 +237,10 @@ def main():
     parser.add_argument(
         "--output",
         default=os.path.join(
-            os.path.dirname(__file__), "..", "ccew-register-of-mergers.csv"
+            os.path.dirname(__file__),
+            "..",
+            "relationships",
+            "ccew-register-of-mergers.csv",
         ),
         help="CSV file to output data in",
     )
