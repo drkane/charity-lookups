@@ -72,6 +72,12 @@ to their charity number, either in Scotland or England and Wales.
 
 - [Deprecated version - do not use](grid-lookup.csv)
 
+## [charity-names.csv](charity-names.csv)
+
+A set of alternative names for organisations, given an Org ID.
+
+- [Northern Irish charity names from a list by Bob Harper](https://gist.github.com/BobHarper1/2687545c562b47bc755aef2e9e0de537/)
+
 ## [ccew-oscr-activities-readacross.csv](ccew-oscr-activities-readacross.csv)
 
 Read-across for activity, beneficiary and purpose categories for Charities from those used by the Charity Commission for England and Wales (CCEW) to the Office of the Scottish Charity Regulator (OSCR). NB These are many-to-many relationships, and lots of the categories don't match exactly.
