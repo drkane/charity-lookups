@@ -27,11 +27,6 @@ charset-normalizer==3.3.2
     # via
     #   -r requirements.txt
     #   requests
-colorama==0.4.6
-    # via
-    #   -r requirements.txt
-    #   ipython
-    #   tqdm
 comm==0.2.0
     # via ipykernel
 cssselect==1.2.0
@@ -96,6 +91,8 @@ parse==1.19.1
     #   requests-html
 parso==0.8.3
     # via jedi
+pexpect==4.9.0
+    # via ipython
 platformdirs==4.0.0
     # via jupyter-core
 prompt-toolkit==3.0.40
@@ -104,6 +101,8 @@ psutil==5.9.6
     # via ipykernel
 psycopg2-binary==2.9.9
     # via -r dev-requirements.in
+ptyprocess==0.7.0
+    # via pexpect
 pure-eval==0.2.2
     # via stack-data
 pyee==8.2.2
@@ -129,8 +128,6 @@ pytz==2023.3.post1
     # via
     #   -r requirements.txt
     #   pandas
-pywin32==306
-    # via jupyter-core
 pyzmq==25.1.1
     # via
     #   ipykernel
@@ -193,7 +190,7 @@ websockets==10.4
     # via
     #   -r requirements.txt
     #   pyppeteer
-zipp==3.17.0
+zipp==3.19.1
     # via
     #   -r requirements.txt
     #   importlib-metadata
