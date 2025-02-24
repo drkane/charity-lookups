@@ -1,3 +1,10 @@
+# /// script
+# dependencies = [
+#   "pandas",
+#   "requests_html==0.10.0",
+#   "lxml[html_clean]",
+# ]
+# ///
 import argparse
 import csv
 import os
