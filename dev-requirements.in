@@ -1,5 +1,0 @@
--r requirements.txt
-ruff
-ipykernel
-sqlalchemy
-psycopg2-binary
