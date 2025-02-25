@@ -90,7 +90,8 @@ with engine.connect() as con:
             try:
                 request.raise_for_status()
             except request.exceptions.HTTPError:
-                break
+                print(f"Error for {r.CompanyNumber}")
+                continue
             co = request.json()
             if "external_registration_number" in co:
                 writer.writerow(
