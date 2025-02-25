@@ -1,4 +1,4 @@
-name: Update register of mergers
+name: Update CIOs and mutual companies
 
 on:
   schedule:
@@ -19,7 +19,11 @@ jobs:
           pip install uv
       - name: Update CSV with latest data
         run: |
-          uv run scripts/ccew-register-of-mergers.py
+          uv run scripts/update-cio-company-numbers.py
+          uv run scripts/update-mutual-companies.py
+        env:
+          COMPANY_HOUSE_API_KEY: ${{ secrets.COMPANY_HOUSE_API_KEY }}
+          FTC_DB_URL: ${{ secrets.FTC_DB_URL }}
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
