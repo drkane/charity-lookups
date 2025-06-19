@@ -65,6 +65,7 @@ with engine.connect() as con:
     """
         )
     )
+    print("Companies in FTC:", result.rowcount)
 
     with open(CIOS_FILE, "w", newline="") as a:
         writer = csv.DictWriter(a, fieldnames=fields)
