@@ -321,7 +321,8 @@ Local Authority,Conwy,W06000003,GB,GBR,GB-CWY,EU
 Local Authority,Cornwall,E06000052,GB,GBR,GB-CON,EU
 Local Authority,Coventry City,E08000026,GB,GBR,GB-COV,EU
 Local Authority,Croydon,E09000008,GB,GBR,GB-CRY,EU
-Local Authority,Cumbria,E10000006,GB,GBR,GB-CMA,EU
+Local Authority,Cumbria,E06000063,GB,GBR,GB-CMA,EU
+Local Authority,Cumbria,E06000064,GB,GBR,GB-CMA,EU
 Local Authority,Darlington,E06000005,GB,GBR,GB-DAL,EU
 Local Authority,Denbighshire,W06000004,GB,GBR,GB-DEN,EU
 Local Authority,Derby City,E06000015,GB,GBR,GB-DER,EU
@@ -389,7 +390,8 @@ Local Authority,North Lincolnshire,E06000013,GB,GBR,GB-NLN,EU
 Local Authority,North Somerset,E06000024,GB,GBR,GB-NSM,EU
 Local Authority,North Tyneside,E08000022,GB,GBR,GB-NTY,EU
 Local Authority,North Yorkshire,E06000065,GB,GBR,GB-NYK,EU
-Local Authority,Northamptonshire,E10000021,GB,GBR,GB-NTH,EU
+Local Authority,Northamptonshire,E06000061,GB,GBR,GB-NTH,EU
+Local Authority,Northamptonshire,E06000062,GB,GBR,GB-NTH,EU
 Local Authority,Northumberland,E06000057,GB,GBR,GB-NBL,EU
 Local Authority,Nottingham City,E06000018,GB,GBR,GB-NGM,EU
 Local Authority,Nottinghamshire,E10000024,GB,GBR,GB-NTT,EU
