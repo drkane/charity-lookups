@@ -51,7 +51,11 @@ def find_rom(rom_page):
     """
     session = HTMLSession()
     r = session.get(rom_page)
-    return next(link for link in r.html.absolute_links if link.endswith(".csv"))
+    return next(
+        link
+        for link in r.html.absolute_links
+        if link.endswith(".csv") and "csv-preview" not in link
+    )
 
 
 def parse_rom(rom):
