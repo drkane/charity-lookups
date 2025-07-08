@@ -2,22 +2,13 @@ org_id_a,org_id_b,org_name,relationship,source
 GB-MPR-5BEN,GB-COH-RS0005EN,Old Colstonian Society,sameas,Mutual companies
 GB-MPR-5083WS,GB-COH-RS005083,Royal British Legion Scotland Club (Crieff) Limited,sameas,Mutual companies
 GB-MPR-9078,GB-COH-RS009078,The Glen Community Benefit Society Limited,sameas,Mutual companies
-GB-MPR-79C,GB-COH-IP00079C,Police Credit Union Limited,sameas,Mutual companies
 GB-MPR-185CU,GB-COH-NO000185,Rathfriland Credit Union Imited,sameas,Mutual companies
 GB-MPR-346IP,GB-COH-NP000346,Richmond Fellowship (N.I.) Limited - The,sameas,Mutual companies
-GB-MPR-19399R,GB-COH-IP19399R,Chauncy Housing Association Limited,sameas,Mutual companies
-GB-MPR-26771R,GB-COH-IP26771R,Green Community Travel Limited,sameas,Mutual companies
-GB-MPR-8619,GB-COH-RS008619,Leigh Spinners Mill CBS Limited,sameas,Mutual companies
-GB-MPR-9085,GB-COH-RS009085,Allenheads Inn Community Pub Limited,sameas,Mutual companies
 GB-MPR-9456R,GB-COH-RS009456,Royal British Legion (Sutton Coldfield) Club Limited,sameas,Mutual companies
 GB-MPR-9412,GB-COH-RS009412,Inspire North,sameas,Mutual companies
-GB-MPR-30192R,GB-COH-IP30192R,Newport City Homes Housing Association Limited,sameas,Mutual companies
-GB-MPR-7448,GB-COH-RS007448,Sovereign Housing Association Limited,sameas,Mutual companies
-GB-MPR-7530,GB-COH-RS007530,Wakefield and District Housing Limited,sameas,Mutual companies
-GB-MPR-8930,GB-COH-RS008930,Deben Climate Centre Limited,sameas,Mutual companies
-GB-MPR-30062R,GB-COH-IP30062R,Hendon Football Club Supporters Society Limited,sameas,Mutual companies
 GB-MPR-314IP,GB-COH-IP000314,Ashton Centre Development Limited,sameas,Mutual companies
 GB-MPR-314IP,GB-COH-NP000314,Ashton Centre Development Limited,sameas,Mutual companies
+GB-MPR-9518R,GB-COH-RS009518,Royal British Legion (Melbourne) Branch Club Limited,sameas,Mutual companies
 GB-MPR-10002R,GB-COH-IP10002R,Pegswood and District Social Club and Institute Limited,sameas,Mutual companies
 GB-MPR-10004R,GB-COH-IP10004R,Huntington and District Working Men's Club and Institute Limited,sameas,Mutual companies
 GB-MPR-10008R,GB-COH-IP10008R,Origin Housing Limited,sameas,Mutual companies
@@ -164,7 +155,7 @@ GB-MPR-10673R,GB-COH-IP10673R,London Road Labour Working Men's Club and Institut
 GB-MPR-10675R,GB-COH-IP10675R,Old Benwell Village Social Club and Institute Limited,sameas,Mutual companies
 GB-MPR-10680R,GB-COH-IP10680R,Ely (Cardiff) Conservative Club Limited,sameas,Mutual companies
 GB-MPR-10683R,GB-COH-IP10683R,Mudeford and District Men's Club and Institute (Christchurch) Limited,sameas,Mutual companies
-GB-MPR-10684R,GB-COH-RS010684,Royal British Legion Club (Flint) Limited,sameas,Mutual companies
+GB-MPR-10684R,GB-COH-RS010684,The Old Yard Club Society Limited,sameas,Mutual companies
 GB-MPR-10689R,GB-COH-IP10689R,Ilford Allotment Society Limited,sameas,Mutual companies
 GB-MPR-10691R,GB-COH-IP10691R,Paradise Working Men's Club and Institute Limited,sameas,Mutual companies
 GB-MPR-10696R,GB-COH-IP10696R,Coalville Labour Club and Institute Limited,sameas,Mutual companies
@@ -245,6 +236,7 @@ GB-MPR-10981R,GB-COH-IP10981R,United Reformed Church Housing Association Limited
 GB-MPR-10984R,GB-COH-IP10984R,Forest Hall Ex-Servicemens Institute Limited,sameas,Mutual companies
 GB-MPR-10991R,GB-COH-IP10991R,Square Building Trust Limited,sameas,Mutual companies
 GB-MPR-10995R,GB-COH-IP10995R,Cardiff General and Municipal Workers Club and Institute Limited,sameas,Mutual companies
+GB-MPR-10996R,GB-COH-IP10996R,New Deepdale Sports and Social Club Limited,sameas,Mutual companies
 GB-MPR-1099R,GB-COH-IP01099R,East of England Co-operative Society Limited,sameas,Mutual companies
 GB-MPR-109CU,GB-COH-NO000109,Portadown Diamond Credit Union Limited,sameas,Mutual companies
 GB-MPR-109CUS,GB-COH-SP109CUS,Moray Firth Credit Union Limited,sameas,Mutual companies
@@ -2237,6 +2229,7 @@ GB-MPR-19364R,GB-COH-IP19364R,Ruskin Housing Association Limited,sameas,Mutual c
 GB-MPR-19376R,GB-COH-IP19376R,Coed Edeyrn Co-Ownership Housing Society Limited,sameas,Mutual companies
 GB-MPR-19386R,GB-COH-IP19386R,Wordsworth Housing Society Limited,sameas,Mutual companies
 GB-MPR-1938RS,GB-COH-SP1938RS,Key Housing Association Limited,sameas,Mutual companies
+GB-MPR-19399R,GB-COH-IP19399R,Chauncy Foundation Limited,sameas,Mutual companies
 GB-MPR-193CU,GB-COH-NO000193,Circle Credit Union Limited,sameas,Mutual companies
 GB-MPR-193IP,GB-COH-NP000193,Triangle Housing Association Limited,sameas,Mutual companies
 GB-MPR-19401R,GB-COH-IP19401R,Havelok Homes Limited,sameas,Mutual companies
@@ -3661,7 +3654,7 @@ GB-MPR-2453RS,GB-COH-SP2453RS,Orkney Auction Mart Limited,sameas,Mutual companie
 GB-MPR-24541R,GB-COH-IP24541R,New Park Sports and Social Club Limited,sameas,Mutual companies
 GB-MPR-24542R,GB-COH-IP24542R,Coventry Churches (Seventh) Housing Association Limited,sameas,Mutual companies
 GB-MPR-24544R,GB-COH-IP24544R,Brackenwood Housing Association Limited,sameas,Mutual companies
-GB-MPR-24552R,GB-COH-IP24552R,Abbeyfield Oxenford Society Limited,sameas,Mutual companies
+GB-MPR-24552R,GB-COH-IP24552R,Oxenford House Care Home Limited,sameas,Mutual companies
 GB-MPR-2455RS,GB-COH-SP2455RS,Buccleuch Farmers Limited,sameas,Mutual companies
 GB-MPR-24561R,GB-COH-IP24561R,Pluto Housing Co-operative Limited,sameas,Mutual companies
 GB-MPR-24565R,GB-COH-IP24565R,Everton and Lymore Social Club Limited,sameas,Mutual companies
@@ -4312,6 +4305,7 @@ GB-MPR-26766R,GB-COH-IP26766R,The Designers Formation Limited,sameas,Mutual comp
 GB-MPR-26768R,GB-COH-IP26768R,Northway Social Club Limited,sameas,Mutual companies
 GB-MPR-2676W,GB-COH-RS002676,Thorpe Sports and Social Club,sameas,Mutual companies
 GB-MPR-26770R,GB-COH-IP26770R,The Chilterns Dial-a-Ride Limited,sameas,Mutual companies
+GB-MPR-26771R,GB-COH-IP26771R,Green Community Travel,sameas,Mutual companies
 GB-MPR-26781R,GB-COH-IP26781R,Jarvis Homesmiths Limited,sameas,Mutual companies
 GB-MPR-26794R,GB-COH-IP26794R,Rally Social Club Limited,sameas,Mutual companies
 GB-MPR-26796R,GB-COH-IP26796R,Lakeside Social Club Limited,sameas,Mutual companies
@@ -5294,7 +5288,7 @@ GB-MPR-29054R,GB-COH-IP29054R,Egremont Rugby Union Football Club Limited,sameas,
 GB-MPR-29056R,GB-COH-IP29056R,Westminster Housing Co-operative Limited,sameas,Mutual companies
 GB-MPR-29057R,GB-COH-IP29057R,Crystal Palace Supporters' Society Limited,sameas,Mutual companies
 GB-MPR-29060R,GB-COH-IP29060R,Sarsen Farmers Limited,sameas,Mutual companies
-GB-MPR-29061R,GB-COH-IP29061R,Office Friendly Dealer Association Limited,sameas,Mutual companies
+GB-MPR-29061R,GB-COH-IP29061R,BLOC SERVICES GROUP LIMITED,sameas,Mutual companies
 GB-MPR-29063R,GB-COH-IP29063R,Ilkley Rugby Football Club,sameas,Mutual companies
 GB-MPR-29066R,GB-COH-IP29066R,Yeovil Rugby Club Limited,sameas,Mutual companies
 GB-MPR-29067R,GB-COH-IP29067R,Fair Community Housing Services Limited,sameas,Mutual companies
@@ -5926,6 +5920,7 @@ GB-MPR-30052R,GB-COH-IP30052R,Amber Housing Limited,sameas,Mutual companies
 GB-MPR-30057R,GB-COH-IP30057R,Phoenix Community Housing Association (Bellingham and Downham) Limited,sameas,Mutual companies
 GB-MPR-30059R,GB-COH-IP30059R,The Horsham Rugby Sports & Social Club Limited,sameas,Mutual companies
 GB-MPR-30060R,GB-COH-IP30060R,Arena Homes Limited,sameas,Mutual companies
+GB-MPR-30062R,GB-COH-IP30062R,Hendon Football Club Supporters Society and Association Limited,sameas,Mutual companies
 GB-MPR-30066R,GB-COH-IP30066R,Cambridge City Supporters Society Limited,sameas,Mutual companies
 GB-MPR-30068R,GB-COH-IP30068R,South Lincolnshire Homes Limited,sameas,Mutual companies
 GB-MPR-30069R,GB-COH-IP30069R,Midland Heart Limited,sameas,Mutual companies
@@ -5998,6 +5993,7 @@ GB-MPR-30187R,GB-COH-IP30187R,Old Windsor Club Limited,sameas,Mutual companies
 GB-MPR-30189R,GB-COH-IP30189R,Shop at Hesket Newmarket Limited,sameas,Mutual companies
 GB-MPR-30190R,GB-COH-IP30190R,The Brithdir Constitutional Club Limited,sameas,Mutual companies
 GB-MPR-30191R,GB-COH-IP30191R,Public Sector Produce Supplies Limited,sameas,Mutual companies
+GB-MPR-30192R,GB-COH-IP30192R,Tai Hedyn Limited,sameas,Mutual companies
 GB-MPR-30195R,GB-COH-IP30195R,Forest Food Producers Limited,sameas,Mutual companies
 GB-MPR-301IP,GB-COH-IP000301,Newtownards Housing Association Limited,sameas,Mutual companies
 GB-MPR-301IP,GB-COH-NP000301,Newtownards Housing Association Limited,sameas,Mutual companies
@@ -6400,6 +6396,7 @@ GB-MPR-3078R,GB-COH-IP03078R,Enfield Highway Working Men's Club and Institute Li
 GB-MPR-30797R,GB-COH-IP030797,Wickersley Working Men's Social Club Limited,sameas,Mutual companies
 GB-MPR-30798R,GB-COH-IP030798,Tatsfield Village Club Limited,sameas,Mutual companies
 GB-MPR-30799R,GB-COH-IP030799,Senhouse Street Working Men's Club and Institute Limited,sameas,Mutual companies
+GB-MPR-307C,GB-COH-IP00307C,Norfolk First Credit Union Limited,sameas,Mutual companies
 GB-MPR-307IP,GB-COH-NP000307,Co-op Taxis (Belfast) Limited,sameas,Mutual companies
 GB-MPR-307W,GB-COH-RS000307,Wellington Social Club,sameas,Mutual companies
 GB-MPR-30808R,GB-COH-IP030808,Funeral Services Limited,sameas,Mutual companies
@@ -8992,20 +8989,72 @@ GB-MPR-5317R,GB-COH-IP05317R,Hanwell Conservative Club Limited,sameas,Mutual com
 GB-MPR-5318,GB-COH-RS005318,Phoenix Actors Management Coop Limited,sameas,Mutual companies
 GB-MPR-5319,GB-COH-RS005319,Royal British Legion Scotland (East Kilbride) Limited,sameas,Mutual companies
 GB-MPR-531C,GB-COH-IP00531C,Bedford Credit Union Limited,sameas,Mutual companies
+GB-MPR-5321,GB-COH-RS005321,Mara’s Housing Co-operative Limited,sameas,Mutual companies
+GB-MPR-5323,GB-COH-RS005323,Japareloaded Global Community Cooperative Society Limited,sameas,Mutual companies
+GB-MPR-5324,GB-COH-RS005324,Midlands Advanced Practice Forum Limited,sameas,Mutual companies
 GB-MPR-5325R,GB-COH-IP05325R,Woolston and District Allotments Association Limited,sameas,Mutual companies
+GB-MPR-5326,GB-COH-RS005326,Penlee Point Association Limited,sameas,Mutual companies
+GB-MPR-5328,GB-COH-RS005328,Hatfield Shedders Limited,sameas,Mutual companies
+GB-MPR-5329,GB-COH-RS005329,The Bears The Boss Housing Co-operative Limited,sameas,Mutual companies
 GB-MPR-5329R,GB-COH-IP05329R,Ruislip Manor Cottage Society Limited,sameas,Mutual companies
 GB-MPR-532C,GB-COH-IP00532C,Rothersave Credit Union Limited,sameas,Mutual companies
+GB-MPR-5330,GB-COH-RS005330,Bellegrove Social Club Limited,sameas,Mutual companies
+GB-MPR-5331,GB-COH-RS005331,Justice Not Vengeance Limited,sameas,Mutual companies
 GB-MPR-5332R,GB-COH-IP05332R,Tooting Conservative and Unionist Club Limited,sameas,Mutual companies
+GB-MPR-5333,GB-COH-RS005333,Baldock Allotment and Leisure Gardeners' Association Limited,sameas,Mutual companies
 GB-MPR-5333R,GB-COH-IP05333R,East Cowes Liberal Club Limited,sameas,Mutual companies
+GB-MPR-5334,GB-COH-RS005334,Paula’s Housing Co-operative Limited,sameas,Mutual companies
+GB-MPR-5336,GB-COH-RS005336,Kilnhurst Social Club Limited,sameas,Mutual companies
+GB-MPR-5337,GB-COH-RS005337,Bramshott & Liphook Social Club Limited,sameas,Mutual companies
+GB-MPR-5338,GB-COH-RS005338,Crompton Central Working Men's Club 'The Cartshaft' Limited,sameas,Mutual companies
+GB-MPR-5341,GB-COH-RS005341,The Tarring Club Limited,sameas,Mutual companies
+GB-MPR-5343,GB-COH-RS005343,Meadway Allotment Co-operative Society Limited,sameas,Mutual companies
+GB-MPR-5344,GB-COH-RS005344,Little Keills Housing Co-operative Limited,sameas,Mutual companies
 GB-MPR-5344R,GB-COH-IP05344R,Swalwell and District Social Club Limited,sameas,Mutual companies
+GB-MPR-5345,GB-COH-RS005345,Isle of Wight Wood Colliers Limited,sameas,Mutual companies
+GB-MPR-5346,GB-COH-RS005346,Sheffield Co-operative Nursing Services Limited,sameas,Mutual companies
 GB-MPR-5347R,GB-COH-IP05347R,Clown and District Liberal Club Limited,sameas,Mutual companies
+GB-MPR-5348,GB-COH-RS005348,Rowhedge Allotment Association Limited,sameas,Mutual companies
+GB-MPR-5349,GB-COH-RS005349,The Firs Club & Institute Limited,sameas,Mutual companies
 GB-MPR-5349R,GB-COH-IP05349R,Wallsend Coronation Social Club and Institute Limited,sameas,Mutual companies
 GB-MPR-534C,GB-COH-IP00534C,Greenwich & Bexley Credit Union Limited,sameas,Mutual companies
+GB-MPR-5351,GB-COH-RS005351,Energy Local Moretonhampstead Limited,sameas,Mutual companies
+GB-MPR-5353,GB-COH-RS005353,Northampton St. James' Working Men's Club Limited,sameas,Mutual companies
+GB-MPR-5356,GB-COH-RS005356,Carnifolk Limited,sameas,Mutual companies
+GB-MPR-5357,GB-COH-RS005357,The Collective Ownership Society Limited,sameas,Mutual companies
+GB-MPR-5358,GB-COH-RS005358,The Hive Co-Lab Limited,sameas,Mutual companies
+GB-MPR-5359,GB-COH-RS005359,Trendle Co-operative Limited,sameas,Mutual companies
 GB-MPR-535C,GB-COH-IP00535C,Taunton Deane and West Somerset Credit Union Limited,sameas,Mutual companies
+GB-MPR-5360,GB-COH-RS005360,Dialogue Practitioners Co-operative Limited,sameas,Mutual companies
+GB-MPR-5361,GB-COH-RS005361,Whitegate Allotment Association Limited,sameas,Mutual companies
 GB-MPR-5361R,GB-COH-IP05361R,Chesterton Allotment Society Limited,sameas,Mutual companies
+GB-MPR-5362,GB-COH-RS005362,Leabrooks Allotments Association Limited,sameas,Mutual companies
+GB-MPR-5363,GB-COH-RS005363,Freedom Living Housing Co-operative Limited,sameas,Mutual companies
+GB-MPR-5364,GB-COH-RS005364,Glyndwr Energy Local Limited,sameas,Mutual companies
+GB-MPR-5365,GB-COH-RS005365,Meadow View Mutual Home Ownership Society Limited,sameas,Mutual companies
+GB-MPR-5366,GB-COH-RS005366,Raft Housing Co-operative Limited,sameas,Mutual companies
+GB-MPR-5368,GB-COH-RS005368,West Heath Allotment Limited,sameas,Mutual companies
+GB-MPR-5369,GB-COH-RS005369,Energy Local Ashburton Limited,sameas,Mutual companies
+GB-MPR-5371,GB-COH-RS005371,Alnwick Working Men's Club & Institute Limited,sameas,Mutual companies
+GB-MPR-5372,GB-COH-RS005372,LRRHAA Limited,sameas,Mutual companies
 GB-MPR-5372R,GB-COH-IP05372R,New Milton Conservative Club Limited,sameas,Mutual companies
+GB-MPR-5373,GB-COH-RS005373,Dream Home Swansea (My life-My home) Limited,sameas,Mutual companies
+GB-MPR-5375,GB-COH-RS005375,Grayshott Social Club Limited,sameas,Mutual companies
 GB-MPR-5377R,GB-COH-IP05377R,Easington Colliery Club and Institute Limited,sameas,Mutual companies
+GB-MPR-5378,GB-COH-RS005378,Ely Rugby Union Football Club Limited,sameas,Mutual companies
+GB-MPR-5379,GB-COH-RS005379,Interfriends Co-operative Limited,sameas,Mutual companies
 GB-MPR-537C,GB-COH-IP00537C,Chesterfield and North East Derbyshire Credit Union Limited,sameas,Mutual companies
+GB-MPR-5380,GB-COH-RS005380,RBL Collier Row Club Limited,sameas,Mutual companies
+GB-MPR-5382,GB-COH-RS005382,Victory Garden Allotments Limited,sameas,Mutual companies
+GB-MPR-5383,GB-COH-RS005383,Fairacres Road Allotment Association Limited,sameas,Mutual companies
+GB-MPR-5384,GB-COH-RS005384,Surya Community Energy Limited,sameas,Mutual companies
+GB-MPR-5385,GB-COH-RS005385,Drury Road Allotment Association Limited,sameas,Mutual companies
+GB-MPR-5387,GB-COH-RS005387,Nig. Community Union Cooperative Limited,sameas,Mutual companies
+GB-MPR-5388,GB-COH-RS005388,Allium MHOS Limited,sameas,Mutual companies
+GB-MPR-5390,GB-COH-RS005390,Bretherton Energy Co-op Limited,sameas,Mutual companies
+GB-MPR-5391,GB-COH-RS005391,Bron Haul Housing Co-operative Limited,sameas,Mutual companies
+GB-MPR-5394,GB-COH-RS005394,Orkney Boreray Co-operative Limited,sameas,Mutual companies
+GB-MPR-5395,GB-COH-RS005395,Leeds Community Sauna Limited,sameas,Mutual companies
 GB-MPR-53C,GB-COH-IP00053C,West Midlands Punjabee Savings Credit Union Limited,sameas,Mutual companies
 GB-MPR-53CU,GB-COH-NO000053,Newmount Credit Union Limited,sameas,Mutual companies
 GB-MPR-53SA,GB-COH-RS0053SA,Institute of Transport Administration,sameas,Mutual companies
@@ -9748,7 +9797,9 @@ GB-MPR-7444,GB-COH-RS007444,East Thames Limited,sameas,Mutual companies
 GB-MPR-7445,GB-COH-RS007445,Climate Communities Limited,sameas,Mutual companies
 GB-MPR-7446,GB-COH-RS007446,Holbrook Community Society Limited,sameas,Mutual companies
 GB-MPR-7447,GB-COH-RS007447,Grannell Community Energy Limited,sameas,Mutual companies
+GB-MPR-7448,GB-COH-RS007448,Sovereign Network Group,sameas,Mutual companies
 GB-MPR-7449,GB-COH-RS007449,Wirral Community Renewables Limited,sameas,Mutual companies
+GB-MPR-744B,GB-COH-RS000744,Green Capital Building Society,sameas,Mutual companies
 GB-MPR-7450,GB-COH-RS007450,Balcombe Community Pub Limited,sameas,Mutual companies
 GB-MPR-7452,GB-COH-RS007452,The Kings Arms Heaton Friends Limited,sameas,Mutual companies
 GB-MPR-7452R,GB-COH-IP07452R,Usworth and Washington Gardeners Club and Institute Limited,sameas,Mutual companies
@@ -9830,6 +9881,7 @@ GB-MPR-7527,GB-COH-RS007527,Mossley Big Local Limited,sameas,Mutual companies
 GB-MPR-7528,GB-COH-RS007528,Cheshire Peaks & Plains Housing Trust Limited,sameas,Mutual companies
 GB-MPR-7529,GB-COH-RS007529,Karbon Homes Limited,sameas,Mutual companies
 GB-MPR-752C,GB-COH-IP000752,Eden & South Lakeland Credit Union Limited,sameas,Mutual companies
+GB-MPR-7530,GB-COH-RS007530,Vico Homes Limited,sameas,Mutual companies
 GB-MPR-7530R,GB-COH-IP07530R,Morpeth Comrades Social Club and Institute Limited,sameas,Mutual companies
 GB-MPR-7531,GB-COH-RS007531,Stow-on-the-Wold Community Land Trust,sameas,Mutual companies
 GB-MPR-7532,GB-COH-RS007532,Developer Society Limited,sameas,Mutual companies
@@ -10267,6 +10319,7 @@ GB-MPR-7995,GB-COH-RS007995,The Red House Whitchurch Community Pub Limited,samea
 GB-MPR-7997,GB-COH-RS007997,Wick Community Pub Limited,sameas,Mutual companies
 GB-MPR-7997R,GB-COH-IP07997R,New Tupton Allotment Association Limited,sameas,Mutual companies
 GB-MPR-7999,GB-COH-RS007999,Martin Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-79C,GB-COH-IP00079C,Serve and Protect Credit Union Limited,sameas,Mutual companies
 GB-MPR-79CU,GB-COH-NO000079,Claudy Credit Union Limited,sameas,Mutual companies
 GB-MPR-79CUS,GB-COH-IP000079,Grampian Credit Union Limited,sameas,Mutual companies
 GB-MPR-79IP,GB-COH-NP000079,Farmers Agricultural Requirements And Marketing Services Limited,sameas,Mutual companies
@@ -10867,6 +10920,7 @@ GB-MPR-8616R,GB-COH-IP08616R,Wymondham and District Ex Services Social Club Limi
 GB-MPR-8617,GB-COH-RS08617Z,Lancashire Spinners Basketball Club Limited,sameas,Mutual companies
 GB-MPR-8617R,GB-COH-RS008617,Royal British Legion (Belper) Club Limited,sameas,Mutual companies
 GB-MPR-8618,GB-COH-RS008618,Highstone Housing Association Limited,sameas,Mutual companies
+GB-MPR-8619,GB-COH-RS008619,Leigh CBS Limited,sameas,Mutual companies
 GB-MPR-8619R,GB-COH-IP08619R,Colne Legion Limited,sameas,Mutual companies
 GB-MPR-8620,GB-COH-RS008620,Fighting Cocks Community Benefit Society Limited,sameas,Mutual companies
 GB-MPR-8621,GB-COH-RS008621,Churton Community Benefit Society Limited,sameas,Mutual companies
@@ -11154,6 +11208,7 @@ GB-MPR-8922,GB-COH-RS008922,Yardley Community Protection Society Limited,sameas,
 GB-MPR-8927,GB-COH-RS008927,Down to Zero Limited,sameas,Mutual companies
 GB-MPR-8929,GB-COH-RS008929,Positive Community Spaces Old Trafford CBS Limited,sameas,Mutual companies
 GB-MPR-892W,GB-COH-RS000892,Twickenham Club,sameas,Mutual companies
+GB-MPR-8930,GB-COH-RS008930,DCC Suffolk Limited,sameas,Mutual companies
 GB-MPR-8931,GB-COH-RS008931,Seacombe Community Land Trust Limited,sameas,Mutual companies
 GB-MPR-8931R,GB-COH-IP08931R,Maidenhead Ivy Leaf Club Limited,sameas,Mutual companies
 GB-MPR-8932,GB-COH-RS008932,The #BeKind Community Benefit Society Limited,sameas,Mutual companies
@@ -11312,6 +11367,7 @@ GB-MPR-9081,GB-COH-RS009081,Little Thetford Community Enterprise Limited,sameas,
 GB-MPR-9082,GB-COH-RS009082,Druv Homes Limited,sameas,Mutual companies
 GB-MPR-9083,GB-COH-RS009083,Haddenham Community Enterprise Limited,sameas,Mutual companies
 GB-MPR-9084,GB-COH-RS009084,Macduff Community Benefit Society,sameas,Mutual companies
+GB-MPR-9085,GB-COH-RS009085,Allenheads Community Benefit Society Limited,sameas,Mutual companies
 GB-MPR-9085R,GB-COH-IP09085R,Brunswick Club and Institute (Bristol) Limited,sameas,Mutual companies
 GB-MPR-9086,GB-COH-RS009086,Wheelwrights Arms Community Benefits Society limited,sameas,Mutual companies
 GB-MPR-9087,GB-COH-RS009087,Talking Wales Limited,sameas,Mutual companies
@@ -11693,19 +11749,79 @@ GB-MPR-9476R,GB-COH-IP09476R,Shrewton Sports and Social Club Limited,sameas,Mutu
 GB-MPR-9477,GB-COH-RS009477,Elie Kirk Community Enterprise Limited,sameas,Mutual companies
 GB-MPR-9479,GB-COH-RS009479,Tir Pontypridd Cymdeithas Cyfyngedig,sameas,Mutual companies
 GB-MPR-9480,GB-COH-RS009480,CORE Projects Society Limited,sameas,Mutual companies
+GB-MPR-9482,GB-COH-RS009482,Colton Village Community Group Limited,sameas,Mutual companies
 GB-MPR-9482R,GB-COH-IP09482R,Lower Bourne Social Club Limited,sameas,Mutual companies
 GB-MPR-9484,GB-COH-RS009484,Salamander Media Limited,sameas,Mutual companies
 GB-MPR-9484R,GB-COH-IP09484R,South West Ham Labour Club and Institute Limited,sameas,Mutual companies
+GB-MPR-9485,GB-COH-RS009485,eMpower Maldon Limited,sameas,Mutual companies
 GB-MPR-9486,GB-COH-RS009486,Chilbolton Community Land Trust Limited,sameas,Mutual companies
 GB-MPR-9487,GB-COH-RS009487,Bys a Bawd Pawb Cyfyngedig,sameas,Mutual companies
+GB-MPR-9489,GB-COH-RS009489,The Nags Head Community Pub Limited,sameas,Mutual companies
+GB-MPR-9490,GB-COH-RS009490,Sling Community Hub Limited,sameas,Mutual companies
+GB-MPR-9491,GB-COH-RS009491,Lower Tinkers Farm Allotment Association Limited,sameas,Mutual companies
+GB-MPR-9492,GB-COH-RS009492,361 Community Renewables Limited,sameas,Mutual companies
+GB-MPR-9493,GB-COH-RS009493,Bridport Food Matters,sameas,Mutual companies
+GB-MPR-9494,GB-COH-RS009494,The Stoke Prior Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9495,GB-COH-RS009495,Future Portland Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9497,GB-COH-RS009497,Own Our Oak Limited,sameas,Mutual companies
+GB-MPR-9498,GB-COH-RS009498,Two Rivers Housing,sameas,Mutual companies
+GB-MPR-9499,GB-COH-RS009499,The Blyth Spartans Supporters Society Limited,sameas,Mutual companies
 GB-MPR-94CU,GB-COH-NO000094,Lisnaskea Credit Union Limited,sameas,Mutual companies
+GB-MPR-9500,GB-COH-RS009500,Stour Power Community Energy Limited,sameas,Mutual companies
+GB-MPR-9502,GB-COH-RS009502,Community Energy Bury St Edmunds Limited,sameas,Mutual companies
+GB-MPR-9503,GB-COH-RS009503,The National Association of Round Tables Limited,sameas,Mutual companies
+GB-MPR-9505,GB-COH-RS009505,Hands & Land Centre Limited,sameas,Mutual companies
 GB-MPR-9505R,GB-COH-IP09505R,Heavitree and Wonford United Services Club Limited,sameas,Mutual companies
-GB-MPR-9518R,GB-COH-RS009518,Royal British Legion (Melbourne) Branch Club Limited,sameas,Mutual companies
+GB-MPR-9506,GB-COH-RS009506,The Hollybush Draethen Limited,sameas,Mutual companies
+GB-MPR-9508,GB-COH-RS009508,Palestine Centre Glasgow Limited,sameas,Mutual companies
+GB-MPR-9510,GB-COH-RS009510,Ethical Food Collective Taunton Limited,sameas,Mutual companies
+GB-MPR-9511,GB-COH-RS009511,Bridge Hydro Limited,sameas,Mutual companies
+GB-MPR-9512,GB-COH-RS009512,Jigsaw Homes Tameside,sameas,Mutual companies
+GB-MPR-9513,GB-COH-RS009513,Romford Film Trust,sameas,Mutual companies
+GB-MPR-9514,GB-COH-RS009514,Celestial Roasters Limited,sameas,Mutual companies
+GB-MPR-9517,GB-COH-RS009517,Forest of Rosedene Community Land Trust Limited,sameas,Mutual companies
+GB-MPR-9518,GB-COH-RS009518,Inspire North,sameas,Mutual companies
+GB-MPR-9518R,GB-COH-RS09518R,Royal British Legion (Melbourne) Branch Club Limited,sameas,Mutual companies
+GB-MPR-9519,GB-COH-RS009519,Mila,sameas,Mutual companies
+GB-MPR-9520,GB-COH-RS009520,Milton Keynes Community Energy Limited,sameas,Mutual companies
+GB-MPR-9521,GB-COH-RS009521,Wing Community Pub Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9522,GB-COH-RS009522,Llangattock Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9523,GB-COH-RS009523,Curry Mallet and Beercrocombe Community Pub Limited,sameas,Mutual companies
+GB-MPR-9524,GB-COH-RS009524,Ponsanooth Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9525,GB-COH-RS009525,Dorchester on Thames Community Land Trust Limited,sameas,Mutual companies
+GB-MPR-9526,GB-COH-RS009526,Y Wynnes Cyfyngedig,sameas,Mutual companies
+GB-MPR-9527,GB-COH-RS009527,The Golden Lion Community Pub and Hub Limited,sameas,Mutual companies
+GB-MPR-9529,GB-COH-RS009529,Tre Haven Community Land Trust,sameas,Mutual companies
+GB-MPR-9531,GB-COH-RS009531,The EnCO Foundation,sameas,Mutual companies
+GB-MPR-9533,GB-COH-RS009533,Coverack Community Shop Limited,sameas,Mutual companies
 GB-MPR-9533R,GB-COH-IP09533R,Chatham Suburban Social Club and Institute Limited,sameas,Mutual companies
+GB-MPR-9534,GB-COH-RS009534,Nailsworth Charitable Community Land Trust Limited,sameas,Mutual companies
+GB-MPR-9535,GB-COH-RS009535,Portloe Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9536,GB-COH-RS009536,Llanfywio Cyfyngedig,sameas,Mutual companies
+GB-MPR-9537,GB-COH-RS009537,Farmland Trust,sameas,Mutual companies
+GB-MPR-9538,GB-COH-RS009538,Havant Community Energy Limited,sameas,Mutual companies
+GB-MPR-9539,GB-COH-RS009539,unrap community limited,sameas,Mutual companies
+GB-MPR-9540,GB-COH-RS009540,Broughton Community Energy Limited,sameas,Mutual companies
+GB-MPR-9541,GB-COH-RS009541,The Haven Community Inn Limited,sameas,Mutual companies
+GB-MPR-9544,GB-COH-RS009544,Lurgashall Village Shop Limited,sameas,Mutual companies
+GB-MPR-9546,GB-COH-RS009546,Freystrop Community Land Trust Limited,sameas,Mutual companies
+GB-MPR-9547,GB-COH-RS009547,Kings Heath Community Centre Limited,sameas,Mutual companies
+GB-MPR-9549,GB-COH-RS009549,Clun Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9550,GB-COH-RS009550,Lamb Inn Community Society Limited,sameas,Mutual companies
+GB-MPR-9551,GB-COH-RS009551,Powering Tottenham Limited,sameas,Mutual companies
+GB-MPR-9552,GB-COH-RS009552,A Way Prepared,sameas,Mutual companies
 GB-MPR-9553R,GB-COH-IP09553R,Poole Ex-Service Men's War Memorial (Royal British Legion) Club Limited,sameas,Mutual companies
+GB-MPR-9554,GB-COH-RS009554,DYIB Limited,sameas,Mutual companies
+GB-MPR-9555,GB-COH-RS009555,Cooperation Sheffield Limited,sameas,Mutual companies
+GB-MPR-9556,GB-COH-RS009556,The Barn Ledbury Limited,sameas,Mutual companies
 GB-MPR-9557R,GB-COH-RS009557,Royal British Legion Club (Barrow In Furness) Limited,sameas,Mutual companies
+GB-MPR-9558,GB-COH-RS009558,The Ivyhouse Club Limited,sameas,Mutual companies
+GB-MPR-9561,GB-COH-RS009561,Corner Meadow Animal Rehabilitation Limited,sameas,Mutual companies
 GB-MPR-9561R,GB-COH-IP09561R,Southampton Ex-Service Men's Club Limited,sameas,Mutual companies
+GB-MPR-9562,GB-COH-RS009562,Kings Head Community Benefit Society Limited,sameas,Mutual companies
+GB-MPR-9563,GB-COH-RS009563,The Cefn Mably Arms CBS Limited,sameas,Mutual companies
 GB-MPR-9563R,GB-COH-IP09563R,Ferndale Labour Club and Institute Limited,sameas,Mutual companies
+GB-MPR-9564,GB-COH-RS009564,Chorlton Bikes Community Benefit Society Limited,sameas,Mutual companies
 GB-MPR-9566R,GB-COH-RS009566,Royal British Legion Oldbury Club Limited,sameas,Mutual companies
 GB-MPR-9569R,GB-COH-IP09569R,Welsh Agricultural Organisation Society Limited,sameas,Mutual companies
 GB-MPR-9571R,GB-COH-IP09571R,United Services Club (Sale and Ashton) Limited,sameas,Mutual companies
@@ -11800,6 +11916,7 @@ GB-MPR-995W,GB-COH-RS000995,Cromer Social Club,sameas,Mutual companies
 GB-MPR-9962R,GB-COH-IP09962R,Newhaven Social Club Limited,sameas,Mutual companies
 GB-MPR-9964R,GB-COH-RS009964,Swinton Legion Limited,sameas,Mutual companies
 GB-MPR-9969R,GB-COH-IP09969R,Jordans Village Community Store Limited,sameas,Mutual companies
+GB-MPR-9970R,GB-COH-IP09970R,HALL BOWER ATHLETIC CLUB LIMITED,sameas,Mutual companies
 GB-MPR-9979R,GB-COH-IP09979R,Vinery Road Permanent Allotment Society Limited,sameas,Mutual companies
 GB-MPR-997W,GB-COH-RS000997,Tyneside Club,sameas,Mutual companies
 GB-MPR-9982R,GB-COH-IP09982R,Tadcaster Social Club Limited,sameas,Mutual companies
