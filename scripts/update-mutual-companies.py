@@ -71,8 +71,8 @@ order by m."organisationType", mutual_digits;
         by=["organisationType", "mutual_digits", "org_id", "company_id"],
     )
 )
+print(f"Found {len(df)} mutual companies in original query")
 
-filename = os.path.join("relationships", "mutual-companies.csv")
 
 df = (
     df.loc[
@@ -98,12 +98,15 @@ df = (
         by=["org_id_a", "org_id_b"],
     )
 )
+print(f"Found {len(df)} mutual companies after deduplication")
 
-
+filename = os.path.join("relationships", "mutual-companies.csv")
 original_df = pd.read_csv(filename)
 
 df = pd.concat([original_df, df], ignore_index=True).drop_duplicates(
     ["org_id_a", "org_id_b"], keep="last"
 )
+print(f"Found {len(df)} mutual companies to save")
 
 df.to_csv(filename, index=False)
+print(f"Saved to {filename}")
