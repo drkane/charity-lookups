@@ -103,8 +103,10 @@ print(f"Found {len(df)} mutual companies after deduplication")
 filename = os.path.join("relationships", "mutual-companies.csv")
 original_df = pd.read_csv(filename)
 
-df = pd.concat([original_df, df], ignore_index=True).drop_duplicates(
-    ["org_id_a", "org_id_b"], keep="last"
+df = (
+    pd.concat([original_df, df], ignore_index=True)
+    .drop_duplicates(["org_id_a", "org_id_b"], keep="last")
+    .sort_values(by=["org_id_a", "org_id_b"])
 )
 print(f"Found {len(df)} mutual companies to save")
 
