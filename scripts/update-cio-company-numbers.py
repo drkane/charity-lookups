@@ -53,7 +53,7 @@ with open(CIOS_FILE) as a:
         existing_cios[r["company_number"]] = r["charity_number"]
 
 
-engine = sqlalchemy.create_engine(DB_URI)
+engine = sqlalchemy.create_engine(DB_URI, pool_pre_ping=True)
 with engine.connect() as con:
     result = con.execute(
         sqlalchemy.text(
