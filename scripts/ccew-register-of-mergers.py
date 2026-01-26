@@ -1,6 +1,6 @@
 # /// script
 # dependencies = [
-#   "pandas",
+#   "pandas<3",
 #   "requests_html==0.10.0",
 #   "lxml[html_clean]",
 # ]
