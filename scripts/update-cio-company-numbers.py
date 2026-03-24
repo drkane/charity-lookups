@@ -66,42 +66,40 @@ with engine.connect() as con:
         )
     )
     print("Companies in FTC:", result.rowcount)
+    result = [r for r in result if r.CompanyNumber not in existing_cios]
 
-    with open(CIOS_FILE, "w", newline="") as a:
-        writer = csv.DictWriter(a, fieldnames=fields)
-        writer.writeheader()
+with open(CIOS_FILE, "w", newline="") as a:
+    writer = csv.DictWriter(a, fieldnames=fields)
+    writer.writeheader()
 
-        print("Existing CIOS:", len(existing_cios))
-        for coyno, regno in existing_cios.items():
+    print("Existing CIOS:", len(existing_cios))
+    for coyno, regno in existing_cios.items():
+        writer.writerow(
+            {
+                "org_id_a": f"GB-COH-{coyno}",
+                "org_id_b": add_charity_org_id(regno),
+                **SOURCE,
+            }
+        )
+
+    print("Companies to check:", len(result))
+    for k, r in tqdm.tqdm(enumerate(result), total=len(result)):
+        request = requests.get(
+            COMPANY_HOUSE_API_URL.format(r.CompanyNumber),
+            auth=(COMPANY_HOUSE_API_KEY, ""),
+        )
+        try:
+            request.raise_for_status()
+        except requests.exceptions.HTTPError:
+            print(f"Error for {r.CompanyNumber}")
+            continue
+        co = request.json()
+        if "external_registration_number" in co:
             writer.writerow(
                 {
-                    "org_id_a": f"GB-COH-{coyno}",
-                    "org_id_b": add_charity_org_id(regno),
+                    "org_id_a": f"GB-COH-{r.CompanyNumber}",
+                    "org_id_b": add_charity_org_id(co["external_registration_number"]),
                     **SOURCE,
                 }
             )
-
-        result = [r for r in result if r.CompanyNumber not in existing_cios]
-        print("Companies to check:", len(result))
-        for k, r in tqdm.tqdm(enumerate(result), total=len(result)):
-            request = requests.get(
-                COMPANY_HOUSE_API_URL.format(r.CompanyNumber),
-                auth=(COMPANY_HOUSE_API_KEY, ""),
-            )
-            try:
-                request.raise_for_status()
-            except requests.exceptions.HTTPError:
-                print(f"Error for {r.CompanyNumber}")
-                continue
-            co = request.json()
-            if "external_registration_number" in co:
-                writer.writerow(
-                    {
-                        "org_id_a": f"GB-COH-{r.CompanyNumber}",
-                        "org_id_b": add_charity_org_id(
-                            co["external_registration_number"]
-                        ),
-                        **SOURCE,
-                    }
-                )
-            time.sleep(0.5)
+        time.sleep(0.5)
