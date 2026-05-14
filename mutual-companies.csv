@@ -262,6 +262,7 @@ GB-MPR-11091R,GB-COH-IP11091R,Acocks Green Legion Club Limited
 GB-MPR-11096R,GB-COH-IP11096R,Potton and District Club and Institute Limited
 GB-MPR-1109W,GB-COH-RS001109,Weston-Super-Mare Borough Employees Sports Club
 GB-MPR-110CU,GB-COH-NO000110,Court Credit Union Limited
+GB-MPR-110CUS,GB-COH-SP110CUS,Forth Valley Credit Union Limited
 GB-MPR-110IP,GB-COH-NP000110,Belfast Central Mission Housing Association
 GB-MPR-110W,GB-COH-RS000110,Beckermet Reading and Recreation Room
 GB-MPR-11100R,GB-COH-IP11100R,Brynamman Industrial Club and Institute Limited
@@ -4122,7 +4123,7 @@ GB-MPR-26088R,GB-COH-IP26088R,Earthworm Housing Co-operative Limited
 GB-MPR-260IP,GB-COH-NP000260,Orchard County Foods Limited
 GB-MPR-26107R,GB-COH-IP26107R,Coventry Churches (Fifty-Seventh) Housing Association Limited
 GB-MPR-26108R,GB-COH-IP26108R,Coventry Churches (Fifty-Eighth) Housing Association Limited
-GB-MPR-26109R,GB-COH-RS026109,Coventry Churches (Fifty-ninth) Housing Association Limited
+GB-MPR-26109R,GB-COH-RS026109,Eastwood Residents Housing Limited
 GB-MPR-2610W,GB-COH-RS002610,South Redditch Sports and Social Club
 GB-MPR-26115R,GB-COH-IP26115R,Coventry Churches (Sixtieth) Housing Association Limited
 GB-MPR-26118R,GB-COH-IP26118R,First Choice Housing Association Limited
@@ -4671,7 +4672,7 @@ GB-MPR-27876R,GB-COH-IP27876R,Housing Solutions
 GB-MPR-2787RS,GB-COH-SP002787,Edinburgh Iyengar Yoga Community Benefit Society Limited
 GB-MPR-2787W,GB-COH-RS002787,Bryn and Trallwm Sports and Social Club
 GB-MPR-27880R,GB-COH-IP27880R,Gloucester Grove Society Limited
-GB-MPR-27881R,GB-COH-IP27881R,Whitbread Wanderbus Limited
+GB-MPR-27881R,GB-COH-IP27881R,Whitbread Wanderbus
 GB-MPR-27885R,GB-COH-IP27885R,Housing Securities Limited
 GB-MPR-27887R,GB-COH-IP27887R,Mid Beds Link-A-Ride Community Transport Limited
 GB-MPR-2788RS,GB-COH-SP002788,Fair Trade Sports Balls Limited
@@ -5857,7 +5858,7 @@ GB-MPR-29991R,GB-COH-IP29991R,Bromford Home Ownership Limited
 GB-MPR-29992R,GB-COH-IP29992R,Beechdale Community Development Limited
 GB-MPR-29994R,GB-COH-IP29994R,Berry Hill Rugby Football Club Limited
 GB-MPR-29995R,GB-COH-IP29995R,Somerset County Cricket Club Limited
-GB-MPR-29996R,GB-COH-IP29996R,Bromford Flagship Limited
+GB-MPR-29996R,GB-COH-IP29996R,Bromford Flagship LiveWest Limited
 GB-MPR-29997R,GB-COH-IP29997R,Blackheath Football Club Limited
 GB-MPR-29998R,GB-COH-IP29998R,Liverpool Mutual Homes Limited
 GB-MPR-29999R,GB-COH-IP29999R,CIS General Insurance Limited
@@ -6571,7 +6572,7 @@ GB-MPR-31043R,GB-COH-IP031043,Halifax Vandals Rugby Union Football Club Limited
 GB-MPR-31044R,GB-COH-IP031044,Sustainable Boating Association of Rope Ham Limited
 GB-MPR-31046R,GB-COH-IP031046,Carers' Union Limited
 GB-MPR-31048R,GB-COH-IP031048,Ty-Bryn Non Political Workingmen's Club Limited
-GB-MPR-31049R,GB-COH-IP031049,More Leisure Community Trust Limited
+GB-MPR-31049R,GB-COH-IP031049,Leisure Solutions Community Trust
 GB-MPR-31050R,GB-COH-IP031050,Tiverton Rugby Football Club Limited
 GB-MPR-31051R,GB-COH-IP031051,Foxglove Housing Association Limited
 GB-MPR-31052R,GB-COH-IP031052,Bellmoor Community Co-operative Limited
@@ -7930,7 +7931,7 @@ GB-MPR-4122R,GB-COH-IP04122R,Eastern Counties Farmers Limited
 GB-MPR-4123,GB-COH-RS004123,Dunstan Brearley Travel Limited
 GB-MPR-4124,GB-COH-RS004124,Downridge Wells Limited
 GB-MPR-4126,GB-COH-RS004126,Halerest Limited
-GB-MPR-4126R,GB-COH-IP04126R,Evenwood Workmen's Club and Institute Limited
+GB-MPR-4126R,GB-COH-IP04126R,Evenwood Community Sports & Social Club Limited
 GB-MPR-4127,GB-COH-RS004127,Vegan and Awesome Limited
 GB-MPR-4128,GB-COH-RS004128,Brampton Institute Sports and Social Club Limited
 GB-MPR-4129,GB-COH-RS004129,Journeys Direct Limited
@@ -9144,17 +9145,46 @@ GB-MPR-5495,GB-COH-RS005495,Millisle Royal British Legion Club Limited
 GB-MPR-5496,GB-COH-RS005496,Mother Deer Housing Co-operative Limited
 GB-MPR-5496R,GB-COH-IP05496R,Westhouses Workmen's Social Club and Institute Limited
 GB-MPR-5497,GB-COH-RS005497,Flicks Allotments Limited
+GB-MPR-5498,GB-COH-RS005498,Harrogate Londesborough Club Limited
 GB-MPR-549C,GB-COH-IP00549C,Cambridge City Credit Union Limited
 GB-MPR-549W,GB-COH-RS000549,Nelson Poultry Club
 GB-MPR-54BEN,GB-COH-RS000054,Anglo-Akanthou Aid Society
 GB-MPR-54CU,GB-COH-NO000054,Newry Credit Union Limited
 GB-MPR-54CUS,GB-COH-RS00054S,Greater Springburn Credit Union Limited
+GB-MPR-5500,GB-COH-RS005500,Sunnybank (Clydach) Workmen's Club Limited
+GB-MPR-5501,GB-COH-RS005501,Grimethorpe Working Men's Club & Institute Limited
+GB-MPR-5502,GB-COH-RS005502,East Barking Allotment & Horticultural Association Limited
+GB-MPR-5503,GB-COH-RS005503,Caldergold Health & Fitness Limited
+GB-MPR-5505,GB-COH-RS005505,The Authors’ Collective Co-operative Limited
+GB-MPR-5506,GB-COH-RS005506,Vivan Coop Limited
+GB-MPR-5508,GB-COH-RS005508,Zipptaxis Limited
+GB-MPR-5509,GB-COH-RS005509,Monk’s Park Working Men’s Club Limited
+GB-MPR-5510,GB-COH-RS005510,Float Artists Limited
+GB-MPR-5511,GB-COH-RS005511,Spikes Bridge Moorings Limited
+GB-MPR-5512,GB-COH-RS005512,Pensions Mutual Limited
+GB-MPR-5513,GB-COH-RS005513,HHS Allotments Limited
 GB-MPR-5513R,GB-COH-IP05513R,Burton Latimer Conservative and Unionist Club Limited
+GB-MPR-5514,GB-COH-RS005514,Broadfold Allotment Association Limited
 GB-MPR-5514R,GB-COH-IP05514R,Ninian Stuart Conservative and Unionist Working Men's Club Limited
+GB-MPR-5515,GB-COH-RS005515,Beech Close Cooperative Limited
+GB-MPR-5516,GB-COH-RS005516,Rushden Athletic Club and Institute Limited
 GB-MPR-5516R,GB-COH-IP05516R,Hadleigh Co-Partnership Housing Society Limited
+GB-MPR-5519,GB-COH-RS005519,Royal British Legion Scotland Club (Kirkwall) Limited
 GB-MPR-5519R,GB-COH-IP05519R,Appleby and District Conservative Club Limited
+GB-MPR-5520,GB-COH-RS005520,Sunnybank Allotment Limited
+GB-MPR-5522,GB-COH-RS005522,Siena Co-operative Limited
+GB-MPR-5523,GB-COH-RS005523,Heptonstall Allotment & Garden Society Limited
 GB-MPR-5523R,GB-COH-IP05523R,Haughton-Le-Skerne Club and Institute Limited
+GB-MPR-5524,GB-COH-RS005524,Figures and Forms Co-operative Limited
 GB-MPR-5526R,GB-COH-IP05526R,Clacton Conservative Club Limited
+GB-MPR-5527,GB-COH-RS005527,Association for Innate Health Limited
+GB-MPR-5533,GB-COH-RS005533,East London Clay Collective Limited
+GB-MPR-5534,GB-COH-RS005534,VisionVest Circle Co-operative Society Limited
+GB-MPR-5536,GB-COH-RS005536,Witton Allotment Association Limited
+GB-MPR-5537,GB-COH-RS005537,Granville Park Allotments Association Limited
+GB-MPR-5542,GB-COH-RS005542,Dalavich Water Limited
+GB-MPR-5544,GB-COH-RS005544,Hamble Club Limited
+GB-MPR-5545,GB-COH-RS005545,Feniscliffe Allotments Association Limited
 GB-MPR-5547R,GB-COH-IP05547R,Cople and District Small Holders Co-operative Society Limited
 GB-MPR-5550R,GB-COH-IP05550R,Horbury Conservative Club Limited
 GB-MPR-5552R,GB-COH-IP05552R,Borough of Tynemouth Unionist Club Limited
@@ -9203,7 +9233,7 @@ GB-MPR-5807R,GB-COH-IP05807R,St Mawes Co-Partnership Housing Society Limited
 GB-MPR-580C,GB-COH-IP00580C,Newport Credit Union Limited
 GB-MPR-5822R,GB-COH-IP05822R,Kenilworth Conservative and Unionist Club Limited
 GB-MPR-583C,GB-COH-IP00583C,Rainbow Saver Anglia Credit Union Limited
-GB-MPR-5842R,GB-COH-IP05842R,sunniside and district workmen's social club and institute limited
+GB-MPR-5842R,GB-COH-IP05842R,sunniside and district sports and community social club and institute limited
 GB-MPR-5846R,GB-COH-IP05846R,Newtown Social Club Trowbridge Limited
 GB-MPR-5849R,GB-COH-IP05849R,New Kyo Constitutional Club and Institute Limited
 GB-MPR-5850R,GB-COH-IP05850R,Kelvedon Conservative Club Limited
@@ -9911,7 +9941,7 @@ GB-MPR-7494,GB-COH-RS007494,The Cheddar Challenger Limited
 GB-MPR-7495,GB-COH-RS007495,Nature's Nutrition Wellbeing Limited
 GB-MPR-7496R,GB-COH-IP07496R,Bearpark and District Workmen's Club and Institute Limited
 GB-MPR-7497,GB-COH-RS007497,Wilmington Community Land Trust Limited
-GB-MPR-7498,GB-COH-RS007498,Southwold and Waveney Valley Regeneration Society Limited
+GB-MPR-7498,GB-COH-RS007498,The Old Hospital (Southwold) Limited
 GB-MPR-7498R,GB-COH-IP07498R,Ipswich Social Club Limited
 GB-MPR-7499,GB-COH-RS007499,Yarlington Housing Group
 GB-MPR-74C,GB-COH-IP00074C,Undeb Credyd Plaid Cymru Credit Union Limited
@@ -10113,7 +10143,7 @@ GB-MPR-7679,GB-COH-RS007679,Nottingham's Homeless Housing Limited
 GB-MPR-7681,GB-COH-RS007681,Supporters Direct Scotland Limited
 GB-MPR-7682,GB-COH-RS007682,Hale Village Community Land Trust Limited
 GB-MPR-7683,GB-COH-RS007683,Bridgend Farmhouse
-GB-MPR-7684,GB-COH-RS007684,Bolton at Home Limited
+GB-MPR-7684,GB-COH-RS007684,Be One Homes
 GB-MPR-7685,GB-COH-RS007685,Sale Sports Club
 GB-MPR-7686,GB-COH-RS007686,Clarion Housing Association Limited
 GB-MPR-7687,GB-COH-RS007687,Northwich Victoria Football Club (CBS) Limited
@@ -10487,7 +10517,7 @@ GB-MPR-8107R,GB-COH-IP08107R,Stoke Works and District Allotments and Small Holdi
 GB-MPR-8108,GB-COH-RS008108,St. John’s Cultural and Heritage Centre Limited
 GB-MPR-8108R,GB-COH-IP08108R,Torpoint and District Comrades United Services Club Limited
 GB-MPR-8109,GB-COH-RS008109,Faversham Community Land Trust Limited
-GB-MPR-8112,GB-COH-RS008112,Chelmer Housing Partnership Limited
+GB-MPR-8112,GB-COH-RS008112,Delta Housing Limited
 GB-MPR-8113,GB-COH-RS008113,Fontmell Magna Community Land Trust Limited
 GB-MPR-8114,GB-COH-RS008114,South Devon Railway Limited
 GB-MPR-8115R,GB-COH-IP08115R,Cinderford and District Soldiers and Sailors Club Limited
@@ -10766,7 +10796,7 @@ GB-MPR-8389,GB-COH-RS008389,Powerhug Community Benefit Society Limited
 GB-MPR-8390,GB-COH-RS008390,Gosfield Community Shop Limited
 GB-MPR-8391,GB-COH-RS008391,Good Food Exeter Limited
 GB-MPR-8392R,GB-COH-IP08392R,Brigg and District Service Men's Club Limited
-GB-MPR-8393,GB-COH-RS008393,Parasol Homes Limited
+GB-MPR-8393,GB-COH-RS008393,IronOak Homes
 GB-MPR-8395,GB-COH-RS008395,Craven Community Land Trust Limited
 GB-MPR-8396,GB-COH-RS008396,Loch Ness Hub Limited
 GB-MPR-8399,GB-COH-RS008399,1867 Supporters Society Limited
@@ -11220,7 +11250,7 @@ GB-MPR-8863,GB-COH-RS008863,Cockfield Village Group Limited
 GB-MPR-8863R,GB-COH-IP08863R,Haywards Heath United Services Club Limited
 GB-MPR-8865,GB-COH-RS08865Z,The Black Hair Society Limited
 GB-MPR-8865R,GB-COH-RS008865,The Charter Club (Goole) Limited
-GB-MPR-8866,GB-COH-RS008866,OX10 Community Centre Limited
+GB-MPR-8866,GB-COH-RS008866,Wallingford Community Land Trust Limited
 GB-MPR-8867,GB-COH-RS008867,Ilfracombe Community Land Trust Limited
 GB-MPR-8868,GB-COH-RS008868,Pro31 Limited
 GB-MPR-8869,GB-COH-RS008869,The Bluebirds Supporters Society Limited
@@ -11917,7 +11947,7 @@ GB-MPR-9584,GB-COH-RS009584,Grampound Community Pub Limited
 GB-MPR-9585,GB-COH-RS009585,Chinnor Community Land Trust Limited
 GB-MPR-9586,GB-COH-RS009586,Bromsgrove District Housing Trust Limited
 GB-MPR-9587,GB-COH-RS009587,Everton Library Trust Limited
-GB-MPR-9588,GB-COH-RS009588,Freshford Community Farm Limited
+GB-MPR-9588,GB-COH-RS009588,Pear Tree Community Farm Limited
 GB-MPR-9589,GB-COH-RS009589,Tyneside Community Energy Limited
 GB-MPR-958W,GB-COH-RS000958,Maesglas Sports and Social Club
 GB-MPR-9590,GB-COH-RS009590,Colerne Social Club Limited
@@ -12027,6 +12057,7 @@ GB-MPR-9685,GB-COH-RS009685,The Citizens Supporters’ Society Limited
 GB-MPR-9686,GB-COH-RS009686,The Railway Inn Llanpumsaint CBS Limited
 GB-MPR-9687,GB-COH-RS009687,Kings Cliffe Club Limited
 GB-MPR-9689,GB-COH-RS009689,The Railway Bell Community Benefit Society Limited
+GB-MPR-9691,GB-COH-RS009691,The Acton Alliance Limited
 GB-MPR-9692,GB-COH-RS009692,Vegan Fife Limited
 GB-MPR-9694,GB-COH-RS009694,Power Up Casnewydd Limited
 GB-MPR-9695,GB-COH-RS009695,The Sun Inn Community Pub Limited
@@ -12036,17 +12067,57 @@ GB-MPR-9698,GB-COH-RS009698,Glasgow Autonomous Space Limited
 GB-MPR-96BEN,GB-COH-RS000096,Sellindge and District Playing Fields Benevolent Society
 GB-MPR-96CU,GB-COH-NO000096,Mourne-Derg Credit Union Limited
 GB-MPR-9700,GB-COH-RS009700,Fox & Hounds Inn Community Benefit Society Limited
+GB-MPR-9703,GB-COH-RS009703,The Donheads' Community Benefit Society Limited
+GB-MPR-9704,GB-COH-RS009704,Egham Eco-Hub
+GB-MPR-9705,GB-COH-RS009705,Catcott Community Benefit Hub Limited
+GB-MPR-9706,GB-COH-RS009706,Procure Housing Limited
+GB-MPR-9707,GB-COH-RS009707,Diamond Vault Community Benefit Society Limited
+GB-MPR-9708,GB-COH-RS009708,Evolve TRGL Limited
+GB-MPR-9709,GB-COH-RS009709,London Gardens Network Limited
 GB-MPR-970W,GB-COH-RS000970,Riverside Social Club and Institute
+GB-MPR-9713,GB-COH-RS009713,Birmingham Mind Homes Limited
+GB-MPR-9714,GB-COH-RS009714,Cross Guns Community Benefit Society Limited
 GB-MPR-9714R,GB-COH-IP09714R,Friern Barnet Central Allotment Holders Association Limited
+GB-MPR-9715,GB-COH-RS009715,Society for Student Co-op Housing
+GB-MPR-9716,GB-COH-RS009716,Semington Community Benefit Society Limited
+GB-MPR-9717,GB-COH-RS009717,Hwb Beulah Cyfyngedig
+GB-MPR-9718,GB-COH-RS009718,Notts County Supporters Trust Limited
+GB-MPR-9719,GB-COH-RS009719,Cabo Trafalgar Limited
 GB-MPR-9720R,GB-COH-IP09720R,Tanfield lea Working Mens and Community Club Limited
+GB-MPR-9721,GB-COH-RS009721,Rex Batten Allotments Limited
+GB-MPR-9723,GB-COH-RS009723,The Cottage Tavern Community Benefit Society Limited
+GB-MPR-9724,GB-COH-RS009724,Vale Yard Studios Limited
+GB-MPR-9725,GB-COH-RS009725,Brightlingsea Late Night Shopping Limited
 GB-MPR-9725R,GB-COH-IP09725R,Barry Dock Working Men's Liberal Club and Institute Limited
+GB-MPR-9727,GB-COH-RS009727,Weobley Community Benefit Society Limited
+GB-MPR-9728,GB-COH-RS009728,Crich Parish Community Energy Limited
+GB-MPR-9729,GB-COH-RS009729,Cambridge Retrofit Hub Charitable Community Benefit Society Limited
+GB-MPR-9730,GB-COH-RS009730,St Dogmaels Road Growers Limited
+GB-MPR-9731,GB-COH-RS009731,Ealing Community Energy Limited
+GB-MPR-9733,GB-COH-RS009733,The Housing Finance Holding Corporation Limited
+GB-MPR-9734,GB-COH-RS009734,Shoscombe Community Benefit Society Limited
+GB-MPR-9735,GB-COH-RS009735,Village Blue Sky Limited
+GB-MPR-9736,GB-COH-RS009736,Salvus Homes Limited
 GB-MPR-9736R,GB-COH-IP09736R,Ferndale Conservative Club Limited
 GB-MPR-9738R,GB-COH-IP09738R,Ferndale Imperial Conservative Working Men's Club Limited
 GB-MPR-973R,GB-COH-IP00973R,Chelmsford Star Co-operative Society Limited
+GB-MPR-9740,GB-COH-RS009740,Bedfordshire Energy Together Limited
+GB-MPR-9741,GB-COH-RS009741,Otley Development Trust Limited
+GB-MPR-9744,GB-COH-RS009744,Tyddewi Community Land Trust Limited
+GB-MPR-9745,GB-COH-RS009745,Nugent Homes Limited
+GB-MPR-9746,GB-COH-RS009746,An Scoil Chois Claí Limited
+GB-MPR-9747,GB-COH-RS009747,The Natural Society Limited
+GB-MPR-9748,GB-COH-RS009748,Solar For Health Limited
+GB-MPR-9749,GB-COH-RS09749Z,Cambridgeshire Community Energy Society Limited
 GB-MPR-9749R,GB-COH-RS009749,Royal British Legion Hayling Island Club Limited
 GB-MPR-974RS,GB-COH-SP0974RS,Kilsyth Co-operative Society Limited
+GB-MPR-9750,GB-COH-RS009750,Church Leigh Community Pub Scheme Limited
 GB-MPR-9750R,GB-COH-IP09750R,Turners Allotment Association (Taunton) Limited
+GB-MPR-9751,GB-COH-RS009751,Morwenstow Community Shop Limited
+GB-MPR-9752,GB-COH-RS009752,Claremont Community Hub and Taproom Limited
 GB-MPR-9752R,GB-COH-IP09752R,Littleborough Trades Hall Club and Institute Limited
+GB-MPR-9755,GB-COH-RS009755,Ayr United Supporters Association Limited
+GB-MPR-9756,GB-COH-RS009756,Citizen Solar Limited
 GB-MPR-9763R,GB-COH-IP09763R,Brierfield Liberal Club Limited
 GB-MPR-9765R,GB-COH-IP09765R,Lane End Community Club limited
 GB-MPR-9767R,GB-COH-IP09767R,Cottingley Conservative Club Limited
