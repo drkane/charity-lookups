@@ -11,9 +11,9 @@ jobs:
     environment: Data update
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -27,7 +27,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update by GitHub Action" -a)
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v1.3.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
