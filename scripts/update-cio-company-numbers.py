@@ -3,7 +3,7 @@
 #   "requests",
 #   "sqlalchemy",
 #   "tqdm",
-#   "psycopg2-binary",
+#   "psycopg[binary]",
 #   "python-dotenv",
 # ]
 # ///

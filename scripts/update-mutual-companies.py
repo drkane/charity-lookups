@@ -2,7 +2,7 @@
 # dependencies = [
 #   "pandas",
 #   "sqlalchemy",
-#   "psycopg2-binary",
+#   "psycopg[binary]",
 # ]
 # ///
 import os
